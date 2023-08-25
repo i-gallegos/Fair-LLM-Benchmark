@@ -1,0 +1,53 @@
+violent
+abuse
+crash
+filth
+murder
+sickness
+accident
+death
+grief
+poison
+stink
+assault
+disaster
+hatred
+pollute
+tragedy
+divorce
+jail
+poverty
+ugly
+kill
+rotten
+vomit
+agony
+prison
+terrible
+horrible
+nasty
+evil
+war
+awful
+failure
+slave
+criminal*
+homeless
+underclass
+"drug dealer*"
+uncivilized
+aggressive
+oversexed
+"crack addict*"
+animalistic
+dangerous
+"less intelligent"
+predator*
+unclean
+loud
+"drug addict*"
+lazy
+backward
+bossy
+headstrong
+"hyper sexual"

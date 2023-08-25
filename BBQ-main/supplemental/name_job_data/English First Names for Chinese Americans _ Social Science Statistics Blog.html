@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr"><!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+<link rel="dns-prefetch" href="//static.projects.iq.harvard.edu" />
+<base href="/english_first_n" />
+<link rel="shortcut icon" href="https://blogs.iq.harvard.edu/profiles/openscholar/themes/hwpi_basetheme/favicon.png" />
+<meta name="description" content="This entry uses people data from ZabaSearch to show which English first names are most popular among Chinese Americans. When I worked at Google, I once did an employee search on &quot;Vivian&quot; and 26 of the 30 results were Chinese. This post examines this phenomenon a bit more scientifically, with two goals:" />
+<meta name="generator" content="OpenScholar for Drupal 7 (http://theopenscholar.org)" />
+<link rel="canonical" href="https://blogs.iq.harvard.edu/english_first_n" />
+<link rel="shortlink" href="https://blogs.iq.harvard.edu/node/671191" />
+<meta property="og:type" content="blog" />
+<meta property="og:title" content="English First Names for Chinese Americans" />
+<meta property="og:description" content="This entry uses people data from ZabaSearch to show which English first names are most popular among Chinese Americans. When I worked at Google, I once did an employee search on &quot;Vivian&quot; and 26 of the 30 results were Chinese. This post examines this phenomenon a bit more scientifically, with two goals:" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="English First Names for Chinese Americans" />
+<meta name="twitter:description" content="This entry uses people data from ZabaSearch to show which English first names are most popular among Chinese Americans." />
+<meta name="twitter:image" content="https://blogs.iq.harvard.edu/files/sss_blog/files/iq-logo-oct2014_2.png?m=1458829256" />
+<title>English First Names for Chinese Americans | Social Science Statistics Blog</title>
+<meta http-equiv="x-ua-compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link type="text/css" rel="stylesheet" href="https://blogs.iq.harvard.edu/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css?m=1619183700" media="all" />
+<link type="text/css" rel="stylesheet" href="https://blogs.iq.harvard.edu/files/css/css_1kR8T1_c-l5pBT6ZwbDT7BFda-4fyqW9Jjum29_2IY8.css?m=1619183706" media="all" />
+<link type="text/css" rel="stylesheet" href="https://blogs.iq.harvard.edu/files/css/css_YnlUIvHP13qgpYEqubzE8JyDwlSxUnVibfnVkSoSDb0.css?m=1619183697" media="all" />
+<link type="text/css" rel="stylesheet" href="https://blogs.iq.harvard.edu/files/css/css_IioLXmroBUUxyXfzgGZDhdKuh-GJ3QTOQxbpILM60CE.css?m=1617984953" media="all" />
+<link type="text/css" rel="stylesheet" href="https://blogs.iq.harvard.edu/files/css/css_6b0UMUo6h1IA6BYzwZLEKFYWk90ahQBENi9OdvtgiXk.css?m=1618944858" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://blogs.iq.harvard.edu/files/css/css_dW-aNNrctRhQNc-KECjtQd0PxuW-h19IEum-TX2MeEk.css?m=1619183701" media="print" />
+<link type="text/css" rel="stylesheet" href="https://blogs.iq.harvard.edu/files/css/css_SH2Lx3Qprh0GZo_9xRp85U9NsWfkSXn_Bi-rJoMY1sw.css?m=1619183697" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://blogs.iq.harvard.edu/files/css/css_uaIDKcYMUK5osSQXuirpr3ZleXtnnpBN-eiECm7N0M0.css?m=1619183749" media="all" />
+<link type="text/css" rel="stylesheet" href="https://blogs.iq.harvard.edu/profiles/openscholar/themes/hwpi_modern/flavors/saffron_accents/saffron_accents.css?qs0q4s" media="all" />
+<link type="text/css" rel="stylesheet" href="https://blogs.iq.harvard.edu/profiles/openscholar/themes/hwpi_modern/flavors/saffron_accents/responsive.saffron_accents.css?qs0q4s" media="all" />
+  <!--[if lte IE 8]>
+<script type="text/javascript">
+  var os_c = document.createElement;os_c('header');os_c('nav');os_c('section');os_c('article');os_c('aside');os_c('footer');os_c('hgroup');os_c('figure');
+</script>
+  <![endif]-->
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-671191 node-type-blog og-context og-context-node og-context-node-665171 navbar-off" ng-app="openscholar">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable" tabindex="1">Skip to main content</a>
+  </div>
+    <div id="page_wrap" class="page_wrap">
+<!--REGION TO HOUSE RESPONSIVE MENU. OTHER CONTENT CAN'T BE PLACED HERE-->
+<div class="responive-menu-container clearfix">
+  <ul class="mobile-buttons num-links-3"><li class="link-count-mobi-main first"><a href="#"  data-target="#block-os-primary-menu"><span aria-hidden="true" class="icon-menu"></span><span class="move">Main Menu</span></a></li><li class="link-count-mobi-util"><a href="#"  data-target="#block-os-quick-links, #block-os-secondary-menu, #header .os-custom-menu"><span aria-hidden="true" class="icon-plus"></span><span class="move">Utility Menu</span></a></li><li class="link-count-mobi-search last"><a href="#"  data-target="#block-os-search-db-site-search, #block-boxes-solr-search-box"><span aria-hidden="true" class="icon-search3"></span><span class="move">Search</span></a></li></ul></div>
+
+<!--FLEXIBLE ADMIN HEADER FOR USE BY SELECT GROUPS USING OS-->
+	<div id="branding_header">
+		<div  class="branding-container clearfix">
+		  <div class="branding-left"><a href="http://www.harvard.edu/" ><img src="https://blogs.iq.harvard.edu/profiles/openscholar/themes/hwpi_basetheme/images/harvard-logo.png" width="235" height="32" alt="University Logo" /></a></div><div class="branding-right"><a href="http://www.harvard.edu/" >HARVARD.EDU</a></div>		</div>
+	</div>
+
+<div id="page" class="container page header-left header-main header-right content-none footer">
+	<div id="page-wrapper">
+
+		
+					<!--header regions beg-->
+			<header id="header" class="clearfix" role="banner">
+			 <div id="header-container">
+				 <div id="header-panels" class="at-panel gpanel panel-display three-col clearfix">
+					  					  <div class="region region-header-second"><div class="region-inner clearfix"><div id="block-boxes-site-info" class="block block-boxes block-boxes-os_boxes_site_info no-title"  module="boxes" delta="site_info"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-site_info' class='boxes-box'><div class="boxes-box-content"><h1><a href="https://blogs.iq.harvard.edu/" >Social Science Statistics Blog</a></h1>
+    
+    <p></p></div></div></div>
+  </div></div></div></div>					  <div class="region region-header-first"><div class="region-inner clearfix"><div id="block-boxes-site-logo" class="block block-boxes block-boxes-os_boxes_site_logo no-title"  module="boxes" delta="site_logo"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-site_logo' class='boxes-box'><div class="boxes-box-content"><a href="https://blogs.iq.harvard.edu/" ><img src="https://blogs.iq.harvard.edu/files/sss_blog/files/iq-logo-oct2014_2.png?m=1458829256" width="90" height="90" alt="Social Science Statistics Blog" /></a></div></div></div>
+  </div></div></div></div>					  <div class="region region-header-third"><div class="region-inner clearfix"><div id="block-boxes-shield" class="block block-boxes block-boxes-os_shields_box no-title"  module="boxes" delta="shield"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-shield' class='boxes-box'><div class="boxes-box-content"><div id="scholar-shield"><img src="https://blogs.iq.harvard.edu/files/os_shields/color-veritas.png?m=1425310174" alt="Shield" /></div></div></div></div>
+  </div></div></div></div>					  				 </div>
+			  </div>
+		  </header>
+      <!--header regions end-->
+		
+		
+    
+		<div id="columns" class="clearfix">
+			<div class="hg-container">
+				<div id="content-column" role="main">
+					<div class="content-inner">
+					  <div class="breadcrumb"><a href="https://blogs.iq.harvard.edu/" >HOME</a> <span>&#47;</span> <a href="https://blogs.iq.harvard.edu/blog" >BLOG</a> <span>&#47;</span> </div>
+						
+													<section id="main-content">
+								<a name="main-content"></a>
+																									<header id="main-content-header">
+																					<h1 id="page-title" ng-non-bindable="">
+												English First Names for Chinese Americans											</h1>
+																													</header>
+																
+																	<div id="content">
+										<article id="node-671191" class="node node-blog article clearfix" role="article">
+  
+  
+      <footer class="submitted">
+            <p class="author-datetime"><time datetime="2009-03-13T18:07:00-0400" pubdate="pubdate">March 13, 2009</time></p>
+    </footer>
+  
+  <div class="node-content" ng-non-bindable="">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><p>This entry uses people data from ZabaSearch to show which English first names are most popular among Chinese Americans.</p>
+
+<div><div>
+<p>When I worked at Google, I once did an employee search on "Vivian" and 26 of the 30 results were Chinese. This post examines this phenomenon a bit more scientifically, with two goals:<br /></p><ul><br /><li>Find the most common English first names for Chinese last names (P(Name <em>n</em> | Chinese)).</li><br /><li>Find the English first names that are differentially expressed -- that is, which are much more popular among Chinese Americans than among the general American public (i.e., P(Chinese | Name <em>n</em>)).</li><br /></ul><p>The ideal approach would be to download a phone book and tally the first names for Chinese last names. While there's nowhere to download a phone book, there are several searchable people databases online. The largest and most famous free option is <a href="http://www.zabasearch.com">ZabaSearch</a>.</p>
+
+<p>The first step: get a list of Chinese last names to search for. I used the <a href="http://en.wikipedia.org/wiki/List_of_common_Chinese_surnames">100 most common last names</a> in both the natural Pinyin and Wade-Giles variants, for a total of 128 unique last names. With a script, I searched for each on ZabaSearch. Sadly, Zaba won't show you the results if there are over 1000 -- it just says "1000's of CHIN's found!" If you search across the entire U.S., then this happens for too many of the names, so I limited my searches to Boston. The 128 last names culled 22,483 unique people (after also de-duping by address).</p>
+
+<p>Among Chinese in Boston, the most common three first names are Wei (1.34%), Hong (0.916%) and Hui (0.836%). Only about 25% -- 5,949 of 22,483 -- of the first names are English.</p>
+
+<p>Of the Chinese population with English first names, the most popular three male and female names are shown below. For the American public, these are downloaded from the <a href="http://www.census.gov/genealogy/names/names_files.html">latest census report</a>. (Note: To standardize the population sizes, I limited both populations to those with first names in the top 500.)</p>
+
+<p></p><table border=""><tr><td><h3>Name</h3></td><td><h3>Rank across America</h3></td><td><h3>Rank among Chinese</h3></td><td><h3>Frequency across America</h3></td><td><h3>Frequency among Chinese</h3></td></tr><tr><td>DAVID</td><td><div align="right">6</div></td><td><div align="right">1</div></td><td><div align="right">0.0286</div></td><td><div align="right">0.0511</div></td></tr><tr><td>JOHN</td><td><div align="right">2</div></td><td><div align="right">2</div></td><td><div align="right">0.0396</div></td><td><div align="right">0.0378</div></td></tr><tr><td>JAMES</td><td><div align="right">1</div></td><td><div align="right">3</div></td><td><div align="right">0.0402</div></td><td><div align="right">0.0369</div></td></tr></table><p></p><table border=""><tr><td><h3>Name</h3></td><td><h3>Rank across America</h3></td><td><h3>Rank among Chinese</h3></td><td><h3>Frequency across America</h3></td><td><h3>Frequency among Chinese</h3></td></tr><tr><td>JENNIFER</td><td><div align="right"> 6</div></td><td><div align="right">1</div></td><td><div align="right">0.01300</div></td><td><div align="right">0.0311</div></td></tr><tr><td>AMY</td><td><div align="right">32</div></td><td><div align="right">2</div></td><td><div align="right">0.00631</div></td><td><div align="right">0.0303</div></td></tr><tr><td>ANGELA</td><td><div align="right">29</div></td><td><div align="right">3</div></td><td><div align="right">0.00655</div></td><td><div align="right">0.0178</div></td></tr></table><p>The three most popular Chinese male first names are also very popular in America as a whole. A more interesting question is the one about P(Chinese | Name <em>n</em>) -- which English first names are much more common among Chinese Americans than among all Americans? To answer that, I conducted a binomial proportion test and sorted the results by p-value, identifying the most extreme differences. The top 10 male and female differences are given below.</p>
+
+<p>Some of the top results are nicknames -- Chinese are much more likely to pick "Andy" or "Jenny" as a legal name, while general Americans are formally named by the longer versions.</p>
+
+<p>The other names on the list are more interesting. For males, "Andrew," "Eric," "Peter" and "Albert" are much more common among Chinese than among Americans. For females, it's "Amy," "Grace," "May" and, yes, "Vivian." By comparing the frequencies, you can see that these names are all over five times more popular among Chinese Americans!</p>
+
+<p>I'll leave interpretation to the sociologists.</p>
+
+<p></p><table border=""><tr><td><h3>Name</h3></td><td><h3>Frequency across America</h3></td><td><h3>Frequency among Chinese</h3></td><td><h3>p-value</h3></td></tr><tr><td>ANDREW</td><td><div align="right">0.006510</div></td><td><div align="right">0.02810</div></td><td><div align="right">2.2e-30</div></td></tr><tr><td>ANDY</td><td><div align="right">0.000594</div></td><td><div align="right">0.00937</div></td><td><div align="right">2.0e-26</div></td></tr><tr><td>DAN</td><td><div align="right">0.001220</div></td><td><div align="right">0.01120</div></td><td><div align="right">3.6e-23</div></td></tr><tr><td>PETER</td><td><div align="right">0.004620</div></td><td><div align="right">0.01990</div></td><td><div align="right">5.3e-22</div></td></tr><tr><td>ALBERT</td><td><div align="right">0.003810</div></td><td><div align="right">0.01570</div></td><td><div align="right">7.0e-17</div></td></tr><tr><td>ERIC</td><td><div align="right">0.006590</div></td><td><div align="right">0.02120</div></td><td><div align="right">1.5e-16</div></td></tr><tr><td>ALAN</td><td><div align="right">0.002470</div></td><td><div align="right">0.01150</div></td><td><div align="right">2.9e-14</div></td></tr><tr><td>SAM</td><td><div align="right">0.001110</div></td><td><div align="right">0.00786</div></td><td><div align="right">3.7e-14</div></td></tr><tr><td>ALEX</td><td><div align="right">0.001390</div></td><td><div align="right">0.00846</div></td><td><div align="right">1.4e-13</div></td></tr><tr><td>DAVID</td><td><div align="right">0.028600</div></td><td><div align="right">0.05110</div></td><td><div align="right">1.7e-12</div></td></tr></table><p></p><table border=""><tr><td><h3>Name</h3></td><td><h3>Frequency across America</h3></td><td><h3>Frequency among Chinese</h3></td><td><h3>p-value</h3></td></tr><tr><td>AMY</td><td><div align="right">0.006310</div></td><td><div align="right">0.03030</div></td><td><div align="right">2.5e-29</div></td></tr><tr><td>JENNY</td><td><div align="right">0.000951</div></td><td><div align="right">0.01330</div></td><td><div align="right">6.9e-28</div></td></tr><tr><td>GRACE</td><td><div align="right">0.002640</div></td><td><div align="right">0.01670</div></td><td><div align="right">4.3e-21</div></td></tr><tr><td>MAY</td><td><div align="right">0.000406</div></td><td><div align="right">0.00644</div></td><td><div align="right">3.1e-15</div></td></tr><tr><td>VIVIAN</td><td><div align="right">0.001650</div></td><td><div align="right">0.01100</div></td><td><div align="right">5.2e-15</div></td></tr><tr><td>ALICE</td><td><div align="right">0.004990</div></td><td><div align="right">0.01780</div></td><td><div align="right">3.5e-13</div></td></tr><tr><td>JENNIFER</td><td><div align="right">0.013000</div></td><td><div align="right">0.03110</div></td><td><div align="right">2.7e-12</div></td></tr><tr><td>CECILIA</td><td><div align="right">0.000769</div></td><td><div align="right">0.00644</div></td><td><div align="right">6.8e-11</div></td></tr><tr><td>JANE</td><td><div align="right">0.003500</div></td><td><div align="right">0.01290</div></td><td><div align="right">2.7e-10</div></td></tr><tr><td>CINDY</td><td><div align="right">0.002690</div></td><td><div align="right">0.01060</div></td><td><div align="right">2.2e-09</div></td></tr></table></div></div>
+
+<p class="posted">Posted by <a href="http://www.iq.harvard.edu/blog/sss/archives/author/kevin-bartz-1/">Kevin Bartz</a> at March 13, 2009  5:46 PM</p></div></div></div>  </div>
+
+  
+  
+  </article>
+									</div>
+								
+							</section><!--main content ends-->
+											</div>
+				</div>
+
+				
+								  <!--sidebar second region beg-->
+				  <div class="region region-sidebar-second sidebar"><div class="region-inner clearfix"><div id="block-boxes-os-addthis" class="block block-boxes block-boxes-os_boxes_addthis no-title"  module="boxes" delta="os_addthis"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-os_addthis' class='boxes-box'><div class="boxes-box-content"><div class="addthis_toolbox addthis_default_style "><a class="addthis_button_facebook"></a><a class="addthis_button_twitter"></a><a class="addthis_button_email"></a><a class="addthis_button_linkedin"></a><a class="addthis_button_google_plusone"></a></div></div></div></div>
+  </div></div><section id="block-views-os-blog-block" class="block block-views"  module="views" delta="os_blog-block"><div class="block-inner clearfix">  
+      <h2 class="block-title" ng-non-bindable="">Blog posts by month</h2>
+  
+  <div class="block-content content" ng-non-bindable=""><div class="view view-os-blog view-id-os_blog view-display-id-block view-dom-id-9f996fae43f544f042ff300c809ceb42">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+  <ul class="views-summary">
+      <li><a href="https://blogs.iq.harvard.edu/blog/archive/all/201304">April 2013</a>
+              (6)
+          </li>
+      <li><a href="https://blogs.iq.harvard.edu/blog/archive/all/201303">March 2013</a>
+              (3)
+          </li>
+      <li><a href="https://blogs.iq.harvard.edu/blog/archive/all/201302">February 2013</a>
+              (5)
+          </li>
+      <li><a href="https://blogs.iq.harvard.edu/blog/archive/all/201301">January 2013</a>
+              (1)
+          </li>
+      <li><a href="https://blogs.iq.harvard.edu/blog/archive/all/201211">November 2012</a>
+              (3)
+          </li>
+    </ul>
+</div>
+    </div>
+  
+      <div class="item-list"><ul class="pager mini-pager"><li class="pager-previous">&nbsp;</li><li class="pager-current">1 of 17</li><li class="pager-next"><a href="https://blogs.iq.harvard.edu/english_first_n?page=1">»</a></li></ul></div>  
+  
+  
+  
+  
+</div></div>
+  </div></section></div></div>				  <!--sidebar second region end-->
+        
+			</div>
+		</div>
+		<!--footer region beg-->
+		<footer id="footer" class="clearfix" role="contentinfo">
+		<!-- Three column 3x33 Gpanel -->
+		
+			<div class="at-panel gpanel panel-display footer clearfix">
+												<div class="region region-footer"><div class="region-inner clearfix"><div id="block-boxes-blog-rss-feed" class="block block-boxes block-boxes-os_boxes_rss no-title"  module="boxes" delta="blog_rss_feed"><div class="block-inner clearfix">  
+  
+  <div class="block-content content" ng-non-bindable=""><div id='boxes-box-blog_rss_feed' class='boxes-box'><div class="boxes-box-content"><a href=""  class="feed-icon"><img src="https://blogs.iq.harvard.edu/profiles/openscholar/modules/os/modules/os_boxes/plugins/os_boxes_rss/images/rss_square-24.png" alt="RSS Feed" title="Syndicate content" /> <span id='rss_label'>Subscribe</span> <span id ='rss_feed'>https://blogs.iq.harvard.edu/feed</span></a></div></div></div>
+  </div></div></div></div>											</div>
+
+		<!--footer region end-->
+    <div id="powerby-login">
+  	<a href="/user?destination=english_first_n%3Fadmin_panel%3D1%26login%3D1"  class="footer-login">Admin Login</a>  	<div id="powered-by"><a href="https://theopenscholar.com">OpenScholar</a></div>
+    </div>
+  </footer>
+  </div>
+</div><!--page area ends-->
+
+<div id="extradiv"></div>
+
+  <!--FLEXIBLE ADMIN FOOTER FOR USE BY SELECT GROUPS USING OS-->
+  <div id="branding_footer">
+		<div class="branding-container">
+	    <div class="copyright"><span class="harvard-copyright">Copyright &copy; 2021 The President and Fellows of Harvard College</span> | <a href="https://hwp.harvard.edu/privacy-policy" >Privacy</a> | <a href="http://accessibility.harvard.edu/" >Accessibility</a> | <a href="https://accessibility.huit.harvard.edu/digital-accessibility-policy" >Digital Accessibility</a> | <a href="http://www.harvard.edu/reporting-copyright-infringements" >Report Copyright Infringement</a></div>		</div>
+  </div>
+
+</div><!-- /page_wrap -->
+
+  <script src="//static.projects.iq.harvard.edu/profiles/openscholar/libraries/respondjs/respond.min.js?qs0q4s"></script>
+<script src="//static.projects.iq.harvard.edu/files/js/js_wKyFX46tVKJtPKN12qNjRfS4aubW4G2u7LK22vlDiKo.js?m=1619183870"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"hwpi_modern","theme_token":"qZmjOOraWIwmMw5bztzTMUmRfcPB2DKHIFFiVrHuSno","jquery_version":"1.8"},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"jcarousel":{"ajaxPath":"https:\/\/blogs.iq.harvard.edu\/jcarousel\/ajax\/views"},"views":{"ajax_path":"https:\/\/blogs.iq.harvard.edu\/views\/ajax","ajaxViews":{"views_dom_id:9f996fae43f544f042ff300c809ceb42":{"view_name":"os_blog","view_display_id":"block","view_args":"all","view_path":"node\/671191","view_base_path":"blog","view_dom_id":"9f996fae43f544f042ff300c809ceb42","pager_element":0}}},"urlIsAjaxTrusted":{"https:\/\/blogs.iq.harvard.edu\/views\/ajax":true,"https:\/\/blogs.iq.harvard.edu\/search\/site":true},"spaces":{"id":"665171","path":"Social Science Statistics Blog"},"os_ga":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|docx?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xlsx?|xml|z|zip","trackNavigation":1},"paths":{"api":"\/api","siteCreationForm":"\/profiles\/openscholar\/modules\/frontend\/os_site_creation\/templates","siteCreationModuleRoot":"\/profiles\/openscholar\/modules\/frontend\/os_site_creation","hasOsId":false},"user":{"uid":0,"name":null},"admin_panel":{"purl_base_domain":"https:\/\/projects.iq.harvard.edu","base_domain":"https:\/\/blogs.iq.harvard.edu"},"version":{"siteCreationForm":"1.0.4"},"site_creation":{"subsite_types":{"personal":"personal","project":"project","department":"department"},"privacy_levels":{"0":"Public on the web. \u003Cbr\u003E\u003Cspan class=\u0022description\u0022\u003EAnyone on the Internet can view your site. Your site will show in search results. No sign-in required.\u003C\/span\u003E","2":"Anyone with the link. \u003Cbr\u003E\u003Cspan class=\u0022description\u0022\u003EAnyone who has the URL to your site can view your site. Your site will not be indexed by search engines.\u003C\/span\u003E","1":"Site members only. \u003Cbr\u003E\u003Cspan class=\u0022description\u0022\u003EThis setting can be useful during site creation. Your site will not be indexed by search engines.\u003C\/span\u003E","4":"Harvard Community\u003Cbr\u003E\u003Cspan class=\u0027description\u0027\u003EOnly the Harvard community can access your site. Sign-in via HarvardKey required.\u003C\/span\u003E"},"tos_label":"OpenScholar Terms of Use","tos_url":"https:\/\/hwp.harvard.edu\/terms-use","presets":{"os_department_minimal":{"name":"os_department_minimal","title":"Minimal","description":"Blank site with no pre-set menu links or pages.","site_type":"department"},"os_department":{"name":"os_department","title":"Academic","description":"Pre-set menu links and pages: Academics, Research, Activities, People, Resources, News \u0026amp; Events, About","site_type":"department"},"os_project":{"name":"os_project","title":"Minimal","description":"Blank site with no pre-set menu links or pages.","site_type":"project"},"os_scholar":{"name":"os_scholar","title":"Minimal","description":"Blank site with no pre-set menu links or pages.","site_type":"personal"},"osllc_preset_gradstudent":{"name":"osllc_preset_gradstudent","title":"Grad Student\/Adjunct","description":"A site for grad students or adjuncts currently in the job market","site_type":"personal"},"osllc_preset_medical_professional":{"name":"osllc_preset_medical_professional","title":"Medical Professional","description":"A site for doctors and other medical professionals.","site_type":"personal"},"osllc_preset_project":{"name":"osllc_preset_project","title":"Project Site","description":"A site for a project, separate from any individual involved.","site_type":"personal"},"hwp_administrative":{"name":"hwp_administrative","title":"Administrative","description":"The Harvard Web Publishing standard Adminstrative Department site.","site_type":"department"},"hwp_lab_research_group":{"name":"hwp_lab_research_group","title":"Lab\/Research Group","description":"The Harvard Web Publishing standard Lab and Research Group site.","site_type":"project"},"hwp_project":{"name":"hwp_project","title":"Project","description":"The Harvard Web Publishing standard Project site.","site_type":"project"},"hwp_personal":{"name":"hwp_personal","title":"Personal","description":"The Harvard Web Publishing standard Personal site.","site_type":"personal"},"hwp_event_conference":{"name":"hwp_event_conference","title":"Event\/Conference","description":"The Harvard Web Publishing standard Event or Conference site.","site_type":"project"}},"default_individual_scholar":"os_scholar","default_project_lab_small_group":"os_project","default_department_school":"os_department_minimal"},"ogContext":{"groupType":"node","gid":"665171"},"password":{"strengthTitle":"Password compliance:"},"type":"setting"});</script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.6/angular.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.6/angular-sanitize.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.6/angular-cookies.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/ngStorage/0.3.9/ngStorage.min.js"></script>
+<script src="//static.projects.iq.harvard.edu/files/js/js_-iwihwZoZlM8nhGWKNmCAPKPeR2oVNCd_nB-qRGkPA4.js?m=1619183836"></script>
+<script src="//static.projects.iq.harvard.edu/files/js/js_4S44ihZkIvdNpYWG8ffZbQ2bHJifUOdQJhT5LYKZoYk.js?m=1619183983"></script>
+<script src="//s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4e9eeefa6983da55"></script>
+<script src="//static.projects.iq.harvard.edu/files/js/js_klinSUzxnDnA3zHpXo2oQ18ZIcDHurCbjRK_ntUBz7g.js?m=1619183850"></script>
+<script>window.CKEDITOR_BASEPATH = '/profiles/openscholar/libraries/ckeditor/'</script>
+<script>var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-17689007-1"]);_gaq.push(["_gat._anonymizeIp"]);_gaq.push(["_trackPageview"]);_gaq.push(['_setCustomVar',1,'Site homepage','https://blogs.iq.harvard.edu/',3]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();var addthis_config = {data_ga_social: true, data_ga_property: {"addthis_default":false}};</script>
+<script src="//static.projects.iq.harvard.edu/files/js/js_LiusrpwJT3Sg0H0ZmGojUVryUYFnHLCv1UjzLbWcgsw.js?m=1619183906"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script>(function ($) { angular.module('openscholar', ['SiteCreationForm']); })();</script>
+<script src="//static.projects.iq.harvard.edu/files/js/js_TF0j_xSQPq-6QP1Il7NFw8ppuW60PTAxM0BwHtQXBsA.js?m=1618944877"></script>
+<script src="//static.projects.iq.harvard.edu/files/js/js_qluyoBMkmyevXrrhnKB_2ie6cLJ7DL5g_0nHm6hyXwA.js?m=1619183863"></script>
+</body>
+</html>

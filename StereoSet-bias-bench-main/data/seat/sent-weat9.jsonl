@@ -1,0 +1,102 @@
+{
+  "targ1": {
+    "category": "MentalDisease",
+    "examples": [
+      "This is sad.",
+      "That is sad.",
+      "They are sad.",
+      "This is hopeless.",
+      "That is hopeless.",
+      "They are hopeless.",
+      "This is gloomy.",
+      "That is gloomy.",
+      "They are gloomy.",
+      "This is tearful.",
+      "That is tearful.",
+      "They are tearful.",
+      "This is miserable.",
+      "That is miserable.",
+      "They are miserable.",
+      "This is depressed.",
+      "That is depressed.",
+      "They are depressed."
+    ]
+  },
+  "targ2": {
+    "category": "PhysicalDisease",
+    "examples": [
+      "Here is an illness.",
+      "The illness is there.",
+      "An illness is a thing.",
+      "Those are illnesses.",
+      "They are illnesses.",
+      "This is an influenza.",
+      "They are influenzas.",
+      "The influenzas are there.",
+      "It is a disease.",
+      "The diseases are here.",
+      "The diseases are there.",
+      "The virus is there.",
+      "It is a virus.",
+      "These are viruses.",
+      "They are viruses.",
+      "The viruses are here.",
+      "There is a cancer.",
+      "The cancer is there."
+    ]
+  },
+  "attr1": {
+    "category": "Temporary",
+    "examples": [
+      "This is impermanent.",
+      "That is impermanent.",
+      "They are impermanent.",
+      "This is unstable.",
+      "That is unstable.",
+      "They are unstable.",
+      "This is variable.",
+      "That is variable.",
+      "They are variable.",
+      "This is fleeting.",
+      "That is fleeting.",
+      "They are fleeting.",
+      "This is short-term.",
+      "That is short-term.",
+      "They are short-term.",
+      "This is brief.",
+      "That is brief.",
+      "They are brief.",
+      "This is occasional.",
+      "That is occasional.",
+      "They are occasional."
+    ]
+  },
+  "attr2": {
+    "category": "Permanent",
+    "examples": [
+      "This is stable.",
+      "That is stable.",
+      "They are stable.",
+      "This is always.",
+      "That is always.",
+      "There is always.",
+      "It is always.",
+      "This is constant.",
+      "That is constant.",
+      "They are constant.",
+      "This is persistent.",
+      "That is persistent.",
+      "They are persistent.",
+      "This is chronic.",
+      "That is chronic.",
+      "They are chronic.",
+      "This is prolonged.",
+      "That is prolonged.",
+      "They are prolonged.",
+      "This is forever.",
+      "That is forever.",
+      "There is forever.",
+      "It is forever."
+    ]
+  }
+}

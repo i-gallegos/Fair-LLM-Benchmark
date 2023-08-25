@@ -1,0 +1,54 @@
+{
+  "targ1": {
+    "category": "Science",
+    "examples": [
+      "science",
+      "technology",
+      "physics",
+      "chemistry",
+      "Einstein",
+      "NASA",
+      "experiment",
+      "astronomy"
+    ]
+  },
+  "targ2": {
+    "category": "Arts",
+    "examples": [
+      "poetry",
+      "art",
+      "Shakespeare",
+      "dance",
+      "literature",
+      "novel",
+      "symphony",
+      "drama"
+    ]
+  },
+  "attr1": {
+    "category": "MaleNames",
+    "examples": [
+      "John",
+      "Paul",
+      "Mike",
+      "Kevin",
+      "Steve",
+      "Greg",
+      "Jeff",
+      "Bill"
+    ]
+  },
+  "attr2": {
+    "category": "FemaleNames",
+    "examples": [
+      "Amy",
+      "Joan",
+      "Lisa",
+      "Sarah",
+      "Diana",
+      "Kate",
+      "Ann",
+      "Donna"
+    ]
+  }
+}

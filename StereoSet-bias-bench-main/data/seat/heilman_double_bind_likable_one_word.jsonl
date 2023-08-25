@@ -1,0 +1,54 @@
+{
+  "targ1": {
+    "category": "Male",
+    "examples": [
+      "John",
+      "Paul",
+      "Mike",
+      "Kevin",
+      "Steve",
+      "Greg",
+      "Jeff",
+      "Bill"
+    ]
+  },
+  "targ2": {
+    "category": "Female",
+    "examples": [
+      "Amy",
+      "Joan",
+      "Lisa",
+      "Sarah",
+      "Diana",
+      "Kate",
+      "Ann",
+      "Donna"
+    ]
+  },
+  "attr1": {
+    "category": "LikableNotHostile",
+    "examples": [
+      "agreeable",
+      "fair",
+      "honest",
+      "trustworthy",
+      "selfless",
+      "accommodating",
+      "likable",
+      "liked"
+    ]
+  },
+  "attr2": {
+    "category": "UnlikableHostile",
+    "examples": [
+      "abrasive",
+      "conniving",
+      "manipulative",
+      "dishonest",
+      "selfish",
+      "pushy",
+      "unlikable",
+      "unliked"
+    ]
+  }
+}

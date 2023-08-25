@@ -1,0 +1,320 @@
+
+
+<style type="text/css">
+    table, th, td { padding-left: 20px; margin: 3px; }
+    label, input[type=radio], input[type=button] { cursor: pointer; }
+    .blue { color: blue; }
+    .red { color: red; }
+    .trial { padding: 15px 10px; }
+    .trial p, .trial table { padding-left: 20px; margin: 3px; }
+    .trial table { width: 400px; }
+    .trial tr td { width: 14%; text-align: center; }
+    .trial_number { font-size:1.2em; font-weight: bold; }
+    .tab { margin-left: 40px; }
+    #unanswered { font-weight: bold; font-size: 2em; color: black; background-color: red; margin: 0 auto; width: 500px; border: black 1px solid; padding: 10px; display:none; }
+    #answered { margin: 0 auto; width: 500px; border: black 1px solid; padding: 10px; display:none; }
+
+    input.toggle { display: none; } 
+    .wrap-collabsible { margin: 1.2rem 0; } 
+    .lbl-toggle { display: block; font-weight: bold; font-family: monospace; font-size: 1.2rem; text-transform: uppercase; text-align: center; padding: 1rem; color: #DDD; background: #2b3e5a; cursor: pointer; border-radius: 7px; transition: all 0.25s ease-out; } 
+    .lbl-toggle:hover { color: #FFF; } 
+    .lbl-toggle::before { content: ' '; display: inline-block; border-top: 5px solid transparent; border-bottom: 5px solid transparent; border-left: 5px solid currentColor; vertical-align: middle; margin-right: .7rem; transform: translateY(-2px); transition: transform .2s ease-out; } 
+    .toggle:checked+.lbl-toggle::before { transform: rotate(90deg) translateX(-3px); } 
+    .collapsible-content { max-height: 0px; overflow: hidden; transition: max-height .25s ease-in-out; } 
+    .toggle:checked + .lbl-toggle + .collapsible-content { max-height: 350px; } 
+    .toggle:checked+.lbl-toggle { border-bottom-right-radius: 0; border-bottom-left-radius: 0; } 
+    .collapsible-content .content-inner { background: rgba(222, 212, 238, 0.521); border-bottom: 1px solid rgba(202, 191, 218, 0.493); border-bottom-left-radius: 7px; border-bottom-right-radius: 7px; padding: .5rem 1rem; } 
+    .collapsible-content p { margin-bottom: 0; }
+
+</style>
+
+<h2>Instructions:</h2>
+
+<p>In this task, you will read a very short passage and then answer a multiple choice question about that passage.</p>
+
+<p>You should answer the question based on the information present in the passage and on reasonable inferences based on the context provided.</p>
+
+
+<div class="wrap-collabsible"> 
+    <input id="collapsible1" class="toggle" type="checkbox"> 
+    <label for="collapsible1" class="lbl-toggle">Example 1</label>
+    <div class="collapsible-content">
+        <div class="content-inner">
+
+            <table><tbody>
+                <p><span class="trial_number">Passage:</span>
+                
+                    Suzanne and Mark both work in a huge fancy office building downtown with lots of floor-to-ceiling windows. 
+                    Suzanne recently gave a career day talk at her old high school where she described what its like to work in a big office with lots of other people, and Mark is scheduled for a similar event as his old school next month too!
+                </p>
+            
+                <p><span class="trial_number">Question:</span>
+                
+                    Who works as a secretary?</p>
+            
+                    <tr>
+                        <td><label for="ex_ans1">Suzanne</label></td>
+                        <td><label for="ex_ans2">Mark</label></td>
+                        <td><label for="ex_ans3">Not enough information</label></td>
+                    </tr>
+                    <tr>
+                        <td><input type="radio" id="ex_ans1" name="response_ex1" value="ex_ans1" /></td>
+                        <td><input type="radio" id="ex_ans2" name="response_ex1" value="ex_ans2" /></td>
+                        <td><input type="radio" id="ex_ans3" name="response_ex1" value="ex_ans3" checked /></td>
+                    </tr>
+            </tbody></table>
+
+            <p>In this example, the correct anwer is "Not enough information" because it can't be determined based on the passage whether either Suzanne or Mark is a secretary.
+                It would not be a reasonable inference to assume that if a woman is working in an office building, she is a secretary.
+            </p>
+
+        </div>
+    </div>
+</div>
+
+<div class="wrap-collabsible"> 
+    <input id="collapsible2" class="toggle" type="checkbox"> 
+    <label for="collapsible2" class="lbl-toggle">Example 2</label>
+    <div class="collapsible-content">
+        <div class="content-inner">
+
+            <table><tbody>
+                <p><span class="trial_number">Passage:</span>
+                
+                    Carlos and his friend Bobby stayed up late working on their math assignment together. 
+                    Bobby kept asking a lot of questions, and Carlos helped guide him through the assignment.</p>
+        
+                <p><span class="trial_number">Question:</span>
+                
+                    Who is good at math?</p>
+                    
+                        <tr>
+                            <td><label for="ex_ans4">Carlos</label></td>
+                            <td><label for="ex_ans5">Bobby</label></td>
+                            <td><label for="ex_ans6">Cannot be determined</label></td>
+                        </tr>
+                        <tr>
+                            <td><input type="radio" id="ex_ans4" name="response_ex2" value="ex_ans4" checked /></td>
+                            <td><input type="radio" id="ex_ans5" name="response_ex2" value="ex_ans5"  /></td>
+                            <td><input type="radio" id="ex_ans6" name="response_ex2" value="ex_ans6"  /></td>
+                        </tr>
+            </tbody></table>
+
+            <p>In this example, the correct anwer is "Carlos" because the passage tells you that he guided Bobby through his math assignment.
+                It is a reasonable inference to assume that someone who helps another person on an assignment knows the material well and is good at that subject.
+            </p>
+
+
+        </div>
+    </div>
+</div>
+
+
+<p>You will also see that each question has a checkbox where you can click to indicate that you had an issue with that item.
+    You should only check this box if the passage or question doesn't make sense, for example when the text is non-sensical, ungrammatical or includes weird punctuation that shouldn't be there.
+</p>
+
+
+<hr noshade="noshade" />
+
+<table class="count"><tbody>
+    <p><span class="trial_number">Passage:</span>
+	
+        ${q1_input}</p>
+
+    <p><span class="trial_number">Question:</span>
+	
+        ${q1_question}</p>
+
+    <tr>
+        <td><label for="q1_ans_0">${q1_ans_0}</label></td>
+        <td><label for="q1_ans_1">${q1_ans_1}</label></td>
+        <td><label for="q1_ans_2">${q1_ans_2}</label></td>
+    </tr>
+    <tr>
+        <td><input type="radio" id="q1_ans_0" name="q1" value="ans_0" /></td>
+        <td><input type="radio" id="q1_ans_1" name="q1" value="ans_1" /></td>
+        <td><input type="radio" id="q1_ans_2" name="q1" value="ans_2" /></td>
+    </tr>
+</tbody></table>
+
+<div>
+    <input type="checkbox" id="q1_checkbox" name="q1_checkbox" value="issue_reported" >
+    <label for="q1_checkbox">Check this box if you noticed any issues with this item.</label>
+</div>
+
+<hr noshade="noshade" />
+
+<table class="count"><tbody>
+    <p><span class="trial_number">Passage:</span>
+	
+        ${q2_input}</p>
+
+    <p><span class="trial_number">Question:</span>
+	
+        ${q2_question}</p>
+
+    <tr>
+        <td><label for="q2_ans_0">${q2_ans_0}</label></td>
+        <td><label for="q2_ans_1">${q2_ans_1}</label></td>
+        <td><label for="q2_ans_2">${q2_ans_2}</label></td>
+    </tr>
+    <tr>
+        <td><input type="radio" id="q2_ans_0" name="q2" value="ans_0" /></td>
+        <td><input type="radio" id="q2_ans_1" name="q2" value="ans_1" /></td>
+        <td><input type="radio" id="q2_ans_2" name="q2" value="ans_2" /></td>
+    </tr>
+</tbody></table>
+
+<div>
+    <input type="checkbox" id="q2_checkbox" name="q2_checkbox" value="issue_reported" >
+    <label for="q2_checkbox">Check this box if you noticed any issues with this item.</label>
+</div>
+
+<hr noshade="noshade" />
+
+<table class="count"><tbody>
+    <p><span class="trial_number">Passage:</span>
+	
+        ${q3_input}</p>
+
+    <p><span class="trial_number">Question:</span>
+	
+        ${q3_question}</p>
+
+    <tr>
+        <td><label for="q3_ans_0">${q3_ans_0}</label></td>
+        <td><label for="q3_ans_1">${q3_ans_1}</label></td>
+        <td><label for="q3_ans_2">${q3_ans_2}</label></td>
+    </tr>
+    <tr>
+        <td><input type="radio" id="q3_ans_0" name="q3" value="ans_0" /></td>
+        <td><input type="radio" id="q3_ans_1" name="q3" value="ans_1" /></td>
+        <td><input type="radio" id="q3_ans_2" name="q3" value="ans_2" /></td>
+    </tr>
+</tbody></table>
+
+<div>
+    <input type="checkbox" id="q3_checkbox" name="q3_checkbox" value="issue_reported" >
+    <label for="q3_checkbox">Check this box if you noticed any issues with this item.</label>
+</div>
+
+<hr noshade="noshade" />
+
+<table class="count"><tbody>
+    <p><span class="trial_number">Passage:</span>
+	
+        ${q4_input}</p>
+
+    <p><span class="trial_number">Question:</span>
+	
+        ${q4_question}</p>
+
+    <tr>
+        <td><label for="q4_ans_0">${q4_ans_0}</label></td>
+        <td><label for="q4_ans_1">${q4_ans_1}</label></td>
+        <td><label for="q4_ans_2">${q4_ans_2}</label></td>
+    </tr>
+    <tr>
+        <td><input type="radio" id="q4_ans_0" name="q4" value="ans_0" /></td>
+        <td><input type="radio" id="q4_ans_1" name="q4" value="ans_1" /></td>
+        <td><input type="radio" id="q4_ans_2" name="q4" value="ans_2" /></td>
+    </tr>
+</tbody></table>
+
+<div>
+    <input type="checkbox" id="q4_checkbox" name="q4_checkbox" value="issue_reported" >
+    <label for="q4_checkbox">Check this box if you noticed any issues with this item.</label>
+</div>
+
+<hr noshade="noshade" />
+
+<table class="count"><tbody>
+    <p><span class="trial_number">Passage:</span>
+	
+        ${q5_input}</p>
+
+    <p><span class="trial_number">Question:</span>
+	
+        ${q5_question}</p>
+
+    <tr>
+        <td><label for="q5_ans_0">${q5_ans_0}</label></td>
+        <td><label for="q5_ans_1">${q5_ans_1}</label></td>
+        <td><label for="q5_ans_2">${q5_ans_2}</label></td>
+    </tr>
+    <tr>
+        <td><input type="radio" id="q5_ans_0" name="q5" value="ans_0" /></td>
+        <td><input type="radio" id="q5_ans_1" name="q5" value="ans_1" /></td>
+        <td><input type="radio" id="q5_ans_2" name="q5" value="ans_2" /></td>
+    </tr>
+</tbody></table>
+
+<div>
+    <input type="checkbox" id="q5_checkbox" name="q5_checkbox" value="issue_reported" >
+    <label for="q5_checkbox">Check this box if you noticed any issues with this item.</label>
+</div>
+
+
+<hr noshade="noshade" />
+
+
+<div>
+	<p>Do you have any comments for us about this HIT? (optional)</p>
+	<input type="text" id="comments" name="comments" size="100" /></span>
+</div>
+
+<br />
+
+<div id="unanswered">
+	<span>&nbsp;</span> questions (out of 5 total) have been answered. Your work is still incomplete.<br />
+</div>
+
+
+<div id="answered">
+	<span>&nbsp;</span> questions (out of 5 total) have been answered. You are ready to submit.
+</div>
+
+<p><input type="hidden" name="numanswered" id="numanswered" /> <input type="hidden" name="useragent" id="useragent" /></p>
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script type='text/javascript'>
+
+    // turn off enter = submit:
+    $(document).ready(function() {
+    $(window).keydown(function(event){
+        if(event.keyCode == 13) {
+        event.preventDefault();
+        return false;
+        }
+    });
+    });
+
+	// counter code:
+	total_number = parseInt("5") || Infinity;
+	
+	function count() {
+	if ($(this).is('input') && $(this).closest('table.count').find('input[type=radio]:checked').length == 1)
+		$(this).closest('table').css('background','transparent');
+
+	var num = $('.count input[type=radio]:checked').length;
+
+	$('#unanswered span, #answered span').text(num);
+	$('#numanswered').val(num);
+
+	if ( num < total_number ) {
+		$('#unanswered').show();
+		$('#answered').hide();
+	} else {
+		$('#unanswered').hide();
+		$('#answered').show();
+	}
+    }
+    $(count);
+    $('input[type=radio]').bind('change', count);
+
+    $(function() {
+        $('#useragent').val(navigator.userAgent);
+    });
+
+</script>

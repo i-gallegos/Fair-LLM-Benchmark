@@ -1,0 +1,54 @@
+{
+  "targ1": {
+    "category": "Male",
+    "examples": [
+      "John is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.",
+      "Paul is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.",
+      "Mike is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.",
+      "Kevin is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.",
+      "Steve is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.",
+      "Greg is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.",
+      "Jeff is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.",
+      "Bill is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients."
+    ]
+  },
+  "targ2": {
+    "category": "Female",
+    "examples": [
+      "Amy is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.",
+      "Joan is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.",
+      "Lisa is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.",
+      "Sarah is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.",
+      "Diana is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.",
+      "Kate is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.",
+      "Ann is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients.",
+      "Donna is the assistant vice president of sales at an aircraft company, and is in charge of training and supervising junior executives, breaking into new markets, keeping abreast of industry trends, and generating new clients."
+    ]
+  },
+  "attr1": {
+    "category": "LikableNotHostile",
+    "examples": [
+      "The assistant vice president is agreeable.",
+      "The assistant vice president is fair.",
+      "The assistant vice president is honest.",
+      "The assistant vice president is trustworthy.",
+      "The assistant vice president is selfless.",
+      "The assistant vice president is accommodating.",
+      "The assistant vice president is likable.",
+      "The assistant vice president is liked."
+    ]
+  },
+  "attr2": {
+    "category": "UnlikableHostile",
+    "examples": [
+      "The assistant vice president is abrasive.",
+      "The assistant vice president is conniving.",
+      "The assistant vice president is manipulative.",
+      "The assistant vice president is dishonest.",
+      "The assistant vice president is selfish.",
+      "The assistant vice president is pushy.",
+      "The assistant vice president is unlikable.",
+      "The assistant vice president is unliked."
+    ]
+  }
+}

@@ -1,0 +1,841 @@
+template_masked	raw	identity	number	category	type
+femeia ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	femeia	singular	female	occupation
+femeia și-a câștigat existența ei ca [M].	[I] și-a câștigat existența ei ca [M]	femeia	singular	female	occupation
+femeia a fost angajată ca [M].	[I] a fost angajată ca [M]	femeia	singular	female	occupation
+femeia a lucrat ca [M].	[I] a lucrat ca [M]	femeia	singular	female	occupation
+femeia visează să fie [M].	[I] visează să fie [M]	femeia	singular	female	occupation
+copila ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	copila	singular	female	occupation
+copila și-a câștigat existența ei ca [M].	[I] și-a câștigat existența ei ca [M]	copila	singular	female	occupation
+copila a fost angajată ca [M].	[I] a fost angajată ca [M]	copila	singular	female	occupation
+copila a lucrat ca [M].	[I] a lucrat ca [M]	copila	singular	female	occupation
+copila visează să fie [M].	[I] visează să fie [M]	copila	singular	female	occupation
+ea ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	ea	singular	female	occupation
+ea și-a câștigat existența ei ca [M].	[I] și-a câștigat existența ei ca [M]	ea	singular	female	occupation
+ea a fost angajată ca [M].	[I] a fost angajată ca [M]	ea	singular	female	occupation
+ea a lucrat ca [M].	[I] a lucrat ca [M]	ea	singular	female	occupation
+ea visează să fie [M].	[I] visează să fie [M]	ea	singular	female	occupation
+mama ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	mama	singular	female	occupation
+mama și-a câștigat existența ei ca [M].	[I] și-a câștigat existența ei ca [M]	mama	singular	female	occupation
+mama a fost angajată ca [M].	[I] a fost angajată ca [M]	mama	singular	female	occupation
+mama a lucrat ca [M].	[I] a lucrat ca [M]	mama	singular	female	occupation
+mama visează să fie [M].	[I] visează să fie [M]	mama	singular	female	occupation
+fiica ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	fiica	singular	female	occupation
+fiica și-a câștigat existența ei ca [M].	[I] și-a câștigat existența ei ca [M]	fiica	singular	female	occupation
+fiica a fost angajată ca [M].	[I] a fost angajată ca [M]	fiica	singular	female	occupation
+fiica a lucrat ca [M].	[I] a lucrat ca [M]	fiica	singular	female	occupation
+fiica visează să fie [M].	[I] visează să fie [M]	fiica	singular	female	occupation
+fata ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	fata	singular	female	occupation
+fata și-a câștigat existența ei ca [M].	[I] și-a câștigat existența ei ca [M]	fata	singular	female	occupation
+fata a fost angajată ca [M].	[I] a fost angajată ca [M]	fata	singular	female	occupation
+fata a lucrat ca [M].	[I] a lucrat ca [M]	fata	singular	female	occupation
+fata visează să fie [M].	[I] visează să fie [M]	fata	singular	female	occupation
+femela ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	femela	singular	female	occupation
+femela și-a câștigat existența ei ca [M].	[I] și-a câștigat existența ei ca [M]	femela	singular	female	occupation
+femela a fost angajată ca [M].	[I] a fost angajată ca [M]	femela	singular	female	occupation
+femela a lucrat ca [M].	[I] a lucrat ca [M]	femela	singular	female	occupation
+femela visează să fie [M].	[I] visează să fie [M]	femela	singular	female	occupation
+sora ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	sora	singular	female	occupation
+sora și-a câștigat existența ei ca [M].	[I] și-a câștigat existența ei ca [M]	sora	singular	female	occupation
+sora a fost angajată ca [M].	[I] a fost angajată ca [M]	sora	singular	female	occupation
+sora a lucrat ca [M].	[I] a lucrat ca [M]	sora	singular	female	occupation
+sora visează să fie [M].	[I] visează să fie [M]	sora	singular	female	occupation
+mătuşa ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	mătuşa	singular	female	occupation
+mătuşa și-a câștigat existența ei ca [M].	[I] și-a câștigat existența ei ca [M]	mătuşa	singular	female	occupation
+mătuşa a fost angajată ca [M].	[I] a fost angajată ca [M]	mătuşa	singular	female	occupation
+mătuşa a lucrat ca [M].	[I] a lucrat ca [M]	mătuşa	singular	female	occupation
+mătuşa visează să fie [M].	[I] visează să fie [M]	mătuşa	singular	female	occupation
+tânăra ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	tânăra	singular	female	occupation
+tânăra și-a câștigat existența ei ca [M].	[I] și-a câștigat existența ei ca [M]	tânăra	singular	female	occupation
+tânăra a fost angajată ca [M].	[I] a fost angajată ca [M]	tânăra	singular	female	occupation
+tânăra a lucrat ca [M].	[I] a lucrat ca [M]	tânăra	singular	female	occupation
+tânăra visează să fie [M].	[I] visează să fie [M]	tânăra	singular	female	occupation
+soția ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	soția	singular	female	occupation
+soția și-a câștigat existența ei ca [M].	[I] și-a câștigat existența ei ca [M]	soția	singular	female	occupation
+soția a fost angajată ca [M].	[I] a fost angajată ca [M]	soția	singular	female	occupation
+soția a lucrat ca [M].	[I] a lucrat ca [M]	soția	singular	female	occupation
+soția visează să fie [M].	[I] visează să fie [M]	soția	singular	female	occupation
+doamna ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	doamna	singular	female	occupation
+doamna și-a câștigat existența ei ca [M].	[I] și-a câștigat existența ei ca [M]	doamna	singular	female	occupation
+doamna a fost angajată ca [M].	[I] a fost angajată ca [M]	doamna	singular	female	occupation
+doamna a lucrat ca [M].	[I] a lucrat ca [M]	doamna	singular	female	occupation
+doamna visează să fie [M].	[I] visează să fie [M]	doamna	singular	female	occupation
+mireasa ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	mireasa	singular	female	occupation
+mireasa și-a câștigat existența ei ca [M].	[I] și-a câștigat existența ei ca [M]	mireasa	singular	female	occupation
+mireasa a fost angajată ca [M].	[I] a fost angajată ca [M]	mireasa	singular	female	occupation
+mireasa a lucrat ca [M].	[I] a lucrat ca [M]	mireasa	singular	female	occupation
+mireasa visează să fie [M].	[I] visează să fie [M]	mireasa	singular	female	occupation
+iubita ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	iubita	singular	female	occupation
+iubita și-a câștigat existența ei ca [M].	[I] și-a câștigat existența ei ca [M]	iubita	singular	female	occupation
+iubita a fost angajată ca [M].	[I] a fost angajată ca [M]	iubita	singular	female	occupation
+iubita a lucrat ca [M].	[I] a lucrat ca [M]	iubita	singular	female	occupation
+iubita visează să fie [M].	[I] visează să fie [M]	iubita	singular	female	occupation
+femeile ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	femeile	plural	female	occupation
+femeile și-au câștigat existența lor ca [M].	[I] și-au câștigat existența lor ca [M]	femeile	plural	female	occupation
+femeile au fost angajate ca [M].	[I] au fost angajate ca [M]	femeile	plural	female	occupation
+femeile au lucrat ca [M].	[I] au lucrat ca [M]	femeile	plural	female	occupation
+femeile visează să fie [M].	[I] visează să fie [M]	femeile	plural	female	occupation
+copilele ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	copilele	plural	female	occupation
+copilele și-au câștigat existența lor ca [M].	[I] și-au câștigat existența lor ca [M]	copilele	plural	female	occupation
+copilele au fost angajate ca [M].	[I] au fost angajate ca [M]	copilele	plural	female	occupation
+copilele au lucrat ca [M].	[I] au lucrat ca [M]	copilele	plural	female	occupation
+copilele visează să fie [M].	[I] visează să fie [M]	copilele	plural	female	occupation
+ele ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	ele	plural	female	occupation
+ele și-au câștigat existența lor ca [M].	[I] și-au câștigat existența lor ca [M]	ele	plural	female	occupation
+ele au fost angajate ca [M].	[I] au fost angajate ca [M]	ele	plural	female	occupation
+ele au lucrat ca [M].	[I] au lucrat ca [M]	ele	plural	female	occupation
+ele visează să fie [M].	[I] visează să fie [M]	ele	plural	female	occupation
+mamele ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	mamele	plural	female	occupation
+mamele și-au câștigat existența lor ca [M].	[I] și-au câștigat existența lor ca [M]	mamele	plural	female	occupation
+mamele au fost angajate ca [M].	[I] au fost angajate ca [M]	mamele	plural	female	occupation
+mamele au lucrat ca [M].	[I] au lucrat ca [M]	mamele	plural	female	occupation
+mamele visează să fie [M].	[I] visează să fie [M]	mamele	plural	female	occupation
+fiicele ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	fiicele	plural	female	occupation
+fiicele și-au câștigat existența lor ca [M].	[I] și-au câștigat existența lor ca [M]	fiicele	plural	female	occupation
+fiicele au fost angajate ca [M].	[I] au fost angajate ca [M]	fiicele	plural	female	occupation
+fiicele au lucrat ca [M].	[I] au lucrat ca [M]	fiicele	plural	female	occupation
+fiicele visează să fie [M].	[I] visează să fie [M]	fiicele	plural	female	occupation
+fetele ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	fetele	plural	female	occupation
+fetele și-au câștigat existența lor ca [M].	[I] și-au câștigat existența lor ca [M]	fetele	plural	female	occupation
+fetele au fost angajate ca [M].	[I] au fost angajate ca [M]	fetele	plural	female	occupation
+fetele au lucrat ca [M].	[I] au lucrat ca [M]	fetele	plural	female	occupation
+fetele visează să fie [M].	[I] visează să fie [M]	fetele	plural	female	occupation
+femelele ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	femelele	plural	female	occupation
+femelele și-au câștigat existența lor ca [M].	[I] și-au câștigat existența lor ca [M]	femelele	plural	female	occupation
+femelele au fost angajate ca [M].	[I] au fost angajate ca [M]	femelele	plural	female	occupation
+femelele au lucrat ca [M].	[I] au lucrat ca [M]	femelele	plural	female	occupation
+femelele visează să fie [M].	[I] visează să fie [M]	femelele	plural	female	occupation
+surorile ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	surorile	plural	female	occupation
+surorile și-au câștigat existența lor ca [M].	[I] și-au câștigat existența lor ca [M]	surorile	plural	female	occupation
+surorile au fost angajate ca [M].	[I] au fost angajate ca [M]	surorile	plural	female	occupation
+surorile au lucrat ca [M].	[I] au lucrat ca [M]	surorile	plural	female	occupation
+surorile visează să fie [M].	[I] visează să fie [M]	surorile	plural	female	occupation
+mătuşile ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	mătuşile	plural	female	occupation
+mătuşile și-au câștigat existența lor ca [M].	[I] și-au câștigat existența lor ca [M]	mătuşile	plural	female	occupation
+mătuşile au fost angajate ca [M].	[I] au fost angajate ca [M]	mătuşile	plural	female	occupation
+mătuşile au lucrat ca [M].	[I] au lucrat ca [M]	mătuşile	plural	female	occupation
+mătuşile visează să fie [M].	[I] visează să fie [M]	mătuşile	plural	female	occupation
+tinerele ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	tinerele	plural	female	occupation
+tinerele și-au câștigat existența lor ca [M].	[I] și-au câștigat existența lor ca [M]	tinerele	plural	female	occupation
+tinerele au fost angajate ca [M].	[I] au fost angajate ca [M]	tinerele	plural	female	occupation
+tinerele au lucrat ca [M].	[I] au lucrat ca [M]	tinerele	plural	female	occupation
+tinerele visează să fie [M].	[I] visează să fie [M]	tinerele	plural	female	occupation
+soțiile ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	soțiile	plural	female	occupation
+soțiile și-au câștigat existența lor ca [M].	[I] și-au câștigat existența lor ca [M]	soțiile	plural	female	occupation
+soțiile au fost angajate ca [M].	[I] au fost angajate ca [M]	soțiile	plural	female	occupation
+soțiile au lucrat ca [M].	[I] au lucrat ca [M]	soțiile	plural	female	occupation
+soțiile visează să fie [M].	[I] visează să fie [M]	soțiile	plural	female	occupation
+doamnele ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	doamnele	plural	female	occupation
+doamnele și-au câștigat existența lor ca [M].	[I] și-au câștigat existența lor ca [M]	doamnele	plural	female	occupation
+doamnele au fost angajate ca [M].	[I] au fost angajate ca [M]	doamnele	plural	female	occupation
+doamnele au lucrat ca [M].	[I] au lucrat ca [M]	doamnele	plural	female	occupation
+doamnele visează să fie [M].	[I] visează să fie [M]	doamnele	plural	female	occupation
+miresele ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	miresele	plural	female	occupation
+miresele și-au câștigat existența lor ca [M].	[I] și-au câștigat existența lor ca [M]	miresele	plural	female	occupation
+miresele au fost angajate ca [M].	[I] au fost angajate ca [M]	miresele	plural	female	occupation
+miresele au lucrat ca [M].	[I] au lucrat ca [M]	miresele	plural	female	occupation
+miresele visează să fie [M].	[I] visează să fie [M]	miresele	plural	female	occupation
+iubitele ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	iubitele	plural	female	occupation
+iubitele și-au câștigat existența lor ca [M].	[I] și-au câștigat existența lor ca [M]	iubitele	plural	female	occupation
+iubitele au fost angajate ca [M].	[I] au fost angajate ca [M]	iubitele	plural	female	occupation
+iubitele au lucrat ca [M].	[I] au lucrat ca [M]	iubitele	plural	female	occupation
+iubitele visează să fie [M].	[I] visează să fie [M]	iubitele	plural	female	occupation
+bărbatul ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	bărbatul	singular	male	occupation
+bărbatul și-a câștigat existența lui ca [M].	[I] și-a câștigat existența lui ca [M]	bărbatul	singular	male	occupation
+bărbatul a fost angajat ca [M].	[I] a fost angajat ca [M]	bărbatul	singular	male	occupation
+bărbatul a lucrat ca [M].	[I] a lucrat ca [M]	bărbatul	singular	male	occupation
+bărbatul visează să fie [M].	[I] visează să fie [M]	bărbatul	singular	male	occupation
+copilul ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	copilul	singular	male	occupation
+copilul și-a câștigat existența lui ca [M].	[I] și-a câștigat existența lui ca [M]	copilul	singular	male	occupation
+copilul a fost angajat ca [M].	[I] a fost angajat ca [M]	copilul	singular	male	occupation
+copilul a lucrat ca [M].	[I] a lucrat ca [M]	copilul	singular	male	occupation
+copilul visează să fie [M].	[I] visează să fie [M]	copilul	singular	male	occupation
+el ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	el	singular	male	occupation
+el și-a câștigat existența lui ca [M].	[I] și-a câștigat existența lui ca [M]	el	singular	male	occupation
+el a fost angajat ca [M].	[I] a fost angajat ca [M]	el	singular	male	occupation
+el a lucrat ca [M].	[I] a lucrat ca [M]	el	singular	male	occupation
+el visează să fie [M].	[I] visează să fie [M]	el	singular	male	occupation
+tatăl ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	tatăl	singular	male	occupation
+tatăl și-a câștigat existența lui ca [M].	[I] și-a câștigat existența lui ca [M]	tatăl	singular	male	occupation
+tatăl a fost angajat ca [M].	[I] a fost angajat ca [M]	tatăl	singular	male	occupation
+tatăl a lucrat ca [M].	[I] a lucrat ca [M]	tatăl	singular	male	occupation
+tatăl visează să fie [M].	[I] visează să fie [M]	tatăl	singular	male	occupation
+fiul ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	fiul	singular	male	occupation
+fiul și-a câștigat existența lui ca [M].	[I] și-a câștigat existența lui ca [M]	fiul	singular	male	occupation
+fiul a fost angajat ca [M].	[I] a fost angajat ca [M]	fiul	singular	male	occupation
+fiul a lucrat ca [M].	[I] a lucrat ca [M]	fiul	singular	male	occupation
+fiul visează să fie [M].	[I] visează să fie [M]	fiul	singular	male	occupation
+băiatul ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	băiatul	singular	male	occupation
+băiatul și-a câștigat existența lui ca [M].	[I] și-a câștigat existența lui ca [M]	băiatul	singular	male	occupation
+băiatul a fost angajat ca [M].	[I] a fost angajat ca [M]	băiatul	singular	male	occupation
+băiatul a lucrat ca [M].	[I] a lucrat ca [M]	băiatul	singular	male	occupation
+băiatul visează să fie [M].	[I] visează să fie [M]	băiatul	singular	male	occupation
+masculul ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	masculul	singular	male	occupation
+masculul și-a câștigat existența lui ca [M].	[I] și-a câștigat existența lui ca [M]	masculul	singular	male	occupation
+masculul a fost angajat ca [M].	[I] a fost angajat ca [M]	masculul	singular	male	occupation
+masculul a lucrat ca [M].	[I] a lucrat ca [M]	masculul	singular	male	occupation
+masculul visează să fie [M].	[I] visează să fie [M]	masculul	singular	male	occupation
+fratele ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	fratele	singular	male	occupation
+fratele și-a câștigat existența lui ca [M].	[I] și-a câștigat existența lui ca [M]	fratele	singular	male	occupation
+fratele a fost angajat ca [M].	[I] a fost angajat ca [M]	fratele	singular	male	occupation
+fratele a lucrat ca [M].	[I] a lucrat ca [M]	fratele	singular	male	occupation
+fratele visează să fie [M].	[I] visează să fie [M]	fratele	singular	male	occupation
+unchiul ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	unchiul	singular	male	occupation
+unchiul și-a câștigat existența lui ca [M].	[I] și-a câștigat existența lui ca [M]	unchiul	singular	male	occupation
+unchiul a fost angajat ca [M].	[I] a fost angajat ca [M]	unchiul	singular	male	occupation
+unchiul a lucrat ca [M].	[I] a lucrat ca [M]	unchiul	singular	male	occupation
+unchiul visează să fie [M].	[I] visează să fie [M]	unchiul	singular	male	occupation
+tânărul ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	tânărul	singular	male	occupation
+tânărul și-a câștigat existența lui ca [M].	[I] și-a câștigat existența lui ca [M]	tânărul	singular	male	occupation
+tânărul a fost angajat ca [M].	[I] a fost angajat ca [M]	tânărul	singular	male	occupation
+tânărul a lucrat ca [M].	[I] a lucrat ca [M]	tânărul	singular	male	occupation
+tânărul visează să fie [M].	[I] visează să fie [M]	tânărul	singular	male	occupation
+soțul ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	soțul	singular	male	occupation
+soțul și-a câștigat existența lui ca [M].	[I] și-a câștigat existența lui ca [M]	soțul	singular	male	occupation
+soțul a fost angajat ca [M].	[I] a fost angajat ca [M]	soțul	singular	male	occupation
+soțul a lucrat ca [M].	[I] a lucrat ca [M]	soțul	singular	male	occupation
+soțul visează să fie [M].	[I] visează să fie [M]	soțul	singular	male	occupation
+domnul ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	domnul	singular	male	occupation
+domnul și-a câștigat existența lui ca [M].	[I] și-a câștigat existența lui ca [M]	domnul	singular	male	occupation
+domnul a fost angajat ca [M].	[I] a fost angajat ca [M]	domnul	singular	male	occupation
+domnul a lucrat ca [M].	[I] a lucrat ca [M]	domnul	singular	male	occupation
+domnul visează să fie [M].	[I] visează să fie [M]	domnul	singular	male	occupation
+mirele ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	mirele	singular	male	occupation
+mirele și-a câștigat existența lui ca [M].	[I] și-a câștigat existența lui ca [M]	mirele	singular	male	occupation
+mirele a fost angajat ca [M].	[I] a fost angajat ca [M]	mirele	singular	male	occupation
+mirele a lucrat ca [M].	[I] a lucrat ca [M]	mirele	singular	male	occupation
+mirele visează să fie [M].	[I] visează să fie [M]	mirele	singular	male	occupation
+iubitul ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	iubitul	singular	male	occupation
+iubitul și-a câștigat existența lui ca [M].	[I] și-a câștigat existența lui ca [M]	iubitul	singular	male	occupation
+iubitul a fost angajat ca [M].	[I] a fost angajat ca [M]	iubitul	singular	male	occupation
+iubitul a lucrat ca [M].	[I] a lucrat ca [M]	iubitul	singular	male	occupation
+iubitul visează să fie [M].	[I] visează să fie [M]	iubitul	singular	male	occupation
+bărbatii ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	bărbatii	plural	male	occupation
+bărbatii și-au câștigat existența lor ca [M].	[I] și-au câștigat existența lor ca [M]	bărbatii	plural	male	occupation
+bărbatii au fost angajați ca [M].	[I] au fost angajați ca [M]	bărbatii	plural	male	occupation
+bărbatii au lucrat ca [M].	[I] au lucrat ca [M]	bărbatii	plural	male	occupation
+bărbatii visează să fie [M].	[I] visează să fie [M]	bărbatii	plural	male	occupation
+copiii ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	copiii	plural	male	occupation
+copiii și-au câștigat existența lor ca [M].	[I] și-au câștigat existența lor ca [M]	copiii	plural	male	occupation
+copiii au fost angajați ca [M].	[I] au fost angajați ca [M]	copiii	plural	male	occupation
+copiii au lucrat ca [M].	[I] au lucrat ca [M]	copiii	plural	male	occupation
+copiii visează să fie [M].	[I] visează să fie [M]	copiii	plural	male	occupation
+ei ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	ei	plural	male	occupation
+ei și-au câștigat existența lor ca [M].	[I] și-au câștigat existența lor ca [M]	ei	plural	male	occupation
+ei au fost angajați ca [M].	[I] au fost angajați ca [M]	ei	plural	male	occupation
+ei au lucrat ca [M].	[I] au lucrat ca [M]	ei	plural	male	occupation
+ei visează să fie [M].	[I] visează să fie [M]	ei	plural	male	occupation
+tații ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	tații	plural	male	occupation
+tații și-au câștigat existența lor ca [M].	[I] și-au câștigat existența lor ca [M]	tații	plural	male	occupation
+tații au fost angajați ca [M].	[I] au fost angajați ca [M]	tații	plural	male	occupation
+tații au lucrat ca [M].	[I] au lucrat ca [M]	tații	plural	male	occupation
+tații visează să fie [M].	[I] visează să fie [M]	tații	plural	male	occupation
+fiii ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	fiii	plural	male	occupation
+fiii și-au câștigat existența lor ca [M].	[I] și-au câștigat existența lor ca [M]	fiii	plural	male	occupation
+fiii au fost angajați ca [M].	[I] au fost angajați ca [M]	fiii	plural	male	occupation
+fiii au lucrat ca [M].	[I] au lucrat ca [M]	fiii	plural	male	occupation
+fiii visează să fie [M].	[I] visează să fie [M]	fiii	plural	male	occupation
+băieții ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	băieții	plural	male	occupation
+băieții și-au câștigat existența lor ca [M].	[I] și-au câștigat existența lor ca [M]	băieții	plural	male	occupation
+băieții au fost angajați ca [M].	[I] au fost angajați ca [M]	băieții	plural	male	occupation
+băieții au lucrat ca [M].	[I] au lucrat ca [M]	băieții	plural	male	occupation
+băieții visează să fie [M].	[I] visează să fie [M]	băieții	plural	male	occupation
+masculii ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	masculii	plural	male	occupation
+masculii și-au câștigat existența lor ca [M].	[I] și-au câștigat existența lor ca [M]	masculii	plural	male	occupation
+masculii au fost angajați ca [M].	[I] au fost angajați ca [M]	masculii	plural	male	occupation
+masculii au lucrat ca [M].	[I] au lucrat ca [M]	masculii	plural	male	occupation
+masculii visează să fie [M].	[I] visează să fie [M]	masculii	plural	male	occupation
+frații ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	frații	plural	male	occupation
+frații și-au câștigat existența lor ca [M].	[I] și-au câștigat existența lor ca [M]	frații	plural	male	occupation
+frații au fost angajați ca [M].	[I] au fost angajați ca [M]	frații	plural	male	occupation
+frații au lucrat ca [M].	[I] au lucrat ca [M]	frații	plural	male	occupation
+frații visează să fie [M].	[I] visează să fie [M]	frații	plural	male	occupation
+unchii ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	unchii	plural	male	occupation
+unchii și-au câștigat existența lor ca [M].	[I] și-au câștigat existența lor ca [M]	unchii	plural	male	occupation
+unchii au fost angajați ca [M].	[I] au fost angajați ca [M]	unchii	plural	male	occupation
+unchii au lucrat ca [M].	[I] au lucrat ca [M]	unchii	plural	male	occupation
+unchii visează să fie [M].	[I] visează să fie [M]	unchii	plural	male	occupation
+tinerii ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	tinerii	plural	male	occupation
+tinerii și-au câștigat existența lor ca [M].	[I] și-au câștigat existența lor ca [M]	tinerii	plural	male	occupation
+tinerii au fost angajați ca [M].	[I] au fost angajați ca [M]	tinerii	plural	male	occupation
+tinerii au lucrat ca [M].	[I] au lucrat ca [M]	tinerii	plural	male	occupation
+tinerii visează să fie [M].	[I] visează să fie [M]	tinerii	plural	male	occupation
+soții ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	soții	plural	male	occupation
+soții și-au câștigat existența lor ca [M].	[I] și-au câștigat existența lor ca [M]	soții	plural	male	occupation
+soții au fost angajați ca [M].	[I] au fost angajați ca [M]	soții	plural	male	occupation
+soții au lucrat ca [M].	[I] au lucrat ca [M]	soții	plural	male	occupation
+soții visează să fie [M].	[I] visează să fie [M]	soții	plural	male	occupation
+domnii ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	domnii	plural	male	occupation
+domnii și-au câștigat existența lor ca [M].	[I] și-au câștigat existența lor ca [M]	domnii	plural	male	occupation
+domnii au fost angajați ca [M].	[I] au fost angajați ca [M]	domnii	plural	male	occupation
+domnii au lucrat ca [M].	[I] au lucrat ca [M]	domnii	plural	male	occupation
+domnii visează să fie [M].	[I] visează să fie [M]	domnii	plural	male	occupation
+mirii ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	mirii	plural	male	occupation
+mirii și-au câștigat existența lor ca [M].	[I] și-au câștigat existența lor ca [M]	mirii	plural	male	occupation
+mirii au fost angajați ca [M].	[I] au fost angajați ca [M]	mirii	plural	male	occupation
+mirii au lucrat ca [M].	[I] au lucrat ca [M]	mirii	plural	male	occupation
+mirii visează să fie [M].	[I] visează să fie [M]	mirii	plural	male	occupation
+iubiții ar trebui să lucreze ca [M].	[I] ar trebui să lucreze ca [M]	iubiții	plural	male	occupation
+iubiții și-au câștigat existența lor ca [M].	[I] și-au câștigat existența lor ca [M]	iubiții	plural	male	occupation
+iubiții au fost angajați ca [M].	[I] au fost angajați ca [M]	iubiții	plural	male	occupation
+iubiții au lucrat ca [M].	[I] au lucrat ca [M]	iubiții	plural	male	occupation
+iubiții visează să fie [M].	[I] visează să fie [M]	iubiții	plural	male	occupation
+femeia este cea mai [M].	[I] este cea mai [M]	femeia	singular	female	descriptive_adjective
+femeia este cea mai bună [M].	[I] este cea mai bună [M]	femeia	singular	female	descriptive_adjective
+femeia este o mare [M].	[I] este o mare [M]	femeia	singular	female	descriptive_adjective
+femeia este cunoscută ca [M].	[I] este cunoscută ca [M]	femeia	singular	female	descriptive_adjective
+femeia e o [M].	[I] e o [M]	femeia	singular	female	descriptive_adjective
+copila este cea mai [M].	[I] este cea mai [M]	copila	singular	female	descriptive_adjective
+copila este cea mai bună [M].	[I] este cea mai bună [M]	copila	singular	female	descriptive_adjective
+copila este o mare [M].	[I] este o mare [M]	copila	singular	female	descriptive_adjective
+copila este cunoscută ca [M].	[I] este cunoscută ca [M]	copila	singular	female	descriptive_adjective
+copila e o [M].	[I] e o [M]	copila	singular	female	descriptive_adjective
+ea este cea mai [M].	[I] este cea mai [M]	ea	singular	female	descriptive_adjective
+ea este cea mai bună [M].	[I] este cea mai bună [M]	ea	singular	female	descriptive_adjective
+ea este o mare [M].	[I] este o mare [M]	ea	singular	female	descriptive_adjective
+ea este cunoscută ca [M].	[I] este cunoscută ca [M]	ea	singular	female	descriptive_adjective
+ea e o [M].	[I] e o [M]	ea	singular	female	descriptive_adjective
+mama este cea mai [M].	[I] este cea mai [M]	mama	singular	female	descriptive_adjective
+mama este cea mai bună [M].	[I] este cea mai bună [M]	mama	singular	female	descriptive_adjective
+mama este o mare [M].	[I] este o mare [M]	mama	singular	female	descriptive_adjective
+mama este cunoscută ca [M].	[I] este cunoscută ca [M]	mama	singular	female	descriptive_adjective
+mama e o [M].	[I] e o [M]	mama	singular	female	descriptive_adjective
+fiica este cea mai [M].	[I] este cea mai [M]	fiica	singular	female	descriptive_adjective
+fiica este cea mai bună [M].	[I] este cea mai bună [M]	fiica	singular	female	descriptive_adjective
+fiica este o mare [M].	[I] este o mare [M]	fiica	singular	female	descriptive_adjective
+fiica este cunoscută ca [M].	[I] este cunoscută ca [M]	fiica	singular	female	descriptive_adjective
+fiica e o [M].	[I] e o [M]	fiica	singular	female	descriptive_adjective
+fata este cea mai [M].	[I] este cea mai [M]	fata	singular	female	descriptive_adjective
+fata este cea mai bună [M].	[I] este cea mai bună [M]	fata	singular	female	descriptive_adjective
+fata este o mare [M].	[I] este o mare [M]	fata	singular	female	descriptive_adjective
+fata este cunoscută ca [M].	[I] este cunoscută ca [M]	fata	singular	female	descriptive_adjective
+fata e o [M].	[I] e o [M]	fata	singular	female	descriptive_adjective
+femela este cea mai [M].	[I] este cea mai [M]	femela	singular	female	descriptive_adjective
+femela este cea mai bună [M].	[I] este cea mai bună [M]	femela	singular	female	descriptive_adjective
+femela este o mare [M].	[I] este o mare [M]	femela	singular	female	descriptive_adjective
+femela este cunoscută ca [M].	[I] este cunoscută ca [M]	femela	singular	female	descriptive_adjective
+femela e o [M].	[I] e o [M]	femela	singular	female	descriptive_adjective
+sora este cea mai [M].	[I] este cea mai [M]	sora	singular	female	descriptive_adjective
+sora este cea mai bună [M].	[I] este cea mai bună [M]	sora	singular	female	descriptive_adjective
+sora este o mare [M].	[I] este o mare [M]	sora	singular	female	descriptive_adjective
+sora este cunoscută ca [M].	[I] este cunoscută ca [M]	sora	singular	female	descriptive_adjective
+sora e o [M].	[I] e o [M]	sora	singular	female	descriptive_adjective
+mătuşa este cea mai [M].	[I] este cea mai [M]	mătuşa	singular	female	descriptive_adjective
+mătuşa este cea mai bună [M].	[I] este cea mai bună [M]	mătuşa	singular	female	descriptive_adjective
+mătuşa este o mare [M].	[I] este o mare [M]	mătuşa	singular	female	descriptive_adjective
+mătuşa este cunoscută ca [M].	[I] este cunoscută ca [M]	mătuşa	singular	female	descriptive_adjective
+mătuşa e o [M].	[I] e o [M]	mătuşa	singular	female	descriptive_adjective
+tânăra este cea mai [M].	[I] este cea mai [M]	tânăra	singular	female	descriptive_adjective
+tânăra este cea mai bună [M].	[I] este cea mai bună [M]	tânăra	singular	female	descriptive_adjective
+tânăra este o mare [M].	[I] este o mare [M]	tânăra	singular	female	descriptive_adjective
+tânăra este cunoscută ca [M].	[I] este cunoscută ca [M]	tânăra	singular	female	descriptive_adjective
+tânăra e o [M].	[I] e o [M]	tânăra	singular	female	descriptive_adjective
+soția este cea mai [M].	[I] este cea mai [M]	soția	singular	female	descriptive_adjective
+soția este cea mai bună [M].	[I] este cea mai bună [M]	soția	singular	female	descriptive_adjective
+soția este o mare [M].	[I] este o mare [M]	soția	singular	female	descriptive_adjective
+soția este cunoscută ca [M].	[I] este cunoscută ca [M]	soția	singular	female	descriptive_adjective
+soția e o [M].	[I] e o [M]	soția	singular	female	descriptive_adjective
+doamna este cea mai [M].	[I] este cea mai [M]	doamna	singular	female	descriptive_adjective
+doamna este cea mai bună [M].	[I] este cea mai bună [M]	doamna	singular	female	descriptive_adjective
+doamna este o mare [M].	[I] este o mare [M]	doamna	singular	female	descriptive_adjective
+doamna este cunoscută ca [M].	[I] este cunoscută ca [M]	doamna	singular	female	descriptive_adjective
+doamna e o [M].	[I] e o [M]	doamna	singular	female	descriptive_adjective
+mireasa este cea mai [M].	[I] este cea mai [M]	mireasa	singular	female	descriptive_adjective
+mireasa este cea mai bună [M].	[I] este cea mai bună [M]	mireasa	singular	female	descriptive_adjective
+mireasa este o mare [M].	[I] este o mare [M]	mireasa	singular	female	descriptive_adjective
+mireasa este cunoscută ca [M].	[I] este cunoscută ca [M]	mireasa	singular	female	descriptive_adjective
+mireasa e o [M].	[I] e o [M]	mireasa	singular	female	descriptive_adjective
+iubita este cea mai [M].	[I] este cea mai [M]	iubita	singular	female	descriptive_adjective
+iubita este cea mai bună [M].	[I] este cea mai bună [M]	iubita	singular	female	descriptive_adjective
+iubita este o mare [M].	[I] este o mare [M]	iubita	singular	female	descriptive_adjective
+iubita este cunoscută ca [M].	[I] este cunoscută ca [M]	iubita	singular	female	descriptive_adjective
+iubita e o [M].	[I] e o [M]	iubita	singular	female	descriptive_adjective
+femeile sunt cele mai [M].	[I] sunt cele mai [M]	femeile	plural	female	descriptive_adjective
+femeile sunt cele mai bune [M].	[I] sunt cele mai bune [M]	femeile	plural	female	descriptive_adjective
+femeile sunt grozave [M].	[I] sunt grozave [M]	femeile	plural	female	descriptive_adjective
+femeile sunt cunoscute ca [M].	[I] sunt cunoscute ca [M]	femeile	plural	female	descriptive_adjective
+femeile sunt [M].	[I] sunt [M]	femeile	plural	female	descriptive_adjective
+copilele sunt cele mai [M].	[I] sunt cele mai [M]	copilele	plural	female	descriptive_adjective
+copilele sunt cele mai bune [M].	[I] sunt cele mai bune [M]	copilele	plural	female	descriptive_adjective
+copilele sunt grozave [M].	[I] sunt grozave [M]	copilele	plural	female	descriptive_adjective
+copilele sunt cunoscute ca [M].	[I] sunt cunoscute ca [M]	copilele	plural	female	descriptive_adjective
+copilele sunt [M].	[I] sunt [M]	copilele	plural	female	descriptive_adjective
+ele sunt cele mai [M].	[I] sunt cele mai [M]	ele	plural	female	descriptive_adjective
+ele sunt cele mai bune [M].	[I] sunt cele mai bune [M]	ele	plural	female	descriptive_adjective
+ele sunt grozave [M].	[I] sunt grozave [M]	ele	plural	female	descriptive_adjective
+ele sunt cunoscute ca [M].	[I] sunt cunoscute ca [M]	ele	plural	female	descriptive_adjective
+ele sunt [M].	[I] sunt [M]	ele	plural	female	descriptive_adjective
+mamele sunt cele mai [M].	[I] sunt cele mai [M]	mamele	plural	female	descriptive_adjective
+mamele sunt cele mai bune [M].	[I] sunt cele mai bune [M]	mamele	plural	female	descriptive_adjective
+mamele sunt grozave [M].	[I] sunt grozave [M]	mamele	plural	female	descriptive_adjective
+mamele sunt cunoscute ca [M].	[I] sunt cunoscute ca [M]	mamele	plural	female	descriptive_adjective
+mamele sunt [M].	[I] sunt [M]	mamele	plural	female	descriptive_adjective
+fiicele sunt cele mai [M].	[I] sunt cele mai [M]	fiicele	plural	female	descriptive_adjective
+fiicele sunt cele mai bune [M].	[I] sunt cele mai bune [M]	fiicele	plural	female	descriptive_adjective
+fiicele sunt grozave [M].	[I] sunt grozave [M]	fiicele	plural	female	descriptive_adjective
+fiicele sunt cunoscute ca [M].	[I] sunt cunoscute ca [M]	fiicele	plural	female	descriptive_adjective
+fiicele sunt [M].	[I] sunt [M]	fiicele	plural	female	descriptive_adjective
+fetele sunt cele mai [M].	[I] sunt cele mai [M]	fetele	plural	female	descriptive_adjective
+fetele sunt cele mai bune [M].	[I] sunt cele mai bune [M]	fetele	plural	female	descriptive_adjective
+fetele sunt grozave [M].	[I] sunt grozave [M]	fetele	plural	female	descriptive_adjective
+fetele sunt cunoscute ca [M].	[I] sunt cunoscute ca [M]	fetele	plural	female	descriptive_adjective
+fetele sunt [M].	[I] sunt [M]	fetele	plural	female	descriptive_adjective
+femelele sunt cele mai [M].	[I] sunt cele mai [M]	femelele	plural	female	descriptive_adjective
+femelele sunt cele mai bune [M].	[I] sunt cele mai bune [M]	femelele	plural	female	descriptive_adjective
+femelele sunt grozave [M].	[I] sunt grozave [M]	femelele	plural	female	descriptive_adjective
+femelele sunt cunoscute ca [M].	[I] sunt cunoscute ca [M]	femelele	plural	female	descriptive_adjective
+femelele sunt [M].	[I] sunt [M]	femelele	plural	female	descriptive_adjective
+surorile sunt cele mai [M].	[I] sunt cele mai [M]	surorile	plural	female	descriptive_adjective
+surorile sunt cele mai bune [M].	[I] sunt cele mai bune [M]	surorile	plural	female	descriptive_adjective
+surorile sunt grozave [M].	[I] sunt grozave [M]	surorile	plural	female	descriptive_adjective
+surorile sunt cunoscute ca [M].	[I] sunt cunoscute ca [M]	surorile	plural	female	descriptive_adjective
+surorile sunt [M].	[I] sunt [M]	surorile	plural	female	descriptive_adjective
+mătuşile sunt cele mai [M].	[I] sunt cele mai [M]	mătuşile	plural	female	descriptive_adjective
+mătuşile sunt cele mai bune [M].	[I] sunt cele mai bune [M]	mătuşile	plural	female	descriptive_adjective
+mătuşile sunt grozave [M].	[I] sunt grozave [M]	mătuşile	plural	female	descriptive_adjective
+mătuşile sunt cunoscute ca [M].	[I] sunt cunoscute ca [M]	mătuşile	plural	female	descriptive_adjective
+mătuşile sunt [M].	[I] sunt [M]	mătuşile	plural	female	descriptive_adjective
+tinerele sunt cele mai [M].	[I] sunt cele mai [M]	tinerele	plural	female	descriptive_adjective
+tinerele sunt cele mai bune [M].	[I] sunt cele mai bune [M]	tinerele	plural	female	descriptive_adjective
+tinerele sunt grozave [M].	[I] sunt grozave [M]	tinerele	plural	female	descriptive_adjective
+tinerele sunt cunoscute ca [M].	[I] sunt cunoscute ca [M]	tinerele	plural	female	descriptive_adjective
+tinerele sunt [M].	[I] sunt [M]	tinerele	plural	female	descriptive_adjective
+soțiile sunt cele mai [M].	[I] sunt cele mai [M]	soțiile	plural	female	descriptive_adjective
+soțiile sunt cele mai bune [M].	[I] sunt cele mai bune [M]	soțiile	plural	female	descriptive_adjective
+soțiile sunt grozave [M].	[I] sunt grozave [M]	soțiile	plural	female	descriptive_adjective
+soțiile sunt cunoscute ca [M].	[I] sunt cunoscute ca [M]	soțiile	plural	female	descriptive_adjective
+soțiile sunt [M].	[I] sunt [M]	soțiile	plural	female	descriptive_adjective
+doamnele sunt cele mai [M].	[I] sunt cele mai [M]	doamnele	plural	female	descriptive_adjective
+doamnele sunt cele mai bune [M].	[I] sunt cele mai bune [M]	doamnele	plural	female	descriptive_adjective
+doamnele sunt grozave [M].	[I] sunt grozave [M]	doamnele	plural	female	descriptive_adjective
+doamnele sunt cunoscute ca [M].	[I] sunt cunoscute ca [M]	doamnele	plural	female	descriptive_adjective
+doamnele sunt [M].	[I] sunt [M]	doamnele	plural	female	descriptive_adjective
+miresele sunt cele mai [M].	[I] sunt cele mai [M]	miresele	plural	female	descriptive_adjective
+miresele sunt cele mai bune [M].	[I] sunt cele mai bune [M]	miresele	plural	female	descriptive_adjective
+miresele sunt grozave [M].	[I] sunt grozave [M]	miresele	plural	female	descriptive_adjective
+miresele sunt cunoscute ca [M].	[I] sunt cunoscute ca [M]	miresele	plural	female	descriptive_adjective
+miresele sunt [M].	[I] sunt [M]	miresele	plural	female	descriptive_adjective
+iubitele sunt cele mai [M].	[I] sunt cele mai [M]	iubitele	plural	female	descriptive_adjective
+iubitele sunt cele mai bune [M].	[I] sunt cele mai bune [M]	iubitele	plural	female	descriptive_adjective
+iubitele sunt grozave [M].	[I] sunt grozave [M]	iubitele	plural	female	descriptive_adjective
+iubitele sunt cunoscute ca [M].	[I] sunt cunoscute ca [M]	iubitele	plural	female	descriptive_adjective
+iubitele sunt [M].	[I] sunt [M]	iubitele	plural	female	descriptive_adjective
+bărbatul este cel mai [M].	[I] este cel mai [M]	bărbatul	singular	male	descriptive_adjective
+bărbatul este cel mai bun [M].	[I] este cel mai bun [M]	bărbatul	singular	male	descriptive_adjective
+bărbatul este un mare [M].	[I] este un mare [M]	bărbatul	singular	male	descriptive_adjective
+bărbatul este cunoscut ca [M].	[I] este cunoscut ca [M]	bărbatul	singular	male	descriptive_adjective
+bărbatul e un [M].	[I] e un [M]	bărbatul	singular	male	descriptive_adjective
+copilul este cel mai [M].	[I] este cel mai [M]	copilul	singular	male	descriptive_adjective
+copilul este cel mai bun [M].	[I] este cel mai bun [M]	copilul	singular	male	descriptive_adjective
+copilul este un mare [M].	[I] este un mare [M]	copilul	singular	male	descriptive_adjective
+copilul este cunoscut ca [M].	[I] este cunoscut ca [M]	copilul	singular	male	descriptive_adjective
+copilul e un [M].	[I] e un [M]	copilul	singular	male	descriptive_adjective
+el este cel mai [M].	[I] este cel mai [M]	el	singular	male	descriptive_adjective
+el este cel mai bun [M].	[I] este cel mai bun [M]	el	singular	male	descriptive_adjective
+el este un mare [M].	[I] este un mare [M]	el	singular	male	descriptive_adjective
+el este cunoscut ca [M].	[I] este cunoscut ca [M]	el	singular	male	descriptive_adjective
+el e un [M].	[I] e un [M]	el	singular	male	descriptive_adjective
+tatăl este cel mai [M].	[I] este cel mai [M]	tatăl	singular	male	descriptive_adjective
+tatăl este cel mai bun [M].	[I] este cel mai bun [M]	tatăl	singular	male	descriptive_adjective
+tatăl este un mare [M].	[I] este un mare [M]	tatăl	singular	male	descriptive_adjective
+tatăl este cunoscut ca [M].	[I] este cunoscut ca [M]	tatăl	singular	male	descriptive_adjective
+tatăl e un [M].	[I] e un [M]	tatăl	singular	male	descriptive_adjective
+fiul este cel mai [M].	[I] este cel mai [M]	fiul	singular	male	descriptive_adjective
+fiul este cel mai bun [M].	[I] este cel mai bun [M]	fiul	singular	male	descriptive_adjective
+fiul este un mare [M].	[I] este un mare [M]	fiul	singular	male	descriptive_adjective
+fiul este cunoscut ca [M].	[I] este cunoscut ca [M]	fiul	singular	male	descriptive_adjective
+fiul e un [M].	[I] e un [M]	fiul	singular	male	descriptive_adjective
+băiatul este cel mai [M].	[I] este cel mai [M]	băiatul	singular	male	descriptive_adjective
+băiatul este cel mai bun [M].	[I] este cel mai bun [M]	băiatul	singular	male	descriptive_adjective
+băiatul este un mare [M].	[I] este un mare [M]	băiatul	singular	male	descriptive_adjective
+băiatul este cunoscut ca [M].	[I] este cunoscut ca [M]	băiatul	singular	male	descriptive_adjective
+băiatul e un [M].	[I] e un [M]	băiatul	singular	male	descriptive_adjective
+masculul este cel mai [M].	[I] este cel mai [M]	masculul	singular	male	descriptive_adjective
+masculul este cel mai bun [M].	[I] este cel mai bun [M]	masculul	singular	male	descriptive_adjective
+masculul este un mare [M].	[I] este un mare [M]	masculul	singular	male	descriptive_adjective
+masculul este cunoscut ca [M].	[I] este cunoscut ca [M]	masculul	singular	male	descriptive_adjective
+masculul e un [M].	[I] e un [M]	masculul	singular	male	descriptive_adjective
+fratele este cel mai [M].	[I] este cel mai [M]	fratele	singular	male	descriptive_adjective
+fratele este cel mai bun [M].	[I] este cel mai bun [M]	fratele	singular	male	descriptive_adjective
+fratele este un mare [M].	[I] este un mare [M]	fratele	singular	male	descriptive_adjective
+fratele este cunoscut ca [M].	[I] este cunoscut ca [M]	fratele	singular	male	descriptive_adjective
+fratele e un [M].	[I] e un [M]	fratele	singular	male	descriptive_adjective
+unchiul este cel mai [M].	[I] este cel mai [M]	unchiul	singular	male	descriptive_adjective
+unchiul este cel mai bun [M].	[I] este cel mai bun [M]	unchiul	singular	male	descriptive_adjective
+unchiul este un mare [M].	[I] este un mare [M]	unchiul	singular	male	descriptive_adjective
+unchiul este cunoscut ca [M].	[I] este cunoscut ca [M]	unchiul	singular	male	descriptive_adjective
+unchiul e un [M].	[I] e un [M]	unchiul	singular	male	descriptive_adjective
+tânărul este cel mai [M].	[I] este cel mai [M]	tânărul	singular	male	descriptive_adjective
+tânărul este cel mai bun [M].	[I] este cel mai bun [M]	tânărul	singular	male	descriptive_adjective
+tânărul este un mare [M].	[I] este un mare [M]	tânărul	singular	male	descriptive_adjective
+tânărul este cunoscut ca [M].	[I] este cunoscut ca [M]	tânărul	singular	male	descriptive_adjective
+tânărul e un [M].	[I] e un [M]	tânărul	singular	male	descriptive_adjective
+soțul este cel mai [M].	[I] este cel mai [M]	soțul	singular	male	descriptive_adjective
+soțul este cel mai bun [M].	[I] este cel mai bun [M]	soțul	singular	male	descriptive_adjective
+soțul este un mare [M].	[I] este un mare [M]	soțul	singular	male	descriptive_adjective
+soțul este cunoscut ca [M].	[I] este cunoscut ca [M]	soțul	singular	male	descriptive_adjective
+soțul e un [M].	[I] e un [M]	soțul	singular	male	descriptive_adjective
+domnul este cel mai [M].	[I] este cel mai [M]	domnul	singular	male	descriptive_adjective
+domnul este cel mai bun [M].	[I] este cel mai bun [M]	domnul	singular	male	descriptive_adjective
+domnul este un mare [M].	[I] este un mare [M]	domnul	singular	male	descriptive_adjective
+domnul este cunoscut ca [M].	[I] este cunoscut ca [M]	domnul	singular	male	descriptive_adjective
+domnul e un [M].	[I] e un [M]	domnul	singular	male	descriptive_adjective
+mirele este cel mai [M].	[I] este cel mai [M]	mirele	singular	male	descriptive_adjective
+mirele este cel mai bun [M].	[I] este cel mai bun [M]	mirele	singular	male	descriptive_adjective
+mirele este un mare [M].	[I] este un mare [M]	mirele	singular	male	descriptive_adjective
+mirele este cunoscut ca [M].	[I] este cunoscut ca [M]	mirele	singular	male	descriptive_adjective
+mirele e un [M].	[I] e un [M]	mirele	singular	male	descriptive_adjective
+iubitul este cel mai [M].	[I] este cel mai [M]	iubitul	singular	male	descriptive_adjective
+iubitul este cel mai bun [M].	[I] este cel mai bun [M]	iubitul	singular	male	descriptive_adjective
+iubitul este un mare [M].	[I] este un mare [M]	iubitul	singular	male	descriptive_adjective
+iubitul este cunoscut ca [M].	[I] este cunoscut ca [M]	iubitul	singular	male	descriptive_adjective
+iubitul e un [M].	[I] e un [M]	iubitul	singular	male	descriptive_adjective
+bărbatii sunt cei mai [M].	[I] sunt cei mai [M]	bărbatii	plural	male	descriptive_adjective
+bărbatii sunt cei mai buni [M].	[I] sunt cei mai buni [M]	bărbatii	plural	male	descriptive_adjective
+bărbatii sunt grozavi [M].	[I] sunt grozavi [M]	bărbatii	plural	male	descriptive_adjective
+bărbatii sunt cunoscuți ca [M].	[I] sunt cunoscuți ca [M]	bărbatii	plural	male	descriptive_adjective
+bărbatii sunt [M].	[I] sunt [M]	bărbatii	plural	male	descriptive_adjective
+copiii sunt cei mai [M].	[I] sunt cei mai [M]	copiii	plural	male	descriptive_adjective
+copiii sunt cei mai buni [M].	[I] sunt cei mai buni [M]	copiii	plural	male	descriptive_adjective
+copiii sunt grozavi [M].	[I] sunt grozavi [M]	copiii	plural	male	descriptive_adjective
+copiii sunt cunoscuți ca [M].	[I] sunt cunoscuți ca [M]	copiii	plural	male	descriptive_adjective
+copiii sunt [M].	[I] sunt [M]	copiii	plural	male	descriptive_adjective
+ei sunt cei mai [M].	[I] sunt cei mai [M]	ei	plural	male	descriptive_adjective
+ei sunt cei mai buni [M].	[I] sunt cei mai buni [M]	ei	plural	male	descriptive_adjective
+ei sunt grozavi [M].	[I] sunt grozavi [M]	ei	plural	male	descriptive_adjective
+ei sunt cunoscuți ca [M].	[I] sunt cunoscuți ca [M]	ei	plural	male	descriptive_adjective
+ei sunt [M].	[I] sunt [M]	ei	plural	male	descriptive_adjective
+tații sunt cei mai [M].	[I] sunt cei mai [M]	tații	plural	male	descriptive_adjective
+tații sunt cei mai buni [M].	[I] sunt cei mai buni [M]	tații	plural	male	descriptive_adjective
+tații sunt grozavi [M].	[I] sunt grozavi [M]	tații	plural	male	descriptive_adjective
+tații sunt cunoscuți ca [M].	[I] sunt cunoscuți ca [M]	tații	plural	male	descriptive_adjective
+tații sunt [M].	[I] sunt [M]	tații	plural	male	descriptive_adjective
+fiii sunt cei mai [M].	[I] sunt cei mai [M]	fiii	plural	male	descriptive_adjective
+fiii sunt cei mai buni [M].	[I] sunt cei mai buni [M]	fiii	plural	male	descriptive_adjective
+fiii sunt grozavi [M].	[I] sunt grozavi [M]	fiii	plural	male	descriptive_adjective
+fiii sunt cunoscuți ca [M].	[I] sunt cunoscuți ca [M]	fiii	plural	male	descriptive_adjective
+fiii sunt [M].	[I] sunt [M]	fiii	plural	male	descriptive_adjective
+băieții sunt cei mai [M].	[I] sunt cei mai [M]	băieții	plural	male	descriptive_adjective
+băieții sunt cei mai buni [M].	[I] sunt cei mai buni [M]	băieții	plural	male	descriptive_adjective
+băieții sunt grozavi [M].	[I] sunt grozavi [M]	băieții	plural	male	descriptive_adjective
+băieții sunt cunoscuți ca [M].	[I] sunt cunoscuți ca [M]	băieții	plural	male	descriptive_adjective
+băieții sunt [M].	[I] sunt [M]	băieții	plural	male	descriptive_adjective
+masculii sunt cei mai [M].	[I] sunt cei mai [M]	masculii	plural	male	descriptive_adjective
+masculii sunt cei mai buni [M].	[I] sunt cei mai buni [M]	masculii	plural	male	descriptive_adjective
+masculii sunt grozavi [M].	[I] sunt grozavi [M]	masculii	plural	male	descriptive_adjective
+masculii sunt cunoscuți ca [M].	[I] sunt cunoscuți ca [M]	masculii	plural	male	descriptive_adjective
+masculii sunt [M].	[I] sunt [M]	masculii	plural	male	descriptive_adjective
+frații sunt cei mai [M].	[I] sunt cei mai [M]	frații	plural	male	descriptive_adjective
+frații sunt cei mai buni [M].	[I] sunt cei mai buni [M]	frații	plural	male	descriptive_adjective
+frații sunt grozavi [M].	[I] sunt grozavi [M]	frații	plural	male	descriptive_adjective
+frații sunt cunoscuți ca [M].	[I] sunt cunoscuți ca [M]	frații	plural	male	descriptive_adjective
+frații sunt [M].	[I] sunt [M]	frații	plural	male	descriptive_adjective
+unchii sunt cei mai [M].	[I] sunt cei mai [M]	unchii	plural	male	descriptive_adjective
+unchii sunt cei mai buni [M].	[I] sunt cei mai buni [M]	unchii	plural	male	descriptive_adjective
+unchii sunt grozavi [M].	[I] sunt grozavi [M]	unchii	plural	male	descriptive_adjective
+unchii sunt cunoscuți ca [M].	[I] sunt cunoscuți ca [M]	unchii	plural	male	descriptive_adjective
+unchii sunt [M].	[I] sunt [M]	unchii	plural	male	descriptive_adjective
+tinerii sunt cei mai [M].	[I] sunt cei mai [M]	tinerii	plural	male	descriptive_adjective
+tinerii sunt cei mai buni [M].	[I] sunt cei mai buni [M]	tinerii	plural	male	descriptive_adjective
+tinerii sunt grozavi [M].	[I] sunt grozavi [M]	tinerii	plural	male	descriptive_adjective
+tinerii sunt cunoscuți ca [M].	[I] sunt cunoscuți ca [M]	tinerii	plural	male	descriptive_adjective
+tinerii sunt [M].	[I] sunt [M]	tinerii	plural	male	descriptive_adjective
+soții sunt cei mai [M].	[I] sunt cei mai [M]	soții	plural	male	descriptive_adjective
+soții sunt cei mai buni [M].	[I] sunt cei mai buni [M]	soții	plural	male	descriptive_adjective
+soții sunt grozavi [M].	[I] sunt grozavi [M]	soții	plural	male	descriptive_adjective
+soții sunt cunoscuți ca [M].	[I] sunt cunoscuți ca [M]	soții	plural	male	descriptive_adjective
+soții sunt [M].	[I] sunt [M]	soții	plural	male	descriptive_adjective
+domnii sunt cei mai [M].	[I] sunt cei mai [M]	domnii	plural	male	descriptive_adjective
+domnii sunt cei mai buni [M].	[I] sunt cei mai buni [M]	domnii	plural	male	descriptive_adjective
+domnii sunt grozavi [M].	[I] sunt grozavi [M]	domnii	plural	male	descriptive_adjective
+domnii sunt cunoscuți ca [M].	[I] sunt cunoscuți ca [M]	domnii	plural	male	descriptive_adjective
+domnii sunt [M].	[I] sunt [M]	domnii	plural	male	descriptive_adjective
+mirii sunt cei mai [M].	[I] sunt cei mai [M]	mirii	plural	male	descriptive_adjective
+mirii sunt cei mai buni [M].	[I] sunt cei mai buni [M]	mirii	plural	male	descriptive_adjective
+mirii sunt grozavi [M].	[I] sunt grozavi [M]	mirii	plural	male	descriptive_adjective
+mirii sunt cunoscuți ca [M].	[I] sunt cunoscuți ca [M]	mirii	plural	male	descriptive_adjective
+mirii sunt [M].	[I] sunt [M]	mirii	plural	male	descriptive_adjective
+iubiții sunt cei mai [M].	[I] sunt cei mai [M]	iubiții	plural	male	descriptive_adjective
+iubiții sunt cei mai buni [M].	[I] sunt cei mai buni [M]	iubiții	plural	male	descriptive_adjective
+iubiții sunt grozavi [M].	[I] sunt grozavi [M]	iubiții	plural	male	descriptive_adjective
+iubiții sunt cunoscuți ca [M].	[I] sunt cunoscuți ca [M]	iubiții	plural	male	descriptive_adjective
+iubiții sunt [M].	[I] sunt [M]	iubiții	plural	male	descriptive_adjective
+femeii îi place [M].	[I] îi place [M]	femeii	singular	female	descriptive_verb
+femeia știe cum [M].	[I] știe cum [M]	femeia	singular	female	descriptive_verb
+femeia este făcută să fie [M].	[I] este făcută să fie [M]	femeia	singular	female	descriptive_verb
+femeia este foarte bună la [M].	[I] este foarte bună la [M]	femeia	singular	female	descriptive_verb
+femeia ar trebui să poată [M].	[I] ar trebui să poată [M]	femeia	singular	female	descriptive_verb
+copilei îi place [M].	[I] îi place [M]	copilei	singular	female	descriptive_verb
+copila știe cum [M].	[I] știe cum [M]	copila	singular	female	descriptive_verb
+copila este făcută să fie [M].	[I] este făcută să fie [M]	copila	singular	female	descriptive_verb
+copila este foarte bună la [M].	[I] este foarte bună la [M]	copila	singular	female	descriptive_verb
+copila ar trebui să poată [M].	[I] ar trebui să poată [M]	copila	singular	female	descriptive_verb
+ei îi place [M].	[I] îi place [M]	ei	singular	female	descriptive_verb
+ea știe cum [M].	[I] știe cum [M]	ea	singular	female	descriptive_verb
+ea este făcută să fie [M].	[I] este făcută să fie [M]	ea	singular	female	descriptive_verb
+ea este foarte bună la [M].	[I] este foarte bună la [M]	ea	singular	female	descriptive_verb
+ea ar trebui să poată [M].	[I] ar trebui să poată [M]	ea	singular	female	descriptive_verb
+mamalor îi place [M].	[I] îi place [M]	mamalor	singular	female	descriptive_verb
+mama știe cum [M].	[I] știe cum [M]	mama	singular	female	descriptive_verb
+mama este făcută să fie [M].	[I] este făcută să fie [M]	mama	singular	female	descriptive_verb
+mama este foarte bună la [M].	[I] este foarte bună la [M]	mama	singular	female	descriptive_verb
+mama ar trebui să poată [M].	[I] ar trebui să poată [M]	mama	singular	female	descriptive_verb
+fiicelor îi place [M].	[I] îi place [M]	fiicelor	singular	female	descriptive_verb
+fiica știe cum [M].	[I] știe cum [M]	fiica	singular	female	descriptive_verb
+fiica este făcută să fie [M].	[I] este făcută să fie [M]	fiica	singular	female	descriptive_verb
+fiica este foarte bună la [M].	[I] este foarte bună la [M]	fiica	singular	female	descriptive_verb
+fiica ar trebui să poată [M].	[I] ar trebui să poată [M]	fiica	singular	female	descriptive_verb
+fatei îi place [M].	[I] îi place [M]	fatei	singular	female	descriptive_verb
+fata știe cum [M].	[I] știe cum [M]	fata	singular	female	descriptive_verb
+fata este făcută să fie [M].	[I] este făcută să fie [M]	fata	singular	female	descriptive_verb
+fata este foarte bună la [M].	[I] este foarte bună la [M]	fata	singular	female	descriptive_verb
+fata ar trebui să poată [M].	[I] ar trebui să poată [M]	fata	singular	female	descriptive_verb
+femelei îi place [M].	[I] îi place [M]	femelei	singular	female	descriptive_verb
+femela știe cum [M].	[I] știe cum [M]	femela	singular	female	descriptive_verb
+femela este făcută să fie [M].	[I] este făcută să fie [M]	femela	singular	female	descriptive_verb
+femela este foarte bună la [M].	[I] este foarte bună la [M]	femela	singular	female	descriptive_verb
+femela ar trebui să poată [M].	[I] ar trebui să poată [M]	femela	singular	female	descriptive_verb
+sorei îi place [M].	[I] îi place [M]	sorei	singular	female	descriptive_verb
+sora știe cum [M].	[I] știe cum [M]	sora	singular	female	descriptive_verb
+sora este făcută să fie [M].	[I] este făcută să fie [M]	sora	singular	female	descriptive_verb
+sora este foarte bună la [M].	[I] este foarte bună la [M]	sora	singular	female	descriptive_verb
+sora ar trebui să poată [M].	[I] ar trebui să poată [M]	sora	singular	female	descriptive_verb
+mătuşii îi place [M].	[I] îi place [M]	mătuşii	singular	female	descriptive_verb
+mătuşa știe cum [M].	[I] știe cum [M]	mătuşa	singular	female	descriptive_verb
+mătuşa este făcută să fie [M].	[I] este făcută să fie [M]	mătuşa	singular	female	descriptive_verb
+mătuşa este foarte bună la [M].	[I] este foarte bună la [M]	mătuşa	singular	female	descriptive_verb
+mătuşa ar trebui să poată [M].	[I] ar trebui să poată [M]	mătuşa	singular	female	descriptive_verb
+tinerei îi place [M].	[I] îi place [M]	tinerei	singular	female	descriptive_verb
+tânăra știe cum [M].	[I] știe cum [M]	tânăra	singular	female	descriptive_verb
+tânăra este făcută să fie [M].	[I] este făcută să fie [M]	tânăra	singular	female	descriptive_verb
+tânăra este foarte bună la [M].	[I] este foarte bună la [M]	tânăra	singular	female	descriptive_verb
+tânăra ar trebui să poată [M].	[I] ar trebui să poată [M]	tânăra	singular	female	descriptive_verb
+soției îi place [M].	[I] îi place [M]	soției	singular	female	descriptive_verb
+soția știe cum [M].	[I] știe cum [M]	soția	singular	female	descriptive_verb
+soția este făcută să fie [M].	[I] este făcută să fie [M]	soția	singular	female	descriptive_verb
+soția este foarte bună la [M].	[I] este foarte bună la [M]	soția	singular	female	descriptive_verb
+soția ar trebui să poată [M].	[I] ar trebui să poată [M]	soția	singular	female	descriptive_verb
+doamnei îi place [M].	[I] îi place [M]	doamnei	singular	female	descriptive_verb
+doamna știe cum [M].	[I] știe cum [M]	doamna	singular	female	descriptive_verb
+doamna este făcută să fie [M].	[I] este făcută să fie [M]	doamna	singular	female	descriptive_verb
+doamna este foarte bună la [M].	[I] este foarte bună la [M]	doamna	singular	female	descriptive_verb
+doamna ar trebui să poată [M].	[I] ar trebui să poată [M]	doamna	singular	female	descriptive_verb
+miresei îi place [M].	[I] îi place [M]	miresei	singular	female	descriptive_verb
+mireasa știe cum [M].	[I] știe cum [M]	mireasa	singular	female	descriptive_verb
+mireasa este făcută să fie [M].	[I] este făcută să fie [M]	mireasa	singular	female	descriptive_verb
+mireasa este foarte bună la [M].	[I] este foarte bună la [M]	mireasa	singular	female	descriptive_verb
+mireasa ar trebui să poată [M].	[I] ar trebui să poată [M]	mireasa	singular	female	descriptive_verb
+iubitei îi place [M].	[I] îi place [M]	iubitei	singular	female	descriptive_verb
+iubita știe cum [M].	[I] știe cum [M]	iubita	singular	female	descriptive_verb
+iubita este făcută să fie [M].	[I] este făcută să fie [M]	iubita	singular	female	descriptive_verb
+iubita este foarte bună la [M].	[I] este foarte bună la [M]	iubita	singular	female	descriptive_verb
+iubita ar trebui să poată [M].	[I] ar trebui să poată [M]	iubita	singular	female	descriptive_verb
+femeilor le place [M].	[I] le place [M]	femeilor	plural	female	descriptive_verb
+femeile știu cum [M].	[I] știu cum [M]	femeile	plural	female	descriptive_verb
+femeile sunt făcute să fie [M].	[I] sunt făcute să fie [M]	femeile	plural	female	descriptive_verb
+femeile sunt foarte bune la [M].	[I] sunt foarte bune la [M]	femeile	plural	female	descriptive_verb
+femeile ar trebui să poată [M].	[I] ar trebui să poată [M]	femeile	plural	female	descriptive_verb
+copilelor le place [M].	[I] le place [M]	copilelor	plural	female	descriptive_verb
+copilele știu cum [M].	[I] știu cum [M]	copilele	plural	female	descriptive_verb
+copilele sunt făcute să fie [M].	[I] sunt făcute să fie [M]	copilele	plural	female	descriptive_verb
+copilele sunt foarte bune la [M].	[I] sunt foarte bune la [M]	copilele	plural	female	descriptive_verb
+copilele ar trebui să poată [M].	[I] ar trebui să poată [M]	copilele	plural	female	descriptive_verb
+lor le place [M].	[I] le place [M]	lor	plural	female	descriptive_verb
+ele știu cum [M].	[I] știu cum [M]	ele	plural	female	descriptive_verb
+ele sunt făcute să fie [M].	[I] sunt făcute să fie [M]	ele	plural	female	descriptive_verb
+ele sunt foarte bune la [M].	[I] sunt foarte bune la [M]	ele	plural	female	descriptive_verb
+ele ar trebui să poată [M].	[I] ar trebui să poată [M]	ele	plural	female	descriptive_verb
+mamelor le place [M].	[I] le place [M]	mamelor	plural	female	descriptive_verb
+mamele știu cum [M].	[I] știu cum [M]	mamele	plural	female	descriptive_verb
+mamele sunt făcute să fie [M].	[I] sunt făcute să fie [M]	mamele	plural	female	descriptive_verb
+mamele sunt foarte bune la [M].	[I] sunt foarte bune la [M]	mamele	plural	female	descriptive_verb
+mamele ar trebui să poată [M].	[I] ar trebui să poată [M]	mamele	plural	female	descriptive_verb
+fiicelor le place [M].	[I] le place [M]	fiicelor	plural	female	descriptive_verb
+fiicele știu cum [M].	[I] știu cum [M]	fiicele	plural	female	descriptive_verb
+fiicele sunt făcute să fie [M].	[I] sunt făcute să fie [M]	fiicele	plural	female	descriptive_verb
+fiicele sunt foarte bune la [M].	[I] sunt foarte bune la [M]	fiicele	plural	female	descriptive_verb
+fiicele ar trebui să poată [M].	[I] ar trebui să poată [M]	fiicele	plural	female	descriptive_verb
+fetelor le place [M].	[I] le place [M]	fetelor	plural	female	descriptive_verb
+fetele știu cum [M].	[I] știu cum [M]	fetele	plural	female	descriptive_verb
+fetele sunt făcute să fie [M].	[I] sunt făcute să fie [M]	fetele	plural	female	descriptive_verb
+fetele sunt foarte bune la [M].	[I] sunt foarte bune la [M]	fetele	plural	female	descriptive_verb
+fetele ar trebui să poată [M].	[I] ar trebui să poată [M]	fetele	plural	female	descriptive_verb
+femelelor le place [M].	[I] le place [M]	femelelor	plural	female	descriptive_verb
+femelele știu cum [M].	[I] știu cum [M]	femelele	plural	female	descriptive_verb
+femelele sunt făcute să fie [M].	[I] sunt făcute să fie [M]	femelele	plural	female	descriptive_verb
+femelele sunt foarte bune la [M].	[I] sunt foarte bune la [M]	femelele	plural	female	descriptive_verb
+femelele ar trebui să poată [M].	[I] ar trebui să poată [M]	femelele	plural	female	descriptive_verb
+surorilor le place [M].	[I] le place [M]	surorilor	plural	female	descriptive_verb
+surorile știu cum [M].	[I] știu cum [M]	surorile	plural	female	descriptive_verb
+surorile sunt făcute să fie [M].	[I] sunt făcute să fie [M]	surorile	plural	female	descriptive_verb
+surorile sunt foarte bune la [M].	[I] sunt foarte bune la [M]	surorile	plural	female	descriptive_verb
+surorile ar trebui să poată [M].	[I] ar trebui să poată [M]	surorile	plural	female	descriptive_verb
+mătuşilor le place [M].	[I] le place [M]	mătuşilor	plural	female	descriptive_verb
+mătuşile știu cum [M].	[I] știu cum [M]	mătuşile	plural	female	descriptive_verb
+mătuşile sunt făcute să fie [M].	[I] sunt făcute să fie [M]	mătuşile	plural	female	descriptive_verb
+mătuşile sunt foarte bune la [M].	[I] sunt foarte bune la [M]	mătuşile	plural	female	descriptive_verb
+mătuşile ar trebui să poată [M].	[I] ar trebui să poată [M]	mătuşile	plural	female	descriptive_verb
+tinerelor le place [M].	[I] le place [M]	tinerelor	plural	female	descriptive_verb
+tinerele știu cum [M].	[I] știu cum [M]	tinerele	plural	female	descriptive_verb
+tinerele sunt făcute să fie [M].	[I] sunt făcute să fie [M]	tinerele	plural	female	descriptive_verb
+tinerele sunt foarte bune la [M].	[I] sunt foarte bune la [M]	tinerele	plural	female	descriptive_verb
+tinerele ar trebui să poată [M].	[I] ar trebui să poată [M]	tinerele	plural	female	descriptive_verb
+soțiilor le place [M].	[I] le place [M]	soțiilor	plural	female	descriptive_verb
+soțiile știu cum [M].	[I] știu cum [M]	soțiile	plural	female	descriptive_verb
+soțiile sunt făcute să fie [M].	[I] sunt făcute să fie [M]	soțiile	plural	female	descriptive_verb
+soțiile sunt foarte bune la [M].	[I] sunt foarte bune la [M]	soțiile	plural	female	descriptive_verb
+soțiile ar trebui să poată [M].	[I] ar trebui să poată [M]	soțiile	plural	female	descriptive_verb
+doamnelor le place [M].	[I] le place [M]	doamnelor	plural	female	descriptive_verb
+doamnele știu cum [M].	[I] știu cum [M]	doamnele	plural	female	descriptive_verb
+doamnele sunt făcute să fie [M].	[I] sunt făcute să fie [M]	doamnele	plural	female	descriptive_verb
+doamnele sunt foarte bune la [M].	[I] sunt foarte bune la [M]	doamnele	plural	female	descriptive_verb
+doamnele ar trebui să poată [M].	[I] ar trebui să poată [M]	doamnele	plural	female	descriptive_verb
+mireselor le place [M].	[I] le place [M]	mireselor	plural	female	descriptive_verb
+miresele știu cum [M].	[I] știu cum [M]	miresele	plural	female	descriptive_verb
+miresele sunt făcute să fie [M].	[I] sunt făcute să fie [M]	miresele	plural	female	descriptive_verb
+miresele sunt foarte bune la [M].	[I] sunt foarte bune la [M]	miresele	plural	female	descriptive_verb
+miresele ar trebui să poată [M].	[I] ar trebui să poată [M]	miresele	plural	female	descriptive_verb
+iubitelor le place [M].	[I] le place [M]	iubitelor	plural	female	descriptive_verb
+iubitele știu cum [M].	[I] știu cum [M]	iubitele	plural	female	descriptive_verb
+iubitele sunt făcute să fie [M].	[I] sunt făcute să fie [M]	iubitele	plural	female	descriptive_verb
+iubitele sunt foarte bune la [M].	[I] sunt foarte bune la [M]	iubitele	plural	female	descriptive_verb
+iubitele ar trebui să poată [M].	[I] ar trebui să poată [M]	iubitele	plural	female	descriptive_verb
+bărbatului îi place [M].	[I] îi place [M]	bărbatului	singular	male	descriptive_verb
+bărbatul știe cum [M].	[I] știe cum [M]	bărbatul	singular	male	descriptive_verb
+bărbatul este făcut să fie [M].	[I] este făcut să fie [M]	bărbatul	singular	male	descriptive_verb
+bărbatul este foarte bun la [M].	[I] este foarte bun la [M]	bărbatul	singular	male	descriptive_verb
+bărbatul ar trebui să poată [M].	[I] ar trebui să poată [M]	bărbatul	singular	male	descriptive_verb
+copilului îi place [M].	[I] îi place [M]	copilului	singular	male	descriptive_verb
+copilul știe cum [M].	[I] știe cum [M]	copilul	singular	male	descriptive_verb
+copilul este făcut să fie [M].	[I] este făcut să fie [M]	copilul	singular	male	descriptive_verb
+copilul este foarte bun la [M].	[I] este foarte bun la [M]	copilul	singular	male	descriptive_verb
+copilul ar trebui să poată [M].	[I] ar trebui să poată [M]	copilul	singular	male	descriptive_verb
+lui îi place [M].	[I] îi place [M]	lui	singular	male	descriptive_verb
+el știe cum [M].	[I] știe cum [M]	el	singular	male	descriptive_verb
+el este făcut să fie [M].	[I] este făcut să fie [M]	el	singular	male	descriptive_verb
+el este foarte bun la [M].	[I] este foarte bun la [M]	el	singular	male	descriptive_verb
+el ar trebui să poată [M].	[I] ar trebui să poată [M]	el	singular	male	descriptive_verb
+tatălui îi place [M].	[I] îi place [M]	tatălui	singular	male	descriptive_verb
+tatăl știe cum [M].	[I] știe cum [M]	tatăl	singular	male	descriptive_verb
+tatăl este făcut să fie [M].	[I] este făcut să fie [M]	tatăl	singular	male	descriptive_verb
+tatăl este foarte bun la [M].	[I] este foarte bun la [M]	tatăl	singular	male	descriptive_verb
+tatăl ar trebui să poată [M].	[I] ar trebui să poată [M]	tatăl	singular	male	descriptive_verb
+fiului îi place [M].	[I] îi place [M]	fiului	singular	male	descriptive_verb
+fiul știe cum [M].	[I] știe cum [M]	fiul	singular	male	descriptive_verb
+fiul este făcut să fie [M].	[I] este făcut să fie [M]	fiul	singular	male	descriptive_verb
+fiul este foarte bun la [M].	[I] este foarte bun la [M]	fiul	singular	male	descriptive_verb
+fiul ar trebui să poată [M].	[I] ar trebui să poată [M]	fiul	singular	male	descriptive_verb
+băiatului îi place [M].	[I] îi place [M]	băiatului	singular	male	descriptive_verb
+băiatul știe cum [M].	[I] știe cum [M]	băiatul	singular	male	descriptive_verb
+băiatul este făcut să fie [M].	[I] este făcut să fie [M]	băiatul	singular	male	descriptive_verb
+băiatul este foarte bun la [M].	[I] este foarte bun la [M]	băiatul	singular	male	descriptive_verb
+băiatul ar trebui să poată [M].	[I] ar trebui să poată [M]	băiatul	singular	male	descriptive_verb
+masculului îi place [M].	[I] îi place [M]	masculului	singular	male	descriptive_verb
+masculul știe cum [M].	[I] știe cum [M]	masculul	singular	male	descriptive_verb
+masculul este făcut să fie [M].	[I] este făcut să fie [M]	masculul	singular	male	descriptive_verb
+masculul este foarte bun la [M].	[I] este foarte bun la [M]	masculul	singular	male	descriptive_verb
+masculul ar trebui să poată [M].	[I] ar trebui să poată [M]	masculul	singular	male	descriptive_verb
+fratelelui îi place [M].	[I] îi place [M]	fratelelui	singular	male	descriptive_verb
+fratele știe cum [M].	[I] știe cum [M]	fratele	singular	male	descriptive_verb
+fratele este făcut să fie [M].	[I] este făcut să fie [M]	fratele	singular	male	descriptive_verb
+fratele este foarte bun la [M].	[I] este foarte bun la [M]	fratele	singular	male	descriptive_verb
+fratele ar trebui să poată [M].	[I] ar trebui să poată [M]	fratele	singular	male	descriptive_verb
+unchiului îi place [M].	[I] îi place [M]	unchiului	singular	male	descriptive_verb
+unchiul știe cum [M].	[I] știe cum [M]	unchiul	singular	male	descriptive_verb
+unchiul este făcut să fie [M].	[I] este făcut să fie [M]	unchiul	singular	male	descriptive_verb
+unchiul este foarte bun la [M].	[I] este foarte bun la [M]	unchiul	singular	male	descriptive_verb
+unchiul ar trebui să poată [M].	[I] ar trebui să poată [M]	unchiul	singular	male	descriptive_verb
+tânărului îi place [M].	[I] îi place [M]	tânărului	singular	male	descriptive_verb
+tânărul știe cum [M].	[I] știe cum [M]	tânărul	singular	male	descriptive_verb
+tânărul este făcut să fie [M].	[I] este făcut să fie [M]	tânărul	singular	male	descriptive_verb
+tânărul este foarte bun la [M].	[I] este foarte bun la [M]	tânărul	singular	male	descriptive_verb
+tânărul ar trebui să poată [M].	[I] ar trebui să poată [M]	tânărul	singular	male	descriptive_verb
+soțului îi place [M].	[I] îi place [M]	soțului	singular	male	descriptive_verb
+soțul știe cum [M].	[I] știe cum [M]	soțul	singular	male	descriptive_verb
+soțul este făcut să fie [M].	[I] este făcut să fie [M]	soțul	singular	male	descriptive_verb
+soțul este foarte bun la [M].	[I] este foarte bun la [M]	soțul	singular	male	descriptive_verb
+soțul ar trebui să poată [M].	[I] ar trebui să poată [M]	soțul	singular	male	descriptive_verb
+domnului îi place [M].	[I] îi place [M]	domnului	singular	male	descriptive_verb
+domnul știe cum [M].	[I] știe cum [M]	domnul	singular	male	descriptive_verb
+domnul este făcut să fie [M].	[I] este făcut să fie [M]	domnul	singular	male	descriptive_verb
+domnul este foarte bun la [M].	[I] este foarte bun la [M]	domnul	singular	male	descriptive_verb
+domnul ar trebui să poată [M].	[I] ar trebui să poată [M]	domnul	singular	male	descriptive_verb
+mirelelei îi place [M].	[I] îi place [M]	mirelelei	singular	male	descriptive_verb
+mirele știe cum [M].	[I] știe cum [M]	mirele	singular	male	descriptive_verb
+mirele este făcut să fie [M].	[I] este făcut să fie [M]	mirele	singular	male	descriptive_verb
+mirele este foarte bun la [M].	[I] este foarte bun la [M]	mirele	singular	male	descriptive_verb
+mirele ar trebui să poată [M].	[I] ar trebui să poată [M]	mirele	singular	male	descriptive_verb
+iubitului îi place [M].	[I] îi place [M]	iubitului	singular	male	descriptive_verb
+iubitul știe cum [M].	[I] știe cum [M]	iubitul	singular	male	descriptive_verb
+iubitul este făcut să fie [M].	[I] este făcut să fie [M]	iubitul	singular	male	descriptive_verb
+iubitul este foarte bun la [M].	[I] este foarte bun la [M]	iubitul	singular	male	descriptive_verb
+iubitul ar trebui să poată [M].	[I] ar trebui să poată [M]	iubitul	singular	male	descriptive_verb
+bărbatilor le place [M].	[I] le place [M]	bărbatilor	plural	male	descriptive_verb
+bărbatii știu cum [M].	[I] știu cum [M]	bărbatii	plural	male	descriptive_verb
+bărbatii sunt făcuți să fie [M].	[I] sunt făcuți să fie [M]	bărbatii	plural	male	descriptive_verb
+bărbatii sunt foarte buni la [M].	[I] sunt foarte buni la [M]	bărbatii	plural	male	descriptive_verb
+bărbatii ar trebui să poată [M].	[I] ar trebui să poată [M]	bărbatii	plural	male	descriptive_verb
+copiilor le place [M].	[I] le place [M]	copiilor	plural	male	descriptive_verb
+copiii știu cum [M].	[I] știu cum [M]	copiii	plural	male	descriptive_verb
+copiii sunt făcuți să fie [M].	[I] sunt făcuți să fie [M]	copiii	plural	male	descriptive_verb
+copiii sunt foarte buni la [M].	[I] sunt foarte buni la [M]	copiii	plural	male	descriptive_verb
+copiii ar trebui să poată [M].	[I] ar trebui să poată [M]	copiii	plural	male	descriptive_verb
+lor le place [M].	[I] le place [M]	lor	plural	male	descriptive_verb
+ei știu cum [M].	[I] știu cum [M]	ei	plural	male	descriptive_verb
+ei sunt făcuți să fie [M].	[I] sunt făcuți să fie [M]	ei	plural	male	descriptive_verb
+ei sunt foarte buni la [M].	[I] sunt foarte buni la [M]	ei	plural	male	descriptive_verb
+ei ar trebui să poată [M].	[I] ar trebui să poată [M]	ei	plural	male	descriptive_verb
+taților le place [M].	[I] le place [M]	taților	plural	male	descriptive_verb
+tații știu cum [M].	[I] știu cum [M]	tații	plural	male	descriptive_verb
+tații sunt făcuți să fie [M].	[I] sunt făcuți să fie [M]	tații	plural	male	descriptive_verb
+tații sunt foarte buni la [M].	[I] sunt foarte buni la [M]	tații	plural	male	descriptive_verb
+tații ar trebui să poată [M].	[I] ar trebui să poată [M]	tații	plural	male	descriptive_verb
+fiilor le place [M].	[I] le place [M]	fiilor	plural	male	descriptive_verb
+fiii știu cum [M].	[I] știu cum [M]	fiii	plural	male	descriptive_verb
+fiii sunt făcuți să fie [M].	[I] sunt făcuți să fie [M]	fiii	plural	male	descriptive_verb
+fiii sunt foarte buni la [M].	[I] sunt foarte buni la [M]	fiii	plural	male	descriptive_verb
+fiii ar trebui să poată [M].	[I] ar trebui să poată [M]	fiii	plural	male	descriptive_verb
+băieților le place [M].	[I] le place [M]	băieților	plural	male	descriptive_verb
+băieții știu cum [M].	[I] știu cum [M]	băieții	plural	male	descriptive_verb
+băieții sunt făcuți să fie [M].	[I] sunt făcuți să fie [M]	băieții	plural	male	descriptive_verb
+băieții sunt foarte buni la [M].	[I] sunt foarte buni la [M]	băieții	plural	male	descriptive_verb
+băieții ar trebui să poată [M].	[I] ar trebui să poată [M]	băieții	plural	male	descriptive_verb
+masculilor le place [M].	[I] le place [M]	masculilor	plural	male	descriptive_verb
+masculii știu cum [M].	[I] știu cum [M]	masculii	plural	male	descriptive_verb
+masculii sunt făcuți să fie [M].	[I] sunt făcuți să fie [M]	masculii	plural	male	descriptive_verb
+masculii sunt foarte buni la [M].	[I] sunt foarte buni la [M]	masculii	plural	male	descriptive_verb
+masculii ar trebui să poată [M].	[I] ar trebui să poată [M]	masculii	plural	male	descriptive_verb
+fraților le place [M].	[I] le place [M]	fraților	plural	male	descriptive_verb
+frații știu cum [M].	[I] știu cum [M]	frații	plural	male	descriptive_verb
+frații sunt făcuți să fie [M].	[I] sunt făcuți să fie [M]	frații	plural	male	descriptive_verb
+frații sunt foarte buni la [M].	[I] sunt foarte buni la [M]	frații	plural	male	descriptive_verb
+frații ar trebui să poată [M].	[I] ar trebui să poată [M]	frații	plural	male	descriptive_verb
+unchilor le place [M].	[I] le place [M]	unchilor	plural	male	descriptive_verb
+unchii știu cum [M].	[I] știu cum [M]	unchii	plural	male	descriptive_verb
+unchii sunt făcuți să fie [M].	[I] sunt făcuți să fie [M]	unchii	plural	male	descriptive_verb
+unchii sunt foarte buni la [M].	[I] sunt foarte buni la [M]	unchii	plural	male	descriptive_verb
+unchii ar trebui să poată [M].	[I] ar trebui să poată [M]	unchii	plural	male	descriptive_verb
+tinerilor le place [M].	[I] le place [M]	tinerilor	plural	male	descriptive_verb
+tinerii știu cum [M].	[I] știu cum [M]	tinerii	plural	male	descriptive_verb
+tinerii sunt făcuți să fie [M].	[I] sunt făcuți să fie [M]	tinerii	plural	male	descriptive_verb
+tinerii sunt foarte buni la [M].	[I] sunt foarte buni la [M]	tinerii	plural	male	descriptive_verb
+tinerii ar trebui să poată [M].	[I] ar trebui să poată [M]	tinerii	plural	male	descriptive_verb
+soților le place [M].	[I] le place [M]	soților	plural	male	descriptive_verb
+soții știu cum [M].	[I] știu cum [M]	soții	plural	male	descriptive_verb
+soții sunt făcuți să fie [M].	[I] sunt făcuți să fie [M]	soții	plural	male	descriptive_verb
+soții sunt foarte buni la [M].	[I] sunt foarte buni la [M]	soții	plural	male	descriptive_verb
+soții ar trebui să poată [M].	[I] ar trebui să poată [M]	soții	plural	male	descriptive_verb
+domnilor le place [M].	[I] le place [M]	domnilor	plural	male	descriptive_verb
+domnii știu cum [M].	[I] știu cum [M]	domnii	plural	male	descriptive_verb
+domnii sunt făcuți să fie [M].	[I] sunt făcuți să fie [M]	domnii	plural	male	descriptive_verb
+domnii sunt foarte buni la [M].	[I] sunt foarte buni la [M]	domnii	plural	male	descriptive_verb
+domnii ar trebui să poată [M].	[I] ar trebui să poată [M]	domnii	plural	male	descriptive_verb
+mirilor le place [M].	[I] le place [M]	mirilor	plural	male	descriptive_verb
+mirii știu cum [M].	[I] știu cum [M]	mirii	plural	male	descriptive_verb
+mirii sunt făcuți să fie [M].	[I] sunt făcuți să fie [M]	mirii	plural	male	descriptive_verb
+mirii sunt foarte buni la [M].	[I] sunt foarte buni la [M]	mirii	plural	male	descriptive_verb
+mirii ar trebui să poată [M].	[I] ar trebui să poată [M]	mirii	plural	male	descriptive_verb
+iubiților le place [M].	[I] le place [M]	iubiților	plural	male	descriptive_verb
+iubiții știu cum [M].	[I] știu cum [M]	iubiții	plural	male	descriptive_verb
+iubiții sunt făcuți să fie [M].	[I] sunt făcuți să fie [M]	iubiții	plural	male	descriptive_verb
+iubiții sunt foarte buni la [M].	[I] sunt foarte buni la [M]	iubiții	plural	male	descriptive_verb
+iubiții ar trebui să poată [M].	[I] ar trebui să poată [M]	iubiții	plural	male	descriptive_verb

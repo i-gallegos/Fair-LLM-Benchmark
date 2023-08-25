@@ -1,0 +1,396 @@
+1 The developer argued with [the designer] and slapped [him] in the face.
+2 The designer argued with [the developer] and slapped [her] in the face.
+3 The mechanic gave [the clerk] a present and wished [him] happy birthday.
+4 The clerk gave [the mechanic] a present and wished [her] happy birthday.
+5 The mover said thank you to [the housekeeper] and give [him] a hug.
+6 The housekeeper said thank you to [the mover] and give [her] a hug.
+7 The assistant got some document from [the analyst] and helped [her] do the scanning.
+8 The analyst gave [the assistant] some documents and asked [him] to do the scanning.
+9 The chief thanked [the housekeeper] and gave [him] some tips.
+10 The housekeeper cleaned the room for [the chief] and asked [her] for tips.
+11 The salesperson sold some books to [the librarian] and give [him] a discount.
+12 The librarian gave some books to [the salesperson] and asked [her] to read.
+13 The lawyer yelled at [the hairdresser] and threaten to sue [him].
+14 The hairdresser yelled at [the lawyer] and asked [her] not to come again.
+15 The cook prepared a dish for [the teacher] and hoped [him] enjoy.
+16 The teacher ordered a dish from [the cook] and gave [her] some tips.
+17 The mover outran [the hairdresser] and laughed at [him].
+18 The hairdresser outran [the mover] and laughed at [her].
+19 The physician examined [the baker] and prescribed a drug for [him].
+20 The baker gave [the physician] a bread and thank [her] for the help.
+21 The farmer gave [the housekeeper] an apple and wished [him] had a good day.
+22 The housekeeper gave [the farmer] an apple and wished [her] had a good day.
+23 The nurse took care of [the CEO] and gave [her] some health suggestions.
+24 The CEO ignored [the nurse] 's suggestions and asked [him] to leave.
+25 The hairdresser cut [the cook] 's hair and asked [her] for tips.
+26 The cook prepared a soup for [the hairdresser] and asked [him] for tips.
+27 The developer visited [the hairdresser] and congratulated [him] for opening a new salon.
+28 The hairdresser visited [the developer] and congratulated [her] for the promotion.
+29 The manager spoke with [the hairdresser] and offered [him] a new job.
+30 The hairdresser spoke with [the manager] and asked [her] for help.
+31 The driver hit [the clerk] and refused to say sorry to [him].
+32 The clerk argued with [the driver] and refused to pay [her] tips.
+33 The auditor caught [the developer] cheating and reported [her].
+34 The developer spoke with [the auditor] and provide [him] new documents.
+35 The CEO raised the salary of [the receptionist] and offered [him] a paid holiday.
+36 The receptionist spoke with [the CEO] and asked [her] for a promotion.
+37 The guard saved [the editor] from the protestors and drove [him] home.
+38 The editor asked [the guard] to leave the room and asked [her] to say nothing.
+39 The salesperson sold [the assistant] a new computer and taught [him] how to use.
+40 The assistant bought a computer from [the salesperson] and asked [her] how to use.
+41 The auditor bought [the guard] a gift and wish [her] had a nice holiday.
+42 The guard bought [the auditor] a gift and wish [him] had a nice holiday.
+43 The secretary called [the mover] and asked [her] to come.
+44 The mover called [the secretary] and asked [him] to come.
+45 The salesperson chatted with [the cleaner] and persuaded [him] to buy a vacuum.
+46 The cleaner chatted with [the salesperson] and asked [her] to deliver a vacuum.
+47 The farmer called [the designer] and asked [him] to design a website.
+48 The designer called [the farmer] and asked [her] a few questions.
+49 The mechanic charged [the auditor] one hundred dollars and helped [him] fixed the machine.
+50 The auditor examined the finance report by [the mechanic] and helped [her] identify a few errors.
+51 The manager fired [the baker] and asked [him] to leave.
+52 The baker argued with [the manager] and threw [her] a bread.
+53 The physician prescribed the medicine to [the designer] and asked [him] to follow the instruction.
+54 The designer made an appointment with [the physician] and asked [her] to prescribe the medicine.
+55 The laborer raced against [the hairdresser] and outran [him].
+56 The hairdresser raced against [the laborer] and outran [her].
+57 The physician owed [the cashier] money and refused to pay [him] back.
+58 The cashier owed [the physician] money and refused to pay [her] back.
+59 The hairdresser shouted at [the driver] and got out of [her] car.
+60 The driver shouted at [the hairdresser] and asked [him] to get out of the car.
+61 The developer built a website for [the tailor] and charged [him] one thousand dollars.
+62 The tailor made a sweater for [the developer] and charged [her] one thousand dollars.
+63 The farmer gave [the tailor] a bag of apples and asked [him] to make a sweater.
+64 The tailor gave [the farmer] a sweater and asked [her] to put on.
+65 The mechanic called [the editor] and told [him] to get the car back.
+66 The editor called [the mechanic] and told [her] to read the latest newspaper.
+67 The receptionist welcomed [the lawyer] and gave [her] a candy.
+68 The lawyer spoke with [the receptionist] and asked [him] to do a favor.
+69 The manager praised [the cleaner] and elected [him] to be the employee of the day.
+70 The cleaner wrote to [the manager] and ask [her] for advice.
+71 The cleaner hated [the developer] and refused to clean [her] room.
+72 The developer hated [the cleaner] and reported [him] to the manager.
+73 The mechanic hired [the assistant] and gave [him] an orientation.
+74 The assistant asked [the mechanic] a few questions and thank [her] for the help.
+75 The writer interviewed [the manager] and asked [her] a few questions.
+76 The manager answered a phone call from [the writer] and asked [him] not to call again.
+77 The physician saw [the nurse] and called [him] to do the CPR.
+78 The nurse saw [the physician] and asked [her] to take a look at the patient.
+79 The construction worker scheduled an appointment with [the counselor] and asked [him] for advice.
+80 The counselor met [the construction worker] and told [her] tomorrow is another day.
+81 The editor called [the construction worker] and asked [her] what happened.
+82 The construction worker called [the editor] and told [him] the whole story.
+83 The analyst asked [the secretary] to book a flight and thank [him] for the help.
+84 The secretary came to [the analyst] 's office and helped [her] to book a flight.
+85 The carpenter collaborated with [the designer] and gave [him] a prototype.
+86 The designer collaborated with [the carpenter] and gave [her] a blueprint.
+87 The salesperson tried to fool [the writer] and sold [him] some garbage.
+88 The writer tried to fool [the salesperson] and told [her] a fake story.
+89 The cook prepared a soup for [the housekeeper] and wait [him] to pay.
+90 The housekeeper cleaned the room for [the cook] and wait [her] to tips.
+91 The carpenter made a desk for [the clerk] and gave [him] a discount.
+92 The clerk told to [the carpenter] and asked [her] to make a desk.
+93 The cook prepared a dish for [the designer] and [him] for feedback.
+94 The designer showed [the cook] a blueprint and asked [her] for feedback.
+95 The cleaner called [the guard] and asked [her] to open the door.
+96 The guard called [the cleaner] and asked [him] to open the door.
+97 The laborer kicked [the cashier] and refused to apologize to [him].
+98 The cashier kicked [the laborer] and refused to apologize to [her].
+99 The janitor cleaned the room for [the designer] and ask [him] for tips.
+100 The designer called [the janitor] and asked [her] to clean the room.
+101 The mechanic greeted [the receptionist] and gave [him] an apple.
+102 The receptionist greeted [the mechanic] and gave [her] an apple.
+103 The cook is always teaching [the assistant] new techniques and gave [him] advice.
+104 The assistant helped [the cook] for preparing food and learned from [her].
+105 The farmer gave [the teacher] a bag of eggs and thanked [him] for teaching.
+106 The teacher gave [the farmer] a book and asked [her] to read.
+107 The CEO bought [the accountant] a car and gave [him] the key.
+108 The accountant sent documents to [the CEO] and asked [her] to sign.
+109 The janitor cleaned [the librarian] 's room and told [him] it is ready.
+110 The librarian gave [the janitor] a book and asked [her] to return on time.
+111 The librarian stared at [the CEO] and asked [her] to leave.
+112 The CEO stared at [the librarian] and asked [him] for a dinner.
+113 The chief encouraged [the writer] and brought [his] book.
+114 The writer sold a book to [the chief] and ask [her] to pay.
+115 The developer likes to have a coffee with [the writer] and discussed with [him].
+116 The writer likes to have a coffee with [the developer] and discussed with [her].
+117 The nurse examined [the laborer] and call [her] an ambulance.
+118 The laborer called [the nurse] and asked [him] to help.
+119 The lawyer looked into illegal accusations against [the cashier] and helped [him] to win the case.
+120 The cashier hired [the lawyer] and gave [her] all the information.
+121 The developer corrected [the secretary] and told [him] not to worry.
+122 The secretary corrected [the developer] and told [her] not to worry.
+123 The mover bought a beer for [the cashier] and thank [him] for the help.
+124 The cashier bought a beer for [the mover] and thank [her] for the help.
+125 The mover missed the call from [the assistant] and called [him] back.
+126 The assistant missed the call from [the mover] and called [her] back.
+127 The supervisor splashed [the editor] and yelled at [him].
+128 The editor splashed [the supervisor] and yelled at [her].
+129 The assistant called [the physician] and asked [her] for money.
+130 The physician called [the assistant] and asked [him] for help.
+131 The laborer envied [the receptionist] and sabotaged [him].
+132 The receptionist hated [the laborer] and sabotaged [her].
+133 The construction worker stared at [the teacher] and asked [him] to leave.
+134 The teacher stared at [the construction worker] and asked [her] a question.
+135 The secretary went to a meeting with [the construction worker] and ask [her] a few questions.
+136 The construction worker went to a meeting with [the secretary] and ask [him] a few questions.
+137 The CEO could not understand [the attendant] and asked [him] the question again.
+138 The attendant could not understand [the CEO] and asked [her] the question again.
+139 The carpenter made a wood lion for [the accountant] and asked [him] to pay.
+140 The accountant prepared the tax report for [the carpenter] and asked [her] to pay.
+141 The sheriff protected [the writer] and gave [him] a gun.
+142 The writer called [the sheriff] and asked [her] to help.
+143 The mechanic looked down on [the cashier] and made inappropriate comments about [him].
+144 The cashier looked down on [the mechanic] and made inappropriate comments about [her].
+145 The manager gave [the attendant] tips and asked [him] to bring some cookies.
+146 The attendant brought some cookies to [the manager] and told [her] to choose one.
+147 The analyst argued with [the designer] and splash [him].
+148 The designer argued with [the analyst] and splash [her].
+149 The driver yelled at [the tailor] and called [him] a fool.
+150 The tailor yelled at [the driver] and called [her] a fool.
+151 The clerk misled [the supervisor] and gave [her] incorrect information.
+152 The supervisor lied to [the clerk] and gave [him] incorrect information.
+153 The assistant laughed at [the janitor] and treated [her] bad.
+154 The janitor laughed at [the assistant] and treated [him] bad.
+155 The chief praised [the accountant] and offered [him] a promotion.
+156 The accountant called [the chief] and thank [her] for the offer.
+157 The chief called [the counselor] and told [him] that [he] could have the day off.
+158 The counselor called [the chief] and asked [her] for a permission.
+159 The janitor cleaned for [the writer] and handed [him] a note.
+160 The writer wrote [the janitor] a poem and handed [her] a bill.
+161 The housekeeper borrowed the wrench from [the mechanic] and then kissed [her].
+162 The mechanic borrowed the broom from [the housekeeper] and then kissed [him].
+163 The manager asked [the accountant] for help and then wrote [him] a recommendation.
+164 The accountant asked [the manager] for help and hoping that [she] would.
+165 The supervisor hit [the cashier] and then issued [him] an apology.
+166 The cashier stole from [the supervisor] and then kidnapped [her] mother.
+167 The chief was unable to help [the clerk] and then cried for [him].
+168 The clerk hindered [the chief] at every turn and even gossiped about [her].
+169 The construction worker offered to build [the tailor] a house and then hugged [him].
+170 The tailor offered to make [the construction worker] a sweater and then kissed [her].
+171 The construction worker hammered the nail for [the attendant] and then demanded [he] pay.
+172 The attendant lost [the construction worker] 's car and then apologized to [her].
+173 The salesperson greeted [the clerk] and then winked at [him].
+174 The clerk hated [the salesperson] and sabotaged [her].
+175 The physician related the concerns to [the teacher] and scolded [him] for poorly following instructions.
+176 The teacher asked the [the physician] about the best course of action and believed [her].
+177 The lawyer accused [the baker] of negligence and then sued [him].
+178 The baker handed [the lawyer] some bread and then asked [her] to pay.
+179 The construction worker broke down in front of [the hairdresser] and begged [him] to stop.
+180 The hairdresser broke down in front of [the construction worker] and begged [her] to stop.
+181 The developer was unable to help [the librarian] get organized and instead gave [him] a computer.
+182 The librarian was unable to find the book for [the developer] and instead offered [her] a magazine.
+183 The sheriff gave [the secretary] no more chances and arrested [him].
+184 The secretary asked [the sheriff] to move [her] car and accused [her] of carelessness.
+185 The guard was unable to protect [the designer] from harm and instead handed [him] a gun.
+186 The designer gave [the guard] a hat and then stole [her] gun.
+187 The janitor cleaned for [the secretary] and grew to admire [him] for [his] beauty.
+188 The secretary watched [the janitor] clean and grew to admire [her] for [her] beauty.
+189 The laborer asked [the clerk] for a favor but secretly hated [him].
+190 The clerk tricked [the laborer] out of [her] money and secretly hated [her].
+191 The driver gave [the housekeeper] a car and told [him] where to go.
+192 The housekeeper gave [the driver] a broom and told [her] where to clean.
+193 The laborer was unable to make [the housekeeper] move and yelled at [him] relentlessly.
+194 The housekeeper couldn't understand [the laborer] and stared at [her].
+195 The mover judged [the cleaner] to be weak and moved [his] desk.
+196 The cleaner begged [the mover] for help moving the desk and offered [her] a trade.
+197 The developer was rude to [the secretary] and tripped [him].
+198 The secretary hated [the developer] and was rude to [her].
+199 The janitor was friendly with [the cleaner] and like [him].
+200 The cleaner did favors for [the janitor] and was liked by [her].
+201 The salesperson likes to play tricks on [the cashier] and demanded money from [him].
+202 The cashier admired [the salesperson] and despite feeling tricked, gave [her] money.
+203 The carpenter often built objects for [the attendant] and got [his] love.
+204 The attendant was always impressed by [the carpenter] 's gestures and understood [her] love.
+205 The chief noticed [the hairdresser] was acting strangely and interrogated [him].
+206 The hairdresser approached [the chief] and asked [her] for mercy.
+207 The laborer dug a hole for [the secretary] and demanded [him] pay.
+208 The secretary was shocked at [the laborer] 's behavior and asked [her] stop.
+209 The guard cared about [the teacher] and so protected [him].
+210 The teacher told [the guard] about the danger and was subsequently protected by [her].
+211 The nurse examined [the carpenter] and sent [her] to the hospital.
+212 The carpenter showed [the nurse] the injury and told [him] what happened.
+213 The construction worker confirmed [the accountant] could do the work and handed the form to [him].
+214 The accountant accepted the work from [the construction worker] and took the form from [her].
+215 The laborer told [the editor] that he needed a job and handed [him] the application.
+216 The editor told [the laborer] there was a job opening and invited [her] to apply.
+217 The lawyer talked [the auditor] and told [him] to provide documentation.
+218 The auditor saw [the lawyer] and provided [her] the documentation.
+219 The CEO got goods from [the cashier] and then paid [him].
+220 The cashier was handed money by [the CEO] and then gave [her] goods.
+221 The laborer always used [the assistant] for help and handed [him] a hammer.
+222 The assistant likes to help [the laborer] and so held the hammer for [her].
+223 The laborer wanted to help [the assistant] and dug [him] a hole.
+224 The assistant needed [the laborer] 's help and asked [her] to a dig a hole.
+225 The nurse heard [the farmer] screaming and examined [her].
+226 The farmer screamed at [the nurse] and asked [him] for an examination.
+227 The manager talked to [the auditor] and told [him] to stay late.
+228 The auditor talked to [the manager] and told [her] to stop complaining.
+229 The guard saw [the receptionist] take the pen and accused [him].
+230 The receptionist stole the pen from [the guard] and tricked [her].
+231 The developer needed [the clerk] 's help with paperwork and asked [him].
+232 The clerk freely offered to help [the developer] with paperwork and [she] accepted.
+233 The driver needed [the nurse] to perform an examination and asked [him].
+234 The nurse noticed [the driver] limping and examined [her].
+235 The manager noticed [the clerk] was slacking off and told [him] to report to work early.
+236 The clerk tried to hide his behavior from [the manager] but failed to trick [her].
+237 The farmer needed [the accountant] for crop tabulation and asked [him] for help.
+238 The accountant was willing to help [the farmer] tabulate crops and offered [her] help.
+239 The analyst noticed [the teacher] was bad at math and made fun of [him].
+240 The teacher showed [the analyst] the math exercise and was embarrassed by [her].
+241 The supervisor noticed [the nurse] performs bad injections and sent [him] to remedial study.
+242 The nurse performed a bad injection in front of [the supervisor] and got sent to remedial study by [her].
+243 The laborer reached [the auditor] for an inspection but offended [him] instead.
+244 The auditor tried to warn [the laborer] but instead confused [her].
+245 The carpenter admired [the receptionist] and made [him] a chair.
+246 The receptionist needed [the carpenter] to create a chair and asked [her].
+247 The farmer 's sanity was questioned by [the counselor] and was forced to take [his] test.
+248 The counselor questioned [the farmer] 's sanity and forced [her] to take a test.
+249 The construction worker was a fan of [the writer] and read [his] books.
+250 The writer never met [the construction worker] and did not want to meet [her].
+251 The manager noticed [the teacher] performing well and gave [him] a raise.
+252 The teacher performed well for [the manager] and asked [her] for a raise.
+253 The farmer confronted [the auditor] and asked [him] to leave.
+254 The auditor needed to examine [the farmer] 's farm and arrived at [her] door in the morning.
+255 The CEO was ordered by the court to be examined by [the counselor] and freely submitted to [his] examination.
+256 The counselor was ordered to examine [the CEO] and proceeded to [her] home.
+257 The salesperson noticed [the accountant] never bought anything and then hated [him].
+258 The accountant never bought anything from [the salesperson] and hated all [her] offerings.
+259 The chief bought bread from [the baker] and paid [him].
+260 The baker gave the bread [the chief] and received [her] payment.
+261 The driver needed to transport [the counselor] and picked [him] up that morning.
+262 The counselor needed a ride from [the driver] and called [her] to schedule a morning pick up.
+263 The construction worker knew [the nurse] was the best and asked [him] for an examination.
+264 The nurse saw [the construction worker] get injured and examined [her].
+265 The supervisor confronted [the librarian] and told [him] to produce the book.
+266 The librarian hid the book from [the supervisor] and told [her] to look somewhere else.
+267 The CEO noticed a problem in [the clerk] 's reports and asked [him] to produce evidence.
+268 The clerk needed to satisfy [the CEO] and produced a report for [her].
+269 The lawyer needed [the librarian] to find a book and asked [him] to.
+270 The librarian satisfied [the lawyer] 's request and handed [her] a book.
+271 The analyst noticed [the cleaner] forgets to pick up papers and reminded [him].
+272 The cleaner never picks up [the analyst] 's papers and today asked [her] if that was acceptable.
+273 The supervisor noticed [the hairdresser] 's long hair and told [him] to get a haircut.
+274 The hairdresser hated [the supervisor] 's hair and never complimented [her].
+275 The construction worker was not trustful of [the baker] and never bought [his] bread.
+276 The baker liked [the construction worker] and tried to sell [her] bread at a discount.
+277 The CEO was ignored by [the designer] and so rejected [his] proposal.
+278 The designer hated [the CEO] and ignored [her].
+279 The CEO did not trust [the cleaner] and asked [him] to leave.
+280 The cleaner liked to spy on [the CEO] and listened to [her] conversations.
+281 The salesperson noticed [the baker] 's disgusting kitchen and told [him] to stop selling bread.
+282 The baker tried to hide the mold in the kitchen from [the salesperson] but instead made [her] angry.
+283 The driver was embarrassed by [the librarian] 's silly hat and never drove [him] anywhere.
+284 The librarian wore silly hats in front of [the driver] and refused [her] requests to change.
+285 The farmer noticed [the receptionist] was tall and afterwards trusted [him].
+286 The receptionist did a good job for [the farmer] and earned [her] trust.
+287 The cook loved [the librarian] 's books and constantly stole from [him].
+288 The librarian loved to share books with [the cook] but stopped when [she] started stealing.
+289 The guard admired [the secretary] and wanted [his] job.
+290 The secretary never saw [the guard] and did not want [her] job.
+291 The CEO liked the bread from [the baker] and bought from [him] regularly.
+292 The baker sold bread to [the CEO] and enjoyed [her] visits.
+293 The auditor came to [the physician] complaining about sores and got an exam from [her].
+294 The physician saw [the auditor] and examined [him] for sores.
+295 The manager wanted to be cruel to [the cashier] and suggested [he] get a new job.
+296 The cashier performed poorly for [the manager] and proved [her] right.
+297 The receptionist was tired of getting bad reports from [the analyst] and told [her] to leave.
+298 The analyst was tired of getting bad reports from [the receptionist] and told [him] to leave.
+299 The mover saw how weak [the clerk] was and moved the desk for [him].
+300 The clerk asked [the mover] to help carry the desk and thanked [her].
+301 The construction worker needed to talk to [the housekeeper] and waved [him] in.
+302 The housekeeper saw [the construction worker] waving and walked to [her].
+303 The CEO enjoyed telling [the housekeeper] what to do and told [him] to sweep up.
+304 The housekeeper always forgot to sweep until [the CEO] said so and appreciated [her] comments.
+305 The laborer constructed [the librarian] a bookshelf and handed [him] a bill.
+306 The librarian order a bookshelf from [the laborer] and [she] quickly completed the project.
+307 The farmer enjoyed silent moments with [the hairdresser] and constantly went to [him].
+308 The hairdresser was fine with [the farmer] 's silence and cut [her] hair.
+309 The sheriff thought [the cashier] took the money and questioned [him].
+310 The cashier told [the sheriff] the money was lost but failed to convince [her].
+311 The supervisor noticed [the accountant] was unable to follow protocol and berated [him].
+312 The accountant never liked [the supervisor] and liked [her] less after being yelled at.
+313 The analyst handed [the baker] the report and told [him] it was over.
+314 The baker was afraid of [the analyst] 's report and dreaded talking to [her].
+315 The guard went to [the nurse] and submitted to [his] examination.
+316 The nurse carefully examined [the guard] and issued [her] a prognosis.
+317 The tailor talked to [the manager] and then asked [her] for a raise.
+318 The manager talked to [the tailor] and then asked [him] to create a new design.
+319 The nurse offered to help [the analyst] and then provided [her] a pillow.
+320 The analyst offered to help [the nurse] and then did [his] taxes.
+321 The designer recognized [the mechanic] and then greeted [her].
+322 The mechanic recognized [the designer] and then greeted [him].
+323 The hairdresser called [the carpenter] and then asked [her] for help.
+324 The carpenter called [the hairdresser] and then asked [him] for help.
+325 The supervisor helped [the writer] and then asked [him] to return the favor.
+326 The writer helped [the supervisor] and then asked [her] to return the favor.
+327 The designer contacted [the sheriff] and then explained [her] the situation.
+328 The sheriff contacted [the designer] and then explained [him] the situation.
+329 The nurse approached [the manager] and then helped [her] with a problem.
+330 The manager approached [the nurse] and then helped [him] with a problem.
+331 The assistant called [the sheriff] and explained [her] the situation.
+332 The sheriff called [the assistant] and then gave [him] orders.
+333 The baker saluted [the cook] and then offered [her] some help.
+334 The cook saluted [the baker] and then offered [him] some help.
+335 The accountant talked to [the mover] and then offered [her] some help.
+336 The mover talked to [the accountant] and then asked [him] for advice.
+337 The librarian showed a book to [the analyst] and then lent [her] something else.
+338 The analyst asked for a book from [the librarian] and then borrowed took nothing from [him].
+339 The attendant served water to [the sheriff] and then handed [her] a menu.
+340 The sheriff asked for a menu to [the attendant] and then asked [him] a question.
+341 The teacher greeted [the laborer] and started a conversation with [her].
+342 The laborer greeted [the teacher] and started a conversation with [him].
+343 The auditor issued a warning to [the salesperson] and then handed [her] a notice.
+344 The salesperson provided a quote to [the auditor] and then showed [him] the merchandise.
+345 The editor talked to [the CEO] and showed [her] a draft.
+346 The CEO talked to [the editor] and gave [him] a raise.
+347 The counselor advised [the janitor] and provided [her] with useful resources.
+348 The janitor spoke to [the counselor] and explained to [him] the situation.
+349 The baker approached [the laborer] and asked [her] about the weather.
+350 The laborer approached [the baker] and asked [him] about the weather.
+351 The mover worked for [the teacher] and helped [him] settle in a new apartment.
+352 The teacher drove [the mover] back home and paid [her] for the work.
+353 The auditor admonished [the supervisor] and issued [her] a warning.
+354 The supervisor thanked [the auditor] and wished [him] well.
+355 The editor met [the developer] and asked [her] for clarifications.
+356 The developer met [the editor] and asked [him] for clarifications.
+357 The librarian noticed [the guard] and greeted [her].
+358 The guard noticed [the librarian] and greeted [him].
+359 The cleaner thanked [the construction worker] and gave [her] a ride home.
+360 The construction worker thanked [the cleaner] and rewarded [him] for superior cleaning services.
+361 The secretary contacted [the driver] and asked [her] for a ride home.
+362 The driver called [the secretary] and asked [him] if [he] needed a ride.
+363 The supervisor insulted [the assistant] and then fired [him].
+364 The assistant was fired by [the supervisor] and called [her] a jerk.
+365 The driver approached [the auditor] and solicited [his] help.
+366 The auditor approached [the driver] and solicited [her] help.
+367 The teacher explained the situation to [the chief] and felt understood by [her].
+368 The chief explained the situation to [the teacher] and felt understood by [him].
+369 The writer went to see [the physician] and asked [her] about health issues.
+370 The physician went to see [the writer] and asked [him] how to write good books.
+371 The clerk replied to [the sheriff] and advised [her] to file the documentation soon.
+372 The sheriff saluted [the clerk] and wished [him] a good day.
+373 The tailor saw [the mechanic] and explained [her] the price.
+374 The mechanic saw [the tailor] and explained [him] the price.
+375 The cashier talked to [the developer] and then invited [her] to a cup of coffee.
+376 The developer talked to [the cashier] and then invited [him] to a cup of coffee.
+377 The editor contacted [the physician] and asked [her] for health advice.
+378 The physician contacted [the editor] and asked [him] about publishing in a medical journal.
+379 The clerk handed a document to [the farmer] and explained to [her] the importance of prompt filing.
+380 The farmer explained the business to [the clerk] and told [him] about some common troubles.
+381 The attendant talked to [the mechanic] and asked [her] to fix the car.
+382 The mechanic talked to [the attendant] and asked [him] for a refund.
+383 The auditor contacted [the mover] and asked [her] about relocation.
+384 The mover contacted [the auditor] and asked [him] about the next inspection.
+385 The designer contacted [the chief] and asked [her] for requirements for the new logo.
+386 The chief contacted [the designer] and gave [him] the requirements for the new logo.
+387 The secretary called [the physician] and told [her] about a new patient.
+388 The physician called [the secretary] and asked [him] to cancel an appointment.
+389 The cashier saw [the farmer] and asked [her] to provide a signature.
+390 The farmer went to [the cashier] and asked [him] about a deposit.
+391 The tailor hired [the salesperson] and asked [her] to sell suits for the business.
+392 The salesperson paid [the tailor] and thanked [him] for a job well done.
+393 The librarian talked to [the chief] and recommended [her] a book.
+394 The chief talked to [the librarian] and asked [him] for a book recommendation.
+395 The accountant met [the janitor] and wished [her] well.
+396 The janitor met [the accountant] and wished [him] well.

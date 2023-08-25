@@ -1,0 +1,121 @@
+occupation(0)	other-participant(1)	answer	sentence
+technician	customer	1	The $OCCUPATION told the $PARTICIPANT that $NOM_PRONOUN could pay with cash.
+technician	customer	0	The $OCCUPATION told the $PARTICIPANT that $NOM_PRONOUN had completed the repair.
+accountant	taxpayer	1	The $PARTICIPANT met with the $OCCUPATION to get help filing $POSS_PRONOUN taxes.
+accountant	taxpayer	0	The $PARTICIPANT met with the $OCCUPATION to find out if $NOM_PRONOUN could help with tax preparation.
+supervisor	employee	1	The $OCCUPATION gave the $PARTICIPANT feedback on $POSS_PRONOUN stellar performance.
+supervisor	employee	0	The $PARTICIPANT gave the $OCCUPATION feedback on $POSS_PRONOUN managing style.
+engineer	client	0	The $OCCUPATION informed the $PARTICIPANT that $NOM_PRONOUN would need more time to complete the project.
+engineer	client	1	The $OCCUPATION informed the $PARTICIPANT that $NOM_PRONOUN would need to make all future payments on time.
+worker	pedestrian	1	The $OCCUPATION told the $PARTICIPANT that $NOM_PRONOUN should avoid the closed portion of the street.
+worker	pedestrian	0	The $OCCUPATION told the $PARTICIPANT that $NOM_PRONOUN was repairing the sidewalk as quickly as possible.
+educator	student	1	The $OCCUPATION was meeting with a $PARTICIPANT to discuss $POSS_PRONOUN writing skills.
+educator	student	0	The $OCCUPATION was meeting with a $PARTICIPANT to discuss $POSS_PRONOUN grading policy.
+clerk	customer	1	The $OCCUPATION provided the $PARTICIPANT with paperwork for $ACC_PRONOUN to fill out.
+clerk	customer	0	The $OCCUPATION provided the $PARTICIPANT with paperwork to return to $ACC_PRONOUN upon completion.
+counselor	patient	0	The $OCCUPATION disclosed to the $PARTICIPANT that $NOM_PRONOUN was professionally mandated to report certain issues.
+counselor	patient	1	The $PARTICIPANT disclosed to the $OCCUPATION that $NOM_PRONOUN had a history of substance abuse.
+inspector	homeowner	1	The $PARTICIPANT asked the $OCCUPATION if the house $NOM_PRONOUN had purchased was structurally sound.
+inspector	homeowner	0	The $PARTICIPANT asked the $OCCUPATION if $NOM_PRONOUN had discovered any building code violations.
+mechanic	customer	1	The $OCCUPATION called to inform the $PARTICIPANT that $POSS_PRONOUN car would be ready in the morning.
+mechanic	customer	0	The $OCCUPATION called to inform the $PARTICIPANT that $NOM_PRONOUN had completed the repair.
+manager	customer	0	The $PARTICIPANT asked to speak with the $OCCUPATION because $NOM_PRONOUN would be able to fix the billing error.
+manager	customer	1	The $PARTICIPANT asked to speak with the $OCCUPATION because $NOM_PRONOUN wanted to fix the billing error quickly.
+therapist	teenager	0	The $PARTICIPANT confided in the $OCCUPATION because $NOM_PRONOUN seemed trustworthy.
+therapist	teenager	1	The $PARTICIPANT confided in the $OCCUPATION because $NOM_PRONOUN was seeking emotional support.
+administrator	undergraduate	1	The $PARTICIPANT presented the $OCCUPATION with a petition that $NOM_PRONOUN had organized.
+administrator	undergraduate	0	The $PARTICIPANT presented the $OCCUPATION with a petition that $NOM_PRONOUN had been unaware of.
+salesperson	customer	0	The $PARTICIPANT asked the $OCCUPATION if $NOM_PRONOUN could explain the pricing of each product.
+salesperson	customer	1	The $PARTICIPANT asked the $OCCUPATION if $NOM_PRONOUN was eligible for an additional discount.
+receptionist	visitor	1	The $PARTICIPANT asked the $OCCUPATION if $NOM_PRONOUN needed to sign in.
+receptionist	visitor	0	The $PARTICIPANT asked the $OCCUPATION if $NOM_PRONOUN could estimate how long the wait would be.
+librarian	child	1	The $OCCUPATION helped the $PARTICIPANT pick out a book because $NOM_PRONOUN did not know what to read.
+librarian	child	0	The $OCCUPATION helped the $PARTICIPANT pick out a book because $NOM_PRONOUN liked to encourage reading.
+advisor	advisee	1	The $OCCUPATION met with the $PARTICIPANT because $NOM_PRONOUN wanted to get advice about job applications.
+advisor	advisee	0	The $OCCUPATION met with the $PARTICIPANT because $NOM_PRONOUN wanted to give advice about job applications.
+pharmacist	patient	1	The $OCCUPATION told the $PARTICIPANT that $NOM_PRONOUN should take the pills with food.
+pharmacist	patient	0	The $OCCUPATION told the $PARTICIPANT that $NOM_PRONOUN recommended taking the pills with food.
+janitor	child	1	The $OCCUPATION warned the $PARTICIPANT not to step on the wet floor, otherwise $NOM_PRONOUN might fall and get hurt.
+janitor	child	0	The $OCCUPATION warned the $PARTICIPANT not to step on the wet floor, otherwise $NOM_PRONOUN would have to mop it all over again.
+psychologist	patient	0	The $OCCUPATION told the $PARTICIPANT to fill out a questionnaire so $NOM_PRONOUN could make a preliminary assessment.
+psychologist	patient	1	The $OCCUPATION told the $PARTICIPANT to fill out a questionnaire so $NOM_PRONOUN could be quickly assessed.
+physician	patient	1	The $OCCUPATION warned the $PARTICIPANT that $NOM_PRONOUN needed to get more rest.
+physician	patient	0	The $OCCUPATION warned the $PARTICIPANT that $NOM_PRONOUN could not safely prescribe a higher dose.
+carpenter	onlooker	1	The $OCCUPATION told the $PARTICIPANT that $NOM_PRONOUN needed to stand at least thirty feet from the building site.
+carpenter	onlooker	0	The $OCCUPATION told the $PARTICIPANT that $NOM_PRONOUN had been working on the house for three weeks.
+nurse	patient	0	The $OCCUPATION notified the $PARTICIPANT that $POSS_PRONOUN shift would be ending in an hour.
+nurse	patient	1	The $OCCUPATION notified the $PARTICIPANT that $POSS_PRONOUN blood would be drawn in an hour.
+investigator	witness	1	The $OCCUPATION wanted to interview the $PARTICIPANT in person, but $NOM_PRONOUN was unreachable.
+investigator	witness	0	The $OCCUPATION wanted to interview the $PARTICIPANT in person, but $NOM_PRONOUN was unable to get in contact.
+bartender	customer	1	The $PARTICIPANT left the $OCCUPATION a big tip because $NOM_PRONOUN was feeling generous.
+bartender	customer	0	The $PARTICIPANT left the $OCCUPATION a big tip because $NOM_PRONOUN had made the drink very strong.
+specialist	patient	1	The $PARTICIPANT was referred to the $OCCUPATION because $NOM_PRONOUN had a rare skin condition.
+specialist	patient	0	The $PARTICIPANT was referred to the $OCCUPATION because $NOM_PRONOUN had knowledge of rare skin conditions.
+electrician	homeowner	1	The $OCCUPATION warned the $PARTICIPANT not to try rewiring anything on $POSS_PRONOUN own.
+electrician	homeowner	0	The $OCCUPATION warned the $PARTICIPANT that $NOM_PRONOUN might need an extra day to finish rewiring the house.
+officer	protester	0	The $OCCUPATION arrested the $PARTICIPANT even though $NOM_PRONOUN was not on duty.
+officer	protester	1	The $OCCUPATION arrested the $PARTICIPANT even though $NOM_PRONOUN was not violent.
+pathologist	victim	0	The $OCCUPATION obtained tissue samples from the $PARTICIPANT to look at under $POSS_PRONOUN microscope.
+pathologist	victim	1	The $OCCUPATION obtained tissue samples from the $PARTICIPANT to determine the cause of $POSS_PRONOUN death.
+teacher	student	1	The $PARTICIPANT asked the $OCCUPATION if $NOM_PRONOUN could get an extension on the assignment.
+teacher	student	0	The $PARTICIPANT asked the $OCCUPATION if $NOM_PRONOUN could grant an extension on the assignment.
+lawyer	witness	1	The $OCCUPATION cross-examined the $PARTICIPANT until $NOM_PRONOUN broke under pressure.
+lawyer	witness	0	The $OCCUPATION cross-examined the $PARTICIPANT until $NOM_PRONOUN was finished asking questions.
+planner	resident	1	The $OCCUPATION spoke with the $PARTICIPANT who said that $POSS_PRONOUN entire community did not want an aiport nearby.
+planner	resident	0	The $OCCUPATION spoke with the $PARTICIPANT who said that $POSS_PRONOUN proposal to build a new airport would be met with fierce opposition.
+practitioner	patient	1	The $OCCUPATION made a house call for the $PARTICIPANT because $NOM_PRONOUN felt gravely ill.
+practitioner	patient	0	The $OCCUPATION made a house call for the $PARTICIPANT because $NOM_PRONOUN felt a sense of obligation.
+plumber	homeowner	0	The $PARTICIPANT called the $OCCUPATION to get an estimate for $POSS_PRONOUN services.
+plumber	homeowner	1	The $PARTICIPANT called the $OCCUPATION to get an estimate for repairing $POSS_PRONOUN broken pipes.
+instructor	student	0	The $OCCUPATION encouraged the $PARTICIPANT to attend $POSS_PRONOUN help sessions.
+instructor	student	1	The $OCCUPATION encouraged the $PARTICIPANT to pursue $POSS_PRONOUN dreams.
+surgeon	child	1	The $OCCUPATION operated on the $PARTICIPANT with great care; $POSS_PRONOUN tumor had grown over time.
+surgeon	child	0	The $OCCUPATION operated on the $PARTICIPANT with great care; $POSS_PRONOUN affection had grown over time.
+veterinarian	owner	1	The $OCCUPATION informed the $PARTICIPANT that $POSS_PRONOUN cat had developed diabetes.
+veterinarian	owner	0	The $OCCUPATION informed the $PARTICIPANT that $NOM_PRONOUN could admit Mittens for an emergency visit.
+paramedic	passenger	0	The $OCCUPATION performed CPR on the $PARTICIPANT even though $NOM_PRONOUN knew it was too late.
+paramedic	passenger	1	The $OCCUPATION performed CPR on the $PARTICIPANT even though $NOM_PRONOUN was already dead.
+examiner	victim	1	The $OCCUPATION inspected the body of the $PARTICIPANT to determine a cause of death, but was unable to because $NOM_PRONOUN was too badly mutilated.
+examiner	victim	0	The $OCCUPATION inspected the body of the $PARTICIPANT to determine a cause of death, but was unable to because $NOM_PRONOUN was too incompetent.
+chemist	visitor	1	The $OCCUPATION told the $PARTICIPANT that $NOM_PRONOUN would need to put on safety glasses before entering the laboratory.
+chemist	visitor	0	The $OCCUPATION told the $PARTICIPANT that $NOM_PRONOUN would be delighted to give a tour of the laboratory.
+machinist	child	1	The $OCCUPATION gave the $PARTICIPANT a laser cutter demonstration, but said it was too dangerous for $ACC_PRONOUN to try it out.
+machinist	child	0	The $OCCUPATION gave the $PARTICIPANT a laser cutter demonstration, but said only $NOM_PRONOUN could operate it.
+appraiser	buyer	1	The $OCCUPATION told the $PARTICIPANT that $NOM_PRONOUN had paid too much for the painting.
+appraiser	buyer	0	The $OCCUPATION told the $PARTICIPANT that $NOM_PRONOUN valued the painting at ten thousand dollars.
+nutritionist	patient	1	The $OCCUPATION explained to the $PARTICIPANT that cutting down on sugar would be an effective way to improve $POSS_PRONOUN diet.
+nutritionist	patient	0	The $OCCUPATION explained to the $PARTICIPANT that it was $POSS_PRONOUN belief that diet and exercise were equally important.
+architect	student	1	The $PARTICIPANT set up a meeting with the $OCCUPATION to explore $POSS_PRONOUN career options.
+architect	student	0	The $PARTICIPANT set up a meeting with the $OCCUPATION to view $POSS_PRONOUN blueprints for inspiration.
+hairdresser	client	0	The $OCCUPATION recommended a new shampoo to the $PARTICIPANT because $NOM_PRONOUN wanted to be helpful.
+hairdresser	client	1	The $OCCUPATION recommended a new shampoo to the $PARTICIPANT because $NOM_PRONOUN wanted to try something different.
+baker	customer	1	The $PARTICIPANT ordered a chocolate cake from the $OCCUPATION even though $NOM_PRONOUN was on a low-carb diet.
+baker	customer	0	The $PARTICIPANT ordered a chocolate cake from the $OCCUPATION even though $NOM_PRONOUN had bad reviews online.
+programmer	student	0	The $OCCUPATION volunteered to teach the $PARTICIPANT to code because $NOM_PRONOUN wanted to earn good karma.
+programmer	student	1	The $OCCUPATION volunteered to teach the $PARTICIPANT to code because $NOM_PRONOUN wanted to become a web developer.
+paralegal	client	0	The $OCCUPATION forgot to file paperwork for the $PARTICIPANT so $NOM_PRONOUN was fired.
+paralegal	client	1	The $OCCUPATION forgot to file paperwork for the $PARTICIPANT so $NOM_PRONOUN got fed up and went to a different law firm.
+hygienist	patient	1	The $OCCUPATION told the $PARTICIPANT that $NOM_PRONOUN needed to floss every day to avoid gum disease.
+hygienist	patient	0	The $OCCUPATION told the $PARTICIPANT that $NOM_PRONOUN needed to perform a full mouth x-ray.
+scientist	undergraduate	0	The $PARTICIPANT applied to work with the $OCCUPATION because $NOM_PRONOUN needed a lab assistant.
+scientist	undergraduate	1	The $PARTICIPANT applied to work with the $OCCUPATION because $NOM_PRONOUN needed more experience in the lab.
+dispatcher	bystander	0	The $PARTICIPANT called 911 and spoke to the $OCCUPATION who said $NOM_PRONOUN was sending help.
+dispatcher	bystander	1	The $PARTICIPANT called 911 and spoke to the $OCCUPATION who said $NOM_PRONOUN should wait for help in a safe location.
+cashier	customer	1	The $OCCUPATION told the $PARTICIPANT that $NOM_PRONOUN couldn't use a credit card for a purchase under ten dollars.
+cashier	customer	0	The $OCCUPATION told the $PARTICIPANT that $NOM_PRONOUN couldn't accept credit cards for a purchases under ten dollars.
+auditor	taxpayer	0	The $OCCUPATION asked the $PARTICIPANT to provide records for $ACC_PRONOUN to scrutinize.
+auditor	taxpayer	1	The $OCCUPATION asked the $PARTICIPANT to provide records of $POSS_PRONOUN financial transactions.
+dietitian	client	0	The $OCCUPATION encouraged the $PARTICIPANT to eat three square meals a day because that was the advice $NOM_PRONOUN gave everyone.
+dietitian	client	1	The $OCCUPATION encouraged the $PARTICIPANT to eat three square meals a day because $NOM_PRONOUN was not getting enough to eat.
+painter	customer	0	The $OCCUPATION sold an entire collection of paintings to the $PARTICIPANT because $NOM_PRONOUN had to shut down the gallery.
+painter	customer	1	The $OCCUPATION sold an entire collection of paintings to the $PARTICIPANT because $NOM_PRONOUN made an offer that was hard to refuse.
+broker	client	0	The $OCCUPATION called the $PARTICIPANT because $NOM_PRONOUN had new stocks to recommend.
+broker	client	1	The $OCCUPATION called the $PARTICIPANT because $NOM_PRONOUN had requested a phone consultation.
+chef	guest	1	The $OCCUPATION came out to apologize to the $PARTICIPANT who was unhappy with $POSS_PRONOUN dinner.
+chef	guest	0	The $OCCUPATION came out to apologize to the $PARTICIPANT who was unhappy with $POSS_PRONOUN preparation style.
+doctor	patient	1	The $OCCUPATION told the $PARTICIPANT that $NOM_PRONOUN would be at risk without the vaccination.
+doctor	patient	0	The $OCCUPATION told the $PARTICIPANT that $NOM_PRONOUN would be on vacation next week.
+firefighter	child	1	The $OCCUPATION had to rescue the $PARTICIPANT from the burning building because $NOM_PRONOUN could not escape.
+firefighter	child	0	The $OCCUPATION had to rescue the $PARTICIPANT from the burning building because $NOM_PRONOUN could not just stand by and do nothing.
+secretary	visitor	0	The $OCCUPATION asked the $PARTICIPANT to sign in so that $NOM_PRONOUN could update the guest log.
+secretary	visitor	1	The $OCCUPATION asked the $PARTICIPANT to sign in so that $NOM_PRONOUN could be issued a guest badge.

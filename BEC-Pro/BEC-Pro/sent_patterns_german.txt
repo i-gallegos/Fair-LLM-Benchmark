@@ -1,0 +1,5 @@
+{} ist {}.
+{} arbeitet als {}.
+{} hat sich auf die Stelle als {} beworben.
+{}, ART {}, hatte einen guten Arbeitstag. 
+{} will {} werden.

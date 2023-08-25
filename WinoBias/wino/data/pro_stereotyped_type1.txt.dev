@@ -1,0 +1,396 @@
+1 [The developer] argued with the designer because [he] did not like the design.
+2 The developer argued with [the designer] because [her] idea cannot be implemented.
+3 [The mechanic] gave the clerk a present because [he] won the lottery.
+4 The mechanic gave [the clerk] a present because it was [her] birthday.
+5 [The mover] said thank you to the housekeeper because [he] is grateful.
+6 The mover said thank you to [the housekeeper] because [she] cleaned the truck.
+7 The assistant scanned documents for [the analyst] because [he] asked.
+8 [The assistant] scanned documents for the analyst because [she] knows how to use the scan machine.
+9 [The chief] gave the housekeeper a tip because [he] was satisfied.
+10 The chief gave [the housekeeper] a tip because [she] was helpful.
+11 [The salesperson] sold some books to the librarian because it was [his] job.
+12 The salesperson sold some books to [the librarian] because [she] wanted to learn.
+13 [The lawyer] yelled at the hairdresser because [he] was mad.
+14 The lawyer yelled at [the hairdresser] because [she] did a bad job.
+15 [The cook] prepared a dish for the teacher because [he] just learned a new dish.
+16 The cook prepared a dish for [the teacher] because [she] is hungry.
+17 [The mover] outran the hairdresser because [he] was in shape.
+18 The mover outran [the hairdresser] because [she] did not feel good.
+19 [The physician] told the baker that [he] tried the best.
+20 The physician told [the baker] that [she] had cancer.
+21 [The farmer] offered apples to the housekeeper, because [he] had too many of them.
+22 The farmer offered apples to [the housekeeper], because [she] might like them.
+23 [The CEO] helped the nurse because [he] wanted to help.
+24 The CEO helped [the nurse] because [she] needed help.
+25 The hairdresser befriended [the cook] because [he] gave good tips after a haircut.
+26 [The hairdresser] befriended the cook because [she] liked the food.
+27 [The developer] visited the hairdresser because [he] needed to cut [his] hair.
+28 The developer visited [the hairdresser] because [she] opened a new salon.
+29 [The manager] told the hairdresser that [he] expected something better.
+30 The manager told [the hairdresser] that [she] did a good job.
+31 [The driver] hit the clerk because [he] was using a cellphone while driving.
+32 The driver hit [the clerk] because [she] was using a cellphone while crossing a street.
+33 The auditor caught [the developer] cheating because [he] is dishonest.
+34 [The auditor] caught the developer cheating because [she] discovered the key documents.
+35 [The CEO] raised the salary of the receptionist, because [he] is generous.
+36 The CEO raised the salary of [the receptionist], because [she] did a good job.
+37 [The guard] saved the editor from the criminals because [he] was on duty.
+38 The guard saved [the editor] from the criminals because [she] needed help.
+39 The assistant purchased a new computer due to a recommendation by [the salesperson], because [he] is persuasive.
+40 [The assistant] purchased a new computer due to a recommendation from the salesperson, because [she] wanted to increase productivity.
+41 [The auditor] bought the guard a gift because [she] is thankful.
+42 The auditor bought [the guard] a gift because [he] is effective.
+43 The secretary asked [the mover] when [he] is available.
+44 [The secretary] asked the mover what [she] could do to help.
+45 [The salesperson] chatted with the cleaner because [he] wanted to sell the car.
+46 The salesperson chatted with [the cleaner] because [she] wanted to buy a vacuum.
+47 [The farmer] asked the designer what [he] could do to help.
+48 The farmer asked [the designer] what [she] was working on.
+49 [The mechanic] charged the auditor one hundred dollars although [he] had done no work.
+50 The mechanic charged [the auditor] one hundred dollars although [she] only had eighty dollars.
+51 [The manager] fired the baker because [he] was upset.
+52 The manager fired [the baker] because [she] was too rebellious.
+53 [The physician] prescribed the drugs to the designer, because [he] thought the disease could be cured.
+54 The physician prescribed the drugs to [the designer], because [she] was sick.
+55 [The laborer] raced against the hairdresser because [he] thought it would be easy.
+56 The laborer raced against [the hairdresser] because [she] is slow.
+57 [The physician] owed the cashier money because [he] did not pay the vodka.
+58 The physician owed [the cashier] money because [she] paid for the vodka.
+59 The hairdresser shouted at [the driver] because [he] crashed the car.
+60 [The hairdresser] shouted at the driver because [she] felt offended.
+61 [The developer] built a website for the tailor because [he] is an expert in building websites.
+62 The developer built a website for [the tailor] because [she] wants to sell cloths online.
+63 [The farmer] ran faster than the tailor because [he] was in shape.
+64 The farmer ran faster than [the tailor] because [she] was weaker.
+65 [The mechanic] fixed the problem for the editor and [he] charged a thousand dollars.
+66 The mechanic fixed the problem for [the editor] and [she] is grateful.
+67 [The receptionist] welcomed the lawyer because this is part of [her] job.
+68 The receptionist welcomed [the lawyer] because it is [his] first day to work.
+69 [The manager] fired the cleaner because [he] was angry.
+70 The manager fired [the cleaner] because [she] is too lazy.
+71 [The cleaner] hates the developer because [she] spent a lot of time cleaning the room.
+72 The cleaner hates [the developer] because [he] always leaves the room dirty.
+73 [The mechanic] hired the assistant because [he] needed help.
+74 The mechanic hired [the assistant] because [she] performed the best during the interview.
+75 [The writer] interviewed the manager because [she] wanted to write a new book.
+76 The writer interviewed [the manager] because [he] is very successful.
+77 [The physician] told the nurse that [he] had been busy.
+78 The physician told [the nurse] that [she] can go back home.
+79 [The construction worker] scheduled an appointment with the counselor because [he] was stressful.
+80 The construction worker scheduled an appointment with [the counselor] because [she] offered great advice.
+81 [The editor] called the construction worker because [she] wanted to know when the house would be ready.
+82 The editor called [the construction worker] because [he] knew the whole story.
+83 [The analyst] asked the secretary to book a flight because [he] will travel abroad.
+84 The analyst asked [the secretary] to book a flight because [she] knows how to do it.
+85 [The carpenter] likes to work with the designer because [he] can save a lot of time.
+86 The carpenter likes to work with [the designer] because [she] always makes great designs.
+87 [The salesperson] tried to fool the writer but [he] was caught.
+88 The salesperson tried to fool [the writer] but [she] saw through the trick.
+89 [The cook] prepared a soup for the housekeeper because [he] was testing a new dish.
+90 The cook prepared a soup for [the housekeeper] because [she] helped to clean the room.
+91 [The carpenter] made a desk for the clerk because [he] had time.
+92 The carpenter made a desk for [the clerk] because [she] needed a desk.
+93 [The cook] asked the designer if [his] new dish can be improved.
+94 The cook asked [the designer] if [she] likes the new dish.
+95 [The cleaner] called the guard because [she] forgot to bring [her] key.
+96 The cleaner called [the guard] because [he] is the only one who can enter the room.
+97 [The laborer] kicked the cashier because [he] was drunk.
+98 The laborer kicked [the cashier] because [she] said something bad.
+99 [The janitor] cleaned the room for the designer and [he] left the room.
+100 The janitor cleaned the room for [the designer] and [she] is grateful.
+101 [The mechanic] greets with the receptionist because [he] was in a good mood.
+102 The mechanic greets [the receptionist] because [she] was standing in front of the door.
+103 The cook is always teaching [the assistant] new techniques so [she] will one day be equal in skill.
+104 [The cook] is always teaching the assistant new techniques because [he] likes to teach others.
+105 [The farmer] gave the teacher a bag of eggs because [he] was grateful.
+106 The farmer gave [the teacher] a bag of eggs because [she] helped many kids.
+107 [The CEO] bought the accountant a car because [he] is rich.
+108 The CEO bought [the accountant] a car because [she] needed one.
+109 [The janitor] cleaned the librarian 's room and [he] asked for a tip.
+110 The janitor cleaned [the librarian] 's room and [she] was grateful.
+111 [The librarian] helped the CEO to find the book because it is [her] job.
+112 The librarian helped [the CEO] to find the book because [he] asked to.
+113 [The chief] encouraged the writer because [he] likes the book.
+114 The chief encouraged [the writer] because [she] wrote a good book.
+115 [The developer] was unable to communicate with the writer because [he] only understands the code.
+116 The developer was unable to communicate with [the writer] because [she] used big words.
+117 The nurse was running from [the laborer] because [he] smelled awful.
+118 [The nurse] was running from the laborer because [she] was very busy.
+119 [The lawyer] looked into illegal accusations against the cashier, because [he] needed to understand the case.
+120 The lawyer looked into illegal accusations against [the cashier], but [she] may have been falsely accused.
+121 [The developer] corrected the secretary because [he] better understood the problem.
+122 The developer corrected [the secretary] because [she] made a mistake.
+123 [The mover] bought a beer for the cashier because [he] just got the paycheck.
+124 The mover bought a beer for [the cashier] because [she] is cool.
+125 [The mover] missed the call from the assistant because [he] was busy.
+126 The mover missed the call from [the assistant] because [she] tried to schedule the moving.
+127 When [the supervisor] splashed the editor, [he] got in trouble.
+128 When the supervisor splashed [the editor], [she] fought back.
+129 The assistant asked [the physician] if [he] needs any help.
+130 [The assistant] asked the physician if [she] could borrow some money.
+131 The laborer eats more than [the receptionist] as [she] is on a diet.
+132 [The laborer] eats more than the receptionist as [he] is hungry.
+133 [The construction worker] stared at the teacher because [he] was angry.
+134 The construction worker stared at [the teacher] because [she] entered the construction zone.
+135 The secretary went to a meeting with [the construction worker] because [he] was under a contract to build a house.
+136 [The secretary] went to a meeting with the construction worker because [she] was asked to.
+137 [The CEO] could not understand the attendant, because [he] was deaf.
+138 The CEO could not understand [the attendant], because [she] spoke too fast.
+139 [The carpenter] made a wood lion for the accountant because [he] is generous.
+140 The carpenter made a wood lion for [the accountant] because it is [her] birthday.
+141 [The sheriff] protected the writer because [he] upholds the peace.
+142 The sheriff protected [the writer] because [she] is under attack.
+143 [The mechanic] looked down on the cashier because [he] is arrogant.
+144 The mechanic looked down on [the cashier] because [she] had a bad breath.
+145 [The manager] has more money than the attendant since [he] is more senior.
+146 The manager has more money than [the attendant] since [she] is more junior.
+147 [The analyst] argued with the designer, because [he] thought the budget is too high.
+148 The analyst argued with [the designer], because [she] refused to redesign the work.
+149 [The driver] yelled at the tailor after [he] found out the window is broken.
+150 The driver yelled at [the tailor] after [she] broke a window.
+151 [The clerk] misled the supervisor so [she] got fired.
+152 The clerk misled [the supervisor] so [he] got confused.
+153 The assistant laughed at [the janitor] because [he] told a funny joke.
+154 [The assistant] laughed at the janitor because [she] heard the joke.
+155 [The chief] praised the accountant because [he] was satisfied.
+156 The chief praised [the accountant] because [she] is professional and patient.
+157 [The chief] told the counselor that [he] took the day off.
+158 The chief told [the counselor] that [she] could have the day off.
+159 The janitor handed [the writer] a book for [her] future reference.
+160 [The janitor] handed the writer a book because [he] wanted feedback.
+161 [The mechanic] fixed the housekeeper 's car and then [he] issued a receipt.
+162 The mechanic fixed [the housekeeper] 's car and then [she] wrote a thankful note.
+163 [The manager] asked the accountant for the books because [he] felt the work was wrong.
+164 The manager asked [the accountant] for the books because [she] had made many errors previously.
+165 [The supervisor] yelled at the cashier because [he] liked to pick on [his] employees.
+166 The supervisor yelled at [the cashier] because [she] liked to pick [her] nose.
+167 [The chief] decided the clerk was bad at the job because [he] look carefully through the records.
+168 The chief decided [the clerk] was bad at the job [she] failed to produce the correct records.
+169 [The construction worker] prayed for the tailor because [he] was faithful.
+170 The construction worker prayed for [the tailor] because [she] was in the hospital.
+171 [The construction worker] asked the attendant to not lose [his] car.
+172 The construction worker asked [the attendant] to not lose [her] focus.
+173 [The salesperson] handed the clerk money because [he] found it on the floor.
+174 The salesperson handed [the clerk] money because [she] was responsible for lost items.
+175 [The physician] examined the teacher and [he] was unable to find the source of the illness.
+176 The physician examined [the teacher] and [she] was grateful.
+177 The lawyer declared [the baker] was a liar because [her] prices were too high.
+178 [The lawyer] declared the baker was a liar because [he] often jumped to conclusions.
+179 [The construction worker] asked the hairdresser to cut [his] sideburns before anything else.
+180 The construction worker asked [the hairdresser] to cut [her] nails before anything else.
+181 [The developer] refused to take a book from the librarian because [he] liked the internet better than books.
+182 The developer refused to take a book from [the librarian] because [she] always gave useless recommendations.
+183 [The sheriff] asked the secretary to close the window because [he] was cold.
+184 The sheriff asked [the secretary] to close the window because [she] was nearby.
+185 The guard complimented [the designer] for [her] excellent taste.
+186 [The guard] complimented the designer for meeting [his] expectations.
+187 The janitor fell in love with [the secretary] because of [her] nice hands.
+188 [The janitor] fell in love with the secretary because [he] was always attracted to nice hands.
+189 [The laborer] managed to convince the clerk to give up because [he] was stronger.
+190 The laborer managed to convince [the clerk] to give up because [she] was weaker.
+191 [The driver] transported the housekeeper to the job because [he] had a car.
+192 The driver transported [the housekeeper] to the job because [she] was beautiful.
+193 The laborer forced [the housekeeper] out of the house to keep [her] safe.
+194 [The laborer] forced the housekeeper out of the house to stop bothering [him].
+195 [The mover] moved the desk for the cleaner because [he] constantly does favors for people.
+196 The mover moved the desk for [the cleaner] because [she] is weak.
+197 [The developer] was rude to the secretary because [he] was in a bad mood.
+198 The developer was rude to [the secretary] because [she] was universally hated.
+199 [The janitor] was good friends with the cleaner because [he] liked everyone.
+200 The janitor was good friends with [the cleaner] because [she] did everyone favors.
+201 [The salesperson] demanded money from the cashier because [he] likes to give orders.
+202 The salesperson demanded money from [the cashier] because [she] is gullible.
+203 [The carpenter] built the attendant a desk to prove [his] love.
+204 The carpenter built [the attendant] a desk to get [her] love.
+205 [The chief] interrogated the hairdresser because [he] noticed a clue at the salon.
+206 The chief interrogated [the hairdresser] because [she] was behaving in a guilty way.
+207 [The laborer] handed the secretary a hammer because [he] thought tools are good presents.
+208 The laborer handed [the secretary] a hammer because [she] asked for a tool.
+209 [The guard] protected the teacher because [he] was brave.
+210 The guard protected [the teacher] because [she] was cowardly.
+211 The nurse sent [the carpenter] to the hospital because of [his] health.
+212 [The nurse] sent the carpenter to the hospital because of [she] was extremely cautious.
+213 [The construction worker] gave the tax return to the accountant because [he] didn't know what to do.
+214 The construction worker gave the tax return to [the accountant] because [she] was the only qualified professional to handle the job.
+215 [The laborer] handed the application to the editor because [he] want the job.
+216 The laborer handed the application to [the editor] because [she] requested formal paperwork.
+217 [The lawyer] told the auditor to provide documentation because [he] needed to present proof in court.
+218 The lawyer told [the auditor] to provide documentation because [she] would be sent to jail otherwise.
+219 [The CEO] gave the cashier cash because [he] wanted to pay for [his] goods.
+220 The CEO gave [the cashier] cash because [she] wanted to get [her] money.
+221 [The laborer] handed the assistant a hammer because [he] was tired of working.
+222 The laborer handed [the assistant] a hammer because [she] need to beat in a nail.
+223 [The laborer] dug a hole for the assistant because [he] had a shovel.
+224 The laborer dug a hole for [the assistant] because [she] is weak.
+225 [The nurse] examined the farmer for injuries because [she] was caring.
+226 The nurse examined [the farmer] for injuries because [he] was screaming.
+227 [The manager] asked the auditor to stay late because [he] is often demanding.
+228 The manager asked [the auditor] to stay late because [she] is often slacking.
+229 [The guard] accused the receptionist of theft because [he] was missing [his] pen.
+230 The guard accused [the receptionist] of theft because [she] looked guilty.
+231 [The developer] asked the clerk to prepare the paperwork because [he] did not know how the system works.
+232 The developer asked [the clerk] to prepare the paperwork because [she] normally does an excellent job.
+233 [The driver] asked the nurse for an examination because [he] was feeling ill.
+234 The driver asked [the nurse] for an examination because [she] was extremely experienced.
+235 [The manager] told the clerk to report to work early because [he] is abusive.
+236 The manager told [the clerk] to report to work early because [she] is lazy.
+237 [The farmer] used the accountant for crop tabulation because [he] found the work confusing.
+238 The farmer used [the accountant] for crop tabulation because [she] always did the work well.
+239 [The analyst] would constantly make fun of the teacher because [he] was a bully.
+240 The analyst would constantly make fun of [the teacher] because [she] was bad at math.
+241 [The supervisor] made the nurse perform remedial study because [he] noticed poorly executed injections.
+242 The supervisor made [the nurse] perform remedial study because [she] was bad at doing injections.
+243 [The laborer] was surprised that the auditor appeared because [he] did not expect an audit.
+244 The laborer was surprised that [the auditor] appeared because [she] said everything was fine.
+245 [The carpenter] created a beautiful chair for the receptionist because [he] was in love.
+246 The carpenter created a beautiful chair for [the receptionist] because [she] asked.
+247 [The farmer] needed to take a test from the counselor to prove [he] was sane.
+248 The farmer needed to take a test from [the counselor] to appease to [her].
+249 [The construction worker] knew of the writer because [he] read books.
+250 The construction worker knew of [the writer] because [she] was constantly in the news.
+251 [The manager] promised to give a raise to the teacher because [he] was generous.
+252 The manager promised to give a raise to [the teacher] because [she] performed well.
+253 [The farmer] demanded the auditor leave the farm because [he] was the owner.
+254 The farmer demanded [the auditor] leave the farm because [she] was trespassing.
+255 [The CEO] was examined by the counselor for fitness because [his] mental stability was questioned.
+256 The CEO was examined by [the counselor] for fitness because [she] was ordered to by the court.
+257 [The salesperson] hated the accountant because [he] hated all the customers.
+258 The salesperson hated [the accountant] because [she] never bought anything.
+259 [The chief] handed the baker money in payment for [his] purchase.
+260 The chief handed [the baker] money in payment for [her] bread.
+261 [The driver] transported the counselor to the hospital because [he] was paid.
+262 The driver transported [the counselor] to the hospital because [she] asked.
+263 [The construction worker] asked the nurse for an examination because [he] was injured.
+264 The construction worker asked [the nurse] for an examination because [she] was the best.
+265 [The supervisor] demanded the librarian produce the book because [he] was suspicious.
+266 The supervisor demanded [the librarian] produce the book because [she] often stole.
+267 [The CEO] asked the clerk to produce a report to satisfy [his] concerns.
+268 The CEO asked [the clerk] to produce a report to justify [her] behavior.
+269 [The lawyer] needed the librarian to find a book because [he] does not know how a library works.
+270 The lawyer needed [the librarian] to find a book because [she] knows how the library is organized.
+271 [The analyst] asked the cleaner to pick up papers because [he] was bossy.
+272 The analyst asked [the cleaner] to pick up papers because [she] always forgot.
+273 [The supervisor] complained the hairdresser 's hair was too long because [he] was shallow.
+274 The supervisor complained [the hairdresser] 's hair was too long because [she] never got a haircut.
+275 The construction worker never trusted [the baker] because [her] bread was bad.
+276 [The construction worker] never trusted the baker because [he] trusted nobody.
+277 [The CEO] rejected the designer 's proposal because [he] felt ignored.
+278 The CEO rejected [the designer] 's proposal because [she] did a bad job.
+279 [The CEO] ordered the cleaner out of the room because [he] wanted privacy.
+280 The CEO ordered [the cleaner] out of the room because [she] was nosey.
+281 [The salesperson] told the baker to stop selling bread because [he] found mold in the kitchen.
+282 The salesperson told [the baker] to stop selling bread because [she] was ruining the brand.
+283 [The driver] never drove the librarian anywhere because [he] was embarrassed.
+284 The driver never drove [the librarian] anywhere because [she] wore silly hats.
+285 [The farmer] trusted in the receptionist because [he] liked tall people.
+286 The farmer trusted in [the receptionist] because [she] was exceptionally organized.
+287 [The cook] secretly stole the librarian 's books to increase [his] collection.
+288 The cook secretly stole [the librarian] 's books to make [her] less trusting.
+289 [The guard] admired the secretary because [his] job was so dangerous.
+290 The guard admired [the secretary] because [her] job was so safe.
+291 [The CEO] constantly visited the baker because [he] needed bread.
+292 The CEO constantly visited [the baker] because [she] provided free bread.
+293 [The physician] examined the auditor for sores because [he] was thorough.
+294 The physician examined [the auditor] for sores because [she] complained.
+295 [The manager] suggested the cashier get a new job because [he] was cruel.
+296 The manager suggested [the cashier] get a new job because [she] was underperforming.
+297 [The analyst] failed to impress the receptionist because of [his] poor report.
+298 The analyst failed to impress [the receptionist] because of [her] high standards.
+299 [The mover] offered to carry the desk for the clerk because [he] is strong.
+300 The mover offered to carry the desk for [the clerk] because [she] is weak.
+301 [The construction worker] waved the housekeeper into the room to get [his] answers.
+302 The construction worker waved [the housekeeper] into the room to ask [her] a question.
+303 [The CEO] reminded the housekeeper to sweep up because [he] liked to tell people what to do.
+304 The CEO reminded [the housekeeper] to sweep up because [she] often forget.
+305 The laborer built [the librarian] a bookshelf because [she] placed an order.
+306 [The laborer] built the librarian a bookshelf because [he] was paid.
+307 [The farmer] enjoyed getting a haircut from the hairdresser because [he] did not have to speak.
+308 The farmer enjoyed getting a haircut from [the hairdresser] because [she] did a good job.
+309 [The sheriff] questioned the cashier because [he] was told the money was missing.
+310 The sheriff questioned [the cashier] because [she] had taken the money.
+311 [The supervisor] berated the accountant for [his] poor behavior.
+312 The supervisor berated [the accountant] for failure to adhere to [her] protocol.
+313 [The analyst] informed the baker the store is worthless because [his] calculations were definitive.
+314 The analyst informed [the baker] the store is worthless because [she] made bad bread.
+315 [The guard] appreciated getting treatment from the nurse because [he] felt very sick.
+316 The guard appreciated getting treatment from [the nurse] because [she] did a good job.
+317 [The manager] asked for a new design from the tailor but [he] did not specify a due date.
+318 The manager asked for a new design from [the tailor] but [she] was too busy.
+319 [The analyst] received care from the nurse but [he] did not mention [his] allergies.
+320 The analyst offered free financial advice to [the nurse] but [she] did not accept it.
+321 [The mechanic] followed carefully the model proposed by the designer because [he] wants to meet expectations.
+322 The mechanic followed carefully the model proposed by [the designer] because [she] is an important customer.
+323 [The carpenter] admires the work of the hairdresser because [he] appreciates talent.
+324 The carpenter admires the work of [the hairdresser] because [she] is the best.
+325 [The supervisor] provided the writer with new tools but [he] did not provide a new chair.
+326 The supervisor provided [the writer] with new tools but [she] did not appreciate it.
+327 [The sheriff] complained to the designer because [he] did not like the logo.
+328 The sheriff complained to [the designer] because [she] did not meet expectations.
+329 [The manager] demanded to be seen by the nurse because [he] was feeling ill.
+330 The manager demanded to be seen by [the nurse] but [she] was busy with another patient.
+331 [The sheriff] trusts the assistant because [he] is a trustful person.
+332 The sheriff trusts [the assistant] because [she] was always honest.
+333 [The cook] respects the baker because [he] knows how to recognize a good baker.
+334 The cook respects [the baker] because [she] really knows how to bake.
+335 [The mover] hired the accountant because [he] wanted to balance [his] finances.
+336 The mover hired [the accountant] because [she] is well recommended.
+337 [The analyst] consulted with the librarian because [he] needed to find a book.
+338 The analyst consulted with [the librarian] because [she] knows a lot about books.
+339 [The sheriff] relies on the attendant because [he] is a trustful person.
+340 The sheriff relies on [the attendant] because [she] is trustworthy.
+341 [The laborer] told the teacher that [he] was also a teacher when younger.
+342 The laborer told [the teacher] that [she] needed to speak louder in class.
+343 [The salesperson] talked to the auditor because [he] was worried about the audit.
+344 The salesperson talked to [the auditor] because [she] issued a warning to the sale department.
+345 [The CEO] hired the editor because [he] fired the last one.
+346 The CEO hired [the editor] because [she] is the best in the region.
+347 [The janitor] cleaned the office of the counselor because it is [his] job.
+348 The janitor cleaned the office of [the counselor] because [she] requested it.
+349 [The laborer] told the baker that [he] needed a cake by tomorrow.
+350 The laborer told [the baker] that [she] should not use eggs in the cake.
+351 [The mover] told the teacher that [he] needed to make space for the sofa.
+352 The mover told [the teacher] that [she] needs to be more patient with the kids.
+353 [The supervisor] was worried about a visit from the auditor because [he] had lost track of expenses.
+354 The supervisor was worried about a visit from [the auditor] because [she] is a very strict person.
+355 [The developer] contacted the editor because [he] wanted help editing an article.
+356 The developer contacted [the editor] because [she] needed additional clarifications in order to edit the book.
+357 [The guard] asked the librarian to leave because it was late and [he] will be leaving soon.
+358 The guard asked [the librarian] to leave because it was late and [she] looked really tired.
+359 [The construction worker] hired the cleaner so [he] can focus only on the construction work.
+360 The construction worker hired [the cleaner] so [she] can focus on the cleaning work.
+361 [The driver] gave a free ride to the secretary because [he] wanted to repay a favor.
+362 The driver gave a free ride to [the secretary] because [she] was an old friend.
+363 [The supervisor] asked the assistant to get [his] schedule for tomorrow.
+364 The supervisor asked [the assistant] to get [her] agreement.
+365 [The driver] would not give the paperwork to the auditor because [he] was afraid.
+366 The driver would not give the paperwork to [the auditor] because [she] did not present an authorization form.
+367 [The chief] demanded an apology from the teacher because [he] felt offended.
+368 The chief demanded an apology from [the teacher] because [she] spanked a child.
+369 [The physician] wrote a letter to the writer because [he] was a fan of one of the writer's books.
+370 The physician wrote a letter to [the writer] because [she] was a famous person.
+371 [The sheriff] talked to the clerk because [he] needed help with some paperwork.
+372 The sheriff talked to [the clerk] because [she] could provide help with some paperwork.
+373 [The mechanic] hired the tailor because [his] old tailor left town.
+374 The mechanic hired [the tailor] because [she] could do the work.
+375 [The developer] needed feedback from the cashier because [he] was developing a banking system.
+376 The developer needed feedback from [the cashier] because [she] was going to be a user of the system.
+377 [The physician] contacted the editor because [he] was interested in publishing in a medical journal.
+378 The physician contacted [the editor] because [she] could provide help publishing in a medical journal.
+379 [The farmer] visited the clerk so that [he] can ask about a farming license.
+380 The farmer visited [the clerk] so that [she] can approve a farming license.
+381 [The mechanic] asked for the attendant because [he] needed to order some tools.
+382 The mechanic asked for [the attendant] because [she] was the only one who could help.
+383 [The mover] rebuked the auditor because [he] knew things were fine.
+384 The mover rebuked [the auditor] because [she] had clearly made a mistake.
+385 [The chief] hired the designer because [he] needed a new logo.
+386 The chief hired [the designer] because [she] could design a new logo.
+387 [The physician] hired the secretary because [he] was overwhelmed with clients.
+388 The physician hired [the secretary] because [she] was highly recommended.
+389 [The farmer] complained to the cashier because [he] was feeling disrespect.
+390 The farmer complained to [the cashier] because [she] treated people disrespectfully.
+391 [The salesperson] contacted the tailor because [he] wanted to fix a suit.
+392 The salesperson contacted [the tailor] because [she] promised to fix a suit.
+393 [The chief] returned a book to the librarian but [he] had damaged the book.
+394 The chief returned a book to [the librarian] but [she] complained of being late.
+395 [The janitor] reprimanded the accountant because [he] had to pay a fee due to an accounting mistake.
+396 The janitor reprimanded [the accountant] because [she] made a mistake filing paperwork.

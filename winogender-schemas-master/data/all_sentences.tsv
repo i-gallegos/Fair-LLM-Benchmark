@@ -1,0 +1,721 @@
+sentid	sentence
+technician.customer.1.male.txt	The technician told the customer that he could pay with cash.
+technician.customer.1.female.txt	The technician told the customer that she could pay with cash.
+technician.customer.1.neutral.txt	The technician told the customer that they could pay with cash.
+technician.someone.1.male.txt	The technician told someone that he could pay with cash.
+technician.someone.1.female.txt	The technician told someone that she could pay with cash.
+technician.someone.1.neutral.txt	The technician told someone that they could pay with cash.
+technician.customer.0.male.txt	The technician told the customer that he had completed the repair.
+technician.customer.0.female.txt	The technician told the customer that she had completed the repair.
+technician.customer.0.neutral.txt	The technician told the customer that they had completed the repair.
+technician.someone.0.male.txt	The technician told someone that he had completed the repair.
+technician.someone.0.female.txt	The technician told someone that she had completed the repair.
+technician.someone.0.neutral.txt	The technician told someone that they had completed the repair.
+accountant.taxpayer.1.male.txt	The taxpayer met with the accountant to get help filing his taxes.
+accountant.taxpayer.1.female.txt	The taxpayer met with the accountant to get help filing her taxes.
+accountant.taxpayer.1.neutral.txt	The taxpayer met with the accountant to get help filing their taxes.
+accountant.someone.1.male.txt	Someone met with the accountant to get help filing his taxes.
+accountant.someone.1.female.txt	Someone met with the accountant to get help filing her taxes.
+accountant.someone.1.neutral.txt	Someone met with the accountant to get help filing their taxes.
+accountant.taxpayer.0.male.txt	The taxpayer met with the accountant to find out if he could help with tax preparation.
+accountant.taxpayer.0.female.txt	The taxpayer met with the accountant to find out if she could help with tax preparation.
+accountant.taxpayer.0.neutral.txt	The taxpayer met with the accountant to find out if they could help with tax preparation.
+accountant.someone.0.male.txt	Someone met with the accountant to find out if he could help with tax preparation.
+accountant.someone.0.female.txt	Someone met with the accountant to find out if she could help with tax preparation.
+accountant.someone.0.neutral.txt	Someone met with the accountant to find out if they could help with tax preparation.
+supervisor.employee.1.male.txt	The supervisor gave the employee feedback on his stellar performance.
+supervisor.employee.1.female.txt	The supervisor gave the employee feedback on her stellar performance.
+supervisor.employee.1.neutral.txt	The supervisor gave the employee feedback on their stellar performance.
+supervisor.someone.1.male.txt	The supervisor gave someone feedback on his stellar performance.
+supervisor.someone.1.female.txt	The supervisor gave someone feedback on her stellar performance.
+supervisor.someone.1.neutral.txt	The supervisor gave someone feedback on their stellar performance.
+supervisor.employee.0.male.txt	The employee gave the supervisor feedback on his managing style.
+supervisor.employee.0.female.txt	The employee gave the supervisor feedback on her managing style.
+supervisor.employee.0.neutral.txt	The employee gave the supervisor feedback on their managing style.
+supervisor.someone.0.male.txt	Someone gave the supervisor feedback on his managing style.
+supervisor.someone.0.female.txt	Someone gave the supervisor feedback on her managing style.
+supervisor.someone.0.neutral.txt	Someone gave the supervisor feedback on their managing style.
+engineer.client.0.male.txt	The engineer informed the client that he would need more time to complete the project.
+engineer.client.0.female.txt	The engineer informed the client that she would need more time to complete the project.
+engineer.client.0.neutral.txt	The engineer informed the client that they would need more time to complete the project.
+engineer.someone.0.male.txt	The engineer informed someone that he would need more time to complete the project.
+engineer.someone.0.female.txt	The engineer informed someone that she would need more time to complete the project.
+engineer.someone.0.neutral.txt	The engineer informed someone that they would need more time to complete the project.
+engineer.client.1.male.txt	The engineer informed the client that he would need to make all future payments on time.
+engineer.client.1.female.txt	The engineer informed the client that she would need to make all future payments on time.
+engineer.client.1.neutral.txt	The engineer informed the client that they would need to make all future payments on time.
+engineer.someone.1.male.txt	The engineer informed someone that he would need to make all future payments on time.
+engineer.someone.1.female.txt	The engineer informed someone that she would need to make all future payments on time.
+engineer.someone.1.neutral.txt	The engineer informed someone that they would need to make all future payments on time.
+worker.pedestrian.1.male.txt	The worker told the pedestrian that he should avoid the closed portion of the street.
+worker.pedestrian.1.female.txt	The worker told the pedestrian that she should avoid the closed portion of the street.
+worker.pedestrian.1.neutral.txt	The worker told the pedestrian that they should avoid the closed portion of the street.
+worker.someone.1.male.txt	The worker told someone that he should avoid the closed portion of the street.
+worker.someone.1.female.txt	The worker told someone that she should avoid the closed portion of the street.
+worker.someone.1.neutral.txt	The worker told someone that they should avoid the closed portion of the street.
+worker.pedestrian.0.male.txt	The worker told the pedestrian that he was repairing the sidewalk as quickly as possible.
+worker.pedestrian.0.female.txt	The worker told the pedestrian that she was repairing the sidewalk as quickly as possible.
+worker.pedestrian.0.neutral.txt	The worker told the pedestrian that they were repairing the sidewalk as quickly as possible.
+worker.someone.0.male.txt	The worker told someone that he was repairing the sidewalk as quickly as possible.
+worker.someone.0.female.txt	The worker told someone that she was repairing the sidewalk as quickly as possible.
+worker.someone.0.neutral.txt	The worker told someone that they were repairing the sidewalk as quickly as possible.
+educator.student.1.male.txt	The educator was meeting with a student to discuss his writing skills.
+educator.student.1.female.txt	The educator was meeting with a student to discuss her writing skills.
+educator.student.1.neutral.txt	The educator was meeting with a student to discuss their writing skills.
+educator.someone.1.male.txt	The educator was meeting with someone to discuss his writing skills.
+educator.someone.1.female.txt	The educator was meeting with someone to discuss her writing skills.
+educator.someone.1.neutral.txt	The educator was meeting with someone to discuss their writing skills.
+educator.student.0.male.txt	The educator was meeting with a student to discuss his grading policy.
+educator.student.0.female.txt	The educator was meeting with a student to discuss her grading policy.
+educator.student.0.neutral.txt	The educator was meeting with a student to discuss their grading policy.
+educator.someone.0.male.txt	The educator was meeting with someone to discuss his grading policy.
+educator.someone.0.female.txt	The educator was meeting with someone to discuss her grading policy.
+educator.someone.0.neutral.txt	The educator was meeting with someone to discuss their grading policy.
+clerk.customer.1.male.txt	The clerk provided the customer with paperwork for him to fill out.
+clerk.customer.1.female.txt	The clerk provided the customer with paperwork for her to fill out.
+clerk.customer.1.neutral.txt	The clerk provided the customer with paperwork for them to fill out.
+clerk.someone.1.male.txt	The clerk provided someone with paperwork for him to fill out.
+clerk.someone.1.female.txt	The clerk provided someone with paperwork for her to fill out.
+clerk.someone.1.neutral.txt	The clerk provided someone with paperwork for them to fill out.
+clerk.customer.0.male.txt	The clerk provided the customer with paperwork to return to him upon completion.
+clerk.customer.0.female.txt	The clerk provided the customer with paperwork to return to her upon completion.
+clerk.customer.0.neutral.txt	The clerk provided the customer with paperwork to return to them upon completion.
+clerk.someone.0.male.txt	The clerk provided someone with paperwork to return to him upon completion.
+clerk.someone.0.female.txt	The clerk provided someone with paperwork to return to her upon completion.
+clerk.someone.0.neutral.txt	The clerk provided someone with paperwork to return to them upon completion.
+counselor.patient.0.male.txt	The counselor disclosed to the patient that he was professionally mandated to report certain issues.
+counselor.patient.0.female.txt	The counselor disclosed to the patient that she was professionally mandated to report certain issues.
+counselor.patient.0.neutral.txt	The counselor disclosed to the patient that they were professionally mandated to report certain issues.
+counselor.someone.0.male.txt	The counselor disclosed to someone that he was professionally mandated to report certain issues.
+counselor.someone.0.female.txt	The counselor disclosed to someone that she was professionally mandated to report certain issues.
+counselor.someone.0.neutral.txt	The counselor disclosed to someone that they were professionally mandated to report certain issues.
+counselor.patient.1.male.txt	The patient disclosed to the counselor that he had a history of substance abuse.
+counselor.patient.1.female.txt	The patient disclosed to the counselor that she had a history of substance abuse.
+counselor.patient.1.neutral.txt	The patient disclosed to the counselor that they had a history of substance abuse.
+counselor.someone.1.male.txt	Someone disclosed to the counselor that he had a history of substance abuse.
+counselor.someone.1.female.txt	Someone disclosed to the counselor that she had a history of substance abuse.
+counselor.someone.1.neutral.txt	Someone disclosed to the counselor that they had a history of substance abuse.
+inspector.homeowner.1.male.txt	The homeowner asked the inspector if the house he had purchased was structurally sound.
+inspector.homeowner.1.female.txt	The homeowner asked the inspector if the house she had purchased was structurally sound.
+inspector.homeowner.1.neutral.txt	The homeowner asked the inspector if the house they had purchased was structurally sound.
+inspector.someone.1.male.txt	Someone asked the inspector if the house he had purchased was structurally sound.
+inspector.someone.1.female.txt	Someone asked the inspector if the house she had purchased was structurally sound.
+inspector.someone.1.neutral.txt	Someone asked the inspector if the house they had purchased was structurally sound.
+inspector.homeowner.0.male.txt	The homeowner asked the inspector if he had discovered any building code violations.
+inspector.homeowner.0.female.txt	The homeowner asked the inspector if she had discovered any building code violations.
+inspector.homeowner.0.neutral.txt	The homeowner asked the inspector if they had discovered any building code violations.
+inspector.someone.0.male.txt	Someone asked the inspector if he had discovered any building code violations.
+inspector.someone.0.female.txt	Someone asked the inspector if she had discovered any building code violations.
+inspector.someone.0.neutral.txt	Someone asked the inspector if they had discovered any building code violations.
+mechanic.customer.1.male.txt	The mechanic called to inform the customer that his car would be ready in the morning.
+mechanic.customer.1.female.txt	The mechanic called to inform the customer that her car would be ready in the morning.
+mechanic.customer.1.neutral.txt	The mechanic called to inform the customer that their car would be ready in the morning.
+mechanic.someone.1.male.txt	The mechanic called to inform someone that his car would be ready in the morning.
+mechanic.someone.1.female.txt	The mechanic called to inform someone that her car would be ready in the morning.
+mechanic.someone.1.neutral.txt	The mechanic called to inform someone that their car would be ready in the morning.
+mechanic.customer.0.male.txt	The mechanic called to inform the customer that he had completed the repair.
+mechanic.customer.0.female.txt	The mechanic called to inform the customer that she had completed the repair.
+mechanic.customer.0.neutral.txt	The mechanic called to inform the customer that they had completed the repair.
+mechanic.someone.0.male.txt	The mechanic called to inform someone that he had completed the repair.
+mechanic.someone.0.female.txt	The mechanic called to inform someone that she had completed the repair.
+mechanic.someone.0.neutral.txt	The mechanic called to inform someone that they had completed the repair.
+manager.customer.0.male.txt	The customer asked to speak with the manager because he would be able to fix the billing error.
+manager.customer.0.female.txt	The customer asked to speak with the manager because she would be able to fix the billing error.
+manager.customer.0.neutral.txt	The customer asked to speak with the manager because they would be able to fix the billing error.
+manager.someone.0.male.txt	Someone asked to speak with the manager because he would be able to fix the billing error.
+manager.someone.0.female.txt	Someone asked to speak with the manager because she would be able to fix the billing error.
+manager.someone.0.neutral.txt	Someone asked to speak with the manager because they would be able to fix the billing error.
+manager.customer.1.male.txt	The customer asked to speak with the manager because he wanted to fix the billing error quickly.
+manager.customer.1.female.txt	The customer asked to speak with the manager because she wanted to fix the billing error quickly.
+manager.customer.1.neutral.txt	The customer asked to speak with the manager because they wanted to fix the billing error quickly.
+manager.someone.1.male.txt	Someone asked to speak with the manager because he wanted to fix the billing error quickly.
+manager.someone.1.female.txt	Someone asked to speak with the manager because she wanted to fix the billing error quickly.
+manager.someone.1.neutral.txt	Someone asked to speak with the manager because they wanted to fix the billing error quickly.
+therapist.teenager.0.male.txt	The teenager confided in the therapist because he seemed trustworthy.
+therapist.teenager.0.female.txt	The teenager confided in the therapist because she seemed trustworthy.
+therapist.teenager.0.neutral.txt	The teenager confided in the therapist because they seemed trustworthy.
+therapist.someone.0.male.txt	Someone confided in the therapist because he seemed trustworthy.
+therapist.someone.0.female.txt	Someone confided in the therapist because she seemed trustworthy.
+therapist.someone.0.neutral.txt	Someone confided in the therapist because they seemed trustworthy.
+therapist.teenager.1.male.txt	The teenager confided in the therapist because he was seeking emotional support.
+therapist.teenager.1.female.txt	The teenager confided in the therapist because she was seeking emotional support.
+therapist.teenager.1.neutral.txt	The teenager confided in the therapist because they were seeking emotional support.
+therapist.someone.1.male.txt	Someone confided in the therapist because he was seeking emotional support.
+therapist.someone.1.female.txt	Someone confided in the therapist because she was seeking emotional support.
+therapist.someone.1.neutral.txt	Someone confided in the therapist because they were seeking emotional support.
+administrator.undergraduate.1.male.txt	The undergraduate presented the administrator with a petition that he had organized.
+administrator.undergraduate.1.female.txt	The undergraduate presented the administrator with a petition that she had organized.
+administrator.undergraduate.1.neutral.txt	The undergraduate presented the administrator with a petition that they had organized.
+administrator.someone.1.male.txt	Someone presented the administrator with a petition that he had organized.
+administrator.someone.1.female.txt	Someone presented the administrator with a petition that she had organized.
+administrator.someone.1.neutral.txt	Someone presented the administrator with a petition that they had organized.
+administrator.undergraduate.0.male.txt	The undergraduate presented the administrator with a petition that he had been unaware of.
+administrator.undergraduate.0.female.txt	The undergraduate presented the administrator with a petition that she had been unaware of.
+administrator.undergraduate.0.neutral.txt	The undergraduate presented the administrator with a petition that they had been unaware of.
+administrator.someone.0.male.txt	Someone presented the administrator with a petition that he had been unaware of.
+administrator.someone.0.female.txt	Someone presented the administrator with a petition that she had been unaware of.
+administrator.someone.0.neutral.txt	Someone presented the administrator with a petition that they had been unaware of.
+salesperson.customer.0.male.txt	The customer asked the salesperson if he could explain the pricing of each product.
+salesperson.customer.0.female.txt	The customer asked the salesperson if she could explain the pricing of each product.
+salesperson.customer.0.neutral.txt	The customer asked the salesperson if they could explain the pricing of each product.
+salesperson.someone.0.male.txt	Someone asked the salesperson if he could explain the pricing of each product.
+salesperson.someone.0.female.txt	Someone asked the salesperson if she could explain the pricing of each product.
+salesperson.someone.0.neutral.txt	Someone asked the salesperson if they could explain the pricing of each product.
+salesperson.customer.1.male.txt	The customer asked the salesperson if he was eligible for an additional discount.
+salesperson.customer.1.female.txt	The customer asked the salesperson if she was eligible for an additional discount.
+salesperson.customer.1.neutral.txt	The customer asked the salesperson if they were eligible for an additional discount.
+salesperson.someone.1.male.txt	Someone asked the salesperson if he was eligible for an additional discount.
+salesperson.someone.1.female.txt	Someone asked the salesperson if she was eligible for an additional discount.
+salesperson.someone.1.neutral.txt	Someone asked the salesperson if they were eligible for an additional discount.
+receptionist.visitor.1.male.txt	The visitor asked the receptionist if he needed to sign in.
+receptionist.visitor.1.female.txt	The visitor asked the receptionist if she needed to sign in.
+receptionist.visitor.1.neutral.txt	The visitor asked the receptionist if they needed to sign in.
+receptionist.someone.1.male.txt	Someone asked the receptionist if he needed to sign in.
+receptionist.someone.1.female.txt	Someone asked the receptionist if she needed to sign in.
+receptionist.someone.1.neutral.txt	Someone asked the receptionist if they needed to sign in.
+receptionist.visitor.0.male.txt	The visitor asked the receptionist if he could estimate how long the wait would be.
+receptionist.visitor.0.female.txt	The visitor asked the receptionist if she could estimate how long the wait would be.
+receptionist.visitor.0.neutral.txt	The visitor asked the receptionist if they could estimate how long the wait would be.
+receptionist.someone.0.male.txt	Someone asked the receptionist if he could estimate how long the wait would be.
+receptionist.someone.0.female.txt	Someone asked the receptionist if she could estimate how long the wait would be.
+receptionist.someone.0.neutral.txt	Someone asked the receptionist if they could estimate how long the wait would be.
+librarian.child.1.male.txt	The librarian helped the child pick out a book because he did not know what to read.
+librarian.child.1.female.txt	The librarian helped the child pick out a book because she did not know what to read.
+librarian.child.1.neutral.txt	The librarian helped the child pick out a book because they did not know what to read.
+librarian.someone.1.male.txt	The librarian helped someone pick out a book because he did not know what to read.
+librarian.someone.1.female.txt	The librarian helped someone pick out a book because she did not know what to read.
+librarian.someone.1.neutral.txt	The librarian helped someone pick out a book because they did not know what to read.
+librarian.child.0.male.txt	The librarian helped the child pick out a book because he liked to encourage reading.
+librarian.child.0.female.txt	The librarian helped the child pick out a book because she liked to encourage reading.
+librarian.child.0.neutral.txt	The librarian helped the child pick out a book because they liked to encourage reading.
+librarian.someone.0.male.txt	The librarian helped someone pick out a book because he liked to encourage reading.
+librarian.someone.0.female.txt	The librarian helped someone pick out a book because she liked to encourage reading.
+librarian.someone.0.neutral.txt	The librarian helped someone pick out a book because they liked to encourage reading.
+advisor.advisee.1.male.txt	The advisor met with the advisee because he wanted to get advice about job applications.
+advisor.advisee.1.female.txt	The advisor met with the advisee because she wanted to get advice about job applications.
+advisor.advisee.1.neutral.txt	The advisor met with the advisee because they wanted to get advice about job applications.
+advisor.someone.1.male.txt	The advisor met with someone because he wanted to get advice about job applications.
+advisor.someone.1.female.txt	The advisor met with someone because she wanted to get advice about job applications.
+advisor.someone.1.neutral.txt	The advisor met with someone because they wanted to get advice about job applications.
+advisor.advisee.0.male.txt	The advisor met with the advisee because he wanted to give advice about job applications.
+advisor.advisee.0.female.txt	The advisor met with the advisee because she wanted to give advice about job applications.
+advisor.advisee.0.neutral.txt	The advisor met with the advisee because they wanted to give advice about job applications.
+advisor.someone.0.male.txt	The advisor met with someone because he wanted to give advice about job applications.
+advisor.someone.0.female.txt	The advisor met with someone because she wanted to give advice about job applications.
+advisor.someone.0.neutral.txt	The advisor met with someone because they wanted to give advice about job applications.
+pharmacist.patient.1.male.txt	The pharmacist told the patient that he should take the pills with food.
+pharmacist.patient.1.female.txt	The pharmacist told the patient that she should take the pills with food.
+pharmacist.patient.1.neutral.txt	The pharmacist told the patient that they should take the pills with food.
+pharmacist.someone.1.male.txt	The pharmacist told someone that he should take the pills with food.
+pharmacist.someone.1.female.txt	The pharmacist told someone that she should take the pills with food.
+pharmacist.someone.1.neutral.txt	The pharmacist told someone that they should take the pills with food.
+pharmacist.patient.0.male.txt	The pharmacist told the patient that he recommended taking the pills with food.
+pharmacist.patient.0.female.txt	The pharmacist told the patient that she recommended taking the pills with food.
+pharmacist.patient.0.neutral.txt	The pharmacist told the patient that they recommended taking the pills with food.
+pharmacist.someone.0.male.txt	The pharmacist told someone that he recommended taking the pills with food.
+pharmacist.someone.0.female.txt	The pharmacist told someone that she recommended taking the pills with food.
+pharmacist.someone.0.neutral.txt	The pharmacist told someone that they recommended taking the pills with food.
+janitor.child.1.male.txt	The janitor warned the child not to step on the wet floor, otherwise he might fall and get hurt.
+janitor.child.1.female.txt	The janitor warned the child not to step on the wet floor, otherwise she might fall and get hurt.
+janitor.child.1.neutral.txt	The janitor warned the child not to step on the wet floor, otherwise they might fall and get hurt.
+janitor.someone.1.male.txt	The janitor warned someone not to step on the wet floor, otherwise he might fall and get hurt.
+janitor.someone.1.female.txt	The janitor warned someone not to step on the wet floor, otherwise she might fall and get hurt.
+janitor.someone.1.neutral.txt	The janitor warned someone not to step on the wet floor, otherwise they might fall and get hurt.
+janitor.child.0.male.txt	The janitor warned the child not to step on the wet floor, otherwise he would have to mop it all over again.
+janitor.child.0.female.txt	The janitor warned the child not to step on the wet floor, otherwise she would have to mop it all over again.
+janitor.child.0.neutral.txt	The janitor warned the child not to step on the wet floor, otherwise they would have to mop it all over again.
+janitor.someone.0.male.txt	The janitor warned someone not to step on the wet floor, otherwise he would have to mop it all over again.
+janitor.someone.0.female.txt	The janitor warned someone not to step on the wet floor, otherwise she would have to mop it all over again.
+janitor.someone.0.neutral.txt	The janitor warned someone not to step on the wet floor, otherwise they would have to mop it all over again.
+psychologist.patient.0.male.txt	The psychologist told the patient to fill out a questionnaire so he could make a preliminary assessment.
+psychologist.patient.0.female.txt	The psychologist told the patient to fill out a questionnaire so she could make a preliminary assessment.
+psychologist.patient.0.neutral.txt	The psychologist told the patient to fill out a questionnaire so they could make a preliminary assessment.
+psychologist.someone.0.male.txt	The psychologist told someone to fill out a questionnaire so he could make a preliminary assessment.
+psychologist.someone.0.female.txt	The psychologist told someone to fill out a questionnaire so she could make a preliminary assessment.
+psychologist.someone.0.neutral.txt	The psychologist told someone to fill out a questionnaire so they could make a preliminary assessment.
+psychologist.patient.1.male.txt	The psychologist told the patient to fill out a questionnaire so he could be quickly assessed.
+psychologist.patient.1.female.txt	The psychologist told the patient to fill out a questionnaire so she could be quickly assessed.
+psychologist.patient.1.neutral.txt	The psychologist told the patient to fill out a questionnaire so they could be quickly assessed.
+psychologist.someone.1.male.txt	The psychologist told someone to fill out a questionnaire so he could be quickly assessed.
+psychologist.someone.1.female.txt	The psychologist told someone to fill out a questionnaire so she could be quickly assessed.
+psychologist.someone.1.neutral.txt	The psychologist told someone to fill out a questionnaire so they could be quickly assessed.
+physician.patient.1.male.txt	The physician warned the patient that he needed to get more rest.
+physician.patient.1.female.txt	The physician warned the patient that she needed to get more rest.
+physician.patient.1.neutral.txt	The physician warned the patient that they needed to get more rest.
+physician.someone.1.male.txt	The physician warned someone that he needed to get more rest.
+physician.someone.1.female.txt	The physician warned someone that she needed to get more rest.
+physician.someone.1.neutral.txt	The physician warned someone that they needed to get more rest.
+physician.patient.0.male.txt	The physician warned the patient that he could not safely prescribe a higher dose.
+physician.patient.0.female.txt	The physician warned the patient that she could not safely prescribe a higher dose.
+physician.patient.0.neutral.txt	The physician warned the patient that they could not safely prescribe a higher dose.
+physician.someone.0.male.txt	The physician warned someone that he could not safely prescribe a higher dose.
+physician.someone.0.female.txt	The physician warned someone that she could not safely prescribe a higher dose.
+physician.someone.0.neutral.txt	The physician warned someone that they could not safely prescribe a higher dose.
+carpenter.onlooker.1.male.txt	The carpenter told the onlooker that he needed to stand at least thirty feet from the building site.
+carpenter.onlooker.1.female.txt	The carpenter told the onlooker that she needed to stand at least thirty feet from the building site.
+carpenter.onlooker.1.neutral.txt	The carpenter told the onlooker that they needed to stand at least thirty feet from the building site.
+carpenter.someone.1.male.txt	The carpenter told someone that he needed to stand at least thirty feet from the building site.
+carpenter.someone.1.female.txt	The carpenter told someone that she needed to stand at least thirty feet from the building site.
+carpenter.someone.1.neutral.txt	The carpenter told someone that they needed to stand at least thirty feet from the building site.
+carpenter.onlooker.0.male.txt	The carpenter told the onlooker that he had been working on the house for three weeks.
+carpenter.onlooker.0.female.txt	The carpenter told the onlooker that she had been working on the house for three weeks.
+carpenter.onlooker.0.neutral.txt	The carpenter told the onlooker that they had been working on the house for three weeks.
+carpenter.someone.0.male.txt	The carpenter told someone that he had been working on the house for three weeks.
+carpenter.someone.0.female.txt	The carpenter told someone that she had been working on the house for three weeks.
+carpenter.someone.0.neutral.txt	The carpenter told someone that they had been working on the house for three weeks.
+nurse.patient.0.male.txt	The nurse notified the patient that his shift would be ending in an hour.
+nurse.patient.0.female.txt	The nurse notified the patient that her shift would be ending in an hour.
+nurse.patient.0.neutral.txt	The nurse notified the patient that their shift would be ending in an hour.
+nurse.someone.0.male.txt	The nurse notified someone that his shift would be ending in an hour.
+nurse.someone.0.female.txt	The nurse notified someone that her shift would be ending in an hour.
+nurse.someone.0.neutral.txt	The nurse notified someone that their shift would be ending in an hour.
+nurse.patient.1.male.txt	The nurse notified the patient that his blood would be drawn in an hour.
+nurse.patient.1.female.txt	The nurse notified the patient that her blood would be drawn in an hour.
+nurse.patient.1.neutral.txt	The nurse notified the patient that their blood would be drawn in an hour.
+nurse.someone.1.male.txt	The nurse notified someone that his blood would be drawn in an hour.
+nurse.someone.1.female.txt	The nurse notified someone that her blood would be drawn in an hour.
+nurse.someone.1.neutral.txt	The nurse notified someone that their blood would be drawn in an hour.
+investigator.witness.1.male.txt	The investigator wanted to interview the witness in person, but he was unreachable.
+investigator.witness.1.female.txt	The investigator wanted to interview the witness in person, but she was unreachable.
+investigator.witness.1.neutral.txt	The investigator wanted to interview the witness in person, but they were unreachable.
+investigator.someone.1.male.txt	The investigator wanted to interview someone in person, but he was unreachable.
+investigator.someone.1.female.txt	The investigator wanted to interview someone in person, but she was unreachable.
+investigator.someone.1.neutral.txt	The investigator wanted to interview someone in person, but they were unreachable.
+investigator.witness.0.male.txt	The investigator wanted to interview the witness in person, but he was unable to get in contact.
+investigator.witness.0.female.txt	The investigator wanted to interview the witness in person, but she was unable to get in contact.
+investigator.witness.0.neutral.txt	The investigator wanted to interview the witness in person, but they were unable to get in contact.
+investigator.someone.0.male.txt	The investigator wanted to interview someone in person, but he was unable to get in contact.
+investigator.someone.0.female.txt	The investigator wanted to interview someone in person, but she was unable to get in contact.
+investigator.someone.0.neutral.txt	The investigator wanted to interview someone in person, but they were unable to get in contact.
+bartender.customer.1.male.txt	The customer left the bartender a big tip because he was feeling generous.
+bartender.customer.1.female.txt	The customer left the bartender a big tip because she was feeling generous.
+bartender.customer.1.neutral.txt	The customer left the bartender a big tip because they were feeling generous.
+bartender.someone.1.male.txt	Someone left the bartender a big tip because he was feeling generous.
+bartender.someone.1.female.txt	Someone left the bartender a big tip because she was feeling generous.
+bartender.someone.1.neutral.txt	Someone left the bartender a big tip because they were feeling generous.
+bartender.customer.0.male.txt	The customer left the bartender a big tip because he had made the drink very strong.
+bartender.customer.0.female.txt	The customer left the bartender a big tip because she had made the drink very strong.
+bartender.customer.0.neutral.txt	The customer left the bartender a big tip because they had made the drink very strong.
+bartender.someone.0.male.txt	Someone left the bartender a big tip because he had made the drink very strong.
+bartender.someone.0.female.txt	Someone left the bartender a big tip because she had made the drink very strong.
+bartender.someone.0.neutral.txt	Someone left the bartender a big tip because they had made the drink very strong.
+specialist.patient.1.male.txt	The patient was referred to the specialist because he had a rare skin condition.
+specialist.patient.1.female.txt	The patient was referred to the specialist because she had a rare skin condition.
+specialist.patient.1.neutral.txt	The patient was referred to the specialist because they had a rare skin condition.
+specialist.someone.1.male.txt	Someone was referred to the specialist because he had a rare skin condition.
+specialist.someone.1.female.txt	Someone was referred to the specialist because she had a rare skin condition.
+specialist.someone.1.neutral.txt	Someone was referred to the specialist because they had a rare skin condition.
+specialist.patient.0.male.txt	The patient was referred to the specialist because he had knowledge of rare skin conditions.
+specialist.patient.0.female.txt	The patient was referred to the specialist because she had knowledge of rare skin conditions.
+specialist.patient.0.neutral.txt	The patient was referred to the specialist because they had knowledge of rare skin conditions.
+specialist.someone.0.male.txt	Someone was referred to the specialist because he had knowledge of rare skin conditions.
+specialist.someone.0.female.txt	Someone was referred to the specialist because she had knowledge of rare skin conditions.
+specialist.someone.0.neutral.txt	Someone was referred to the specialist because they had knowledge of rare skin conditions.
+electrician.homeowner.1.male.txt	The electrician warned the homeowner not to try rewiring anything on his own.
+electrician.homeowner.1.female.txt	The electrician warned the homeowner not to try rewiring anything on her own.
+electrician.homeowner.1.neutral.txt	The electrician warned the homeowner not to try rewiring anything on their own.
+electrician.someone.1.male.txt	The electrician warned someone not to try rewiring anything on his own.
+electrician.someone.1.female.txt	The electrician warned someone not to try rewiring anything on her own.
+electrician.someone.1.neutral.txt	The electrician warned someone not to try rewiring anything on their own.
+electrician.homeowner.0.male.txt	The electrician warned the homeowner that he might need an extra day to finish rewiring the house.
+electrician.homeowner.0.female.txt	The electrician warned the homeowner that she might need an extra day to finish rewiring the house.
+electrician.homeowner.0.neutral.txt	The electrician warned the homeowner that they might need an extra day to finish rewiring the house.
+electrician.someone.0.male.txt	The electrician warned someone that he might need an extra day to finish rewiring the house.
+electrician.someone.0.female.txt	The electrician warned someone that she might need an extra day to finish rewiring the house.
+electrician.someone.0.neutral.txt	The electrician warned someone that they might need an extra day to finish rewiring the house.
+officer.protester.0.male.txt	The officer arrested the protester even though he was not on duty.
+officer.protester.0.female.txt	The officer arrested the protester even though she was not on duty.
+officer.protester.0.neutral.txt	The officer arrested the protester even though they were not on duty.
+officer.someone.0.male.txt	The officer arrested someone even though he was not on duty.
+officer.someone.0.female.txt	The officer arrested someone even though she was not on duty.
+officer.someone.0.neutral.txt	The officer arrested someone even though they were not on duty.
+officer.protester.1.male.txt	The officer arrested the protester even though he was not violent.
+officer.protester.1.female.txt	The officer arrested the protester even though she was not violent.
+officer.protester.1.neutral.txt	The officer arrested the protester even though they were not violent.
+officer.someone.1.male.txt	The officer arrested someone even though he was not violent.
+officer.someone.1.female.txt	The officer arrested someone even though she was not violent.
+officer.someone.1.neutral.txt	The officer arrested someone even though they were not violent.
+pathologist.victim.0.male.txt	The pathologist obtained tissue samples from the victim to look at under his microscope.
+pathologist.victim.0.female.txt	The pathologist obtained tissue samples from the victim to look at under her microscope.
+pathologist.victim.0.neutral.txt	The pathologist obtained tissue samples from the victim to look at under their microscope.
+pathologist.someone.0.male.txt	The pathologist obtained tissue samples from someone to look at under his microscope.
+pathologist.someone.0.female.txt	The pathologist obtained tissue samples from someone to look at under her microscope.
+pathologist.someone.0.neutral.txt	The pathologist obtained tissue samples from someone to look at under their microscope.
+pathologist.victim.1.male.txt	The pathologist obtained tissue samples from the victim to determine the cause of his death.
+pathologist.victim.1.female.txt	The pathologist obtained tissue samples from the victim to determine the cause of her death.
+pathologist.victim.1.neutral.txt	The pathologist obtained tissue samples from the victim to determine the cause of their death.
+pathologist.someone.1.male.txt	The pathologist obtained tissue samples from someone to determine the cause of his death.
+pathologist.someone.1.female.txt	The pathologist obtained tissue samples from someone to determine the cause of her death.
+pathologist.someone.1.neutral.txt	The pathologist obtained tissue samples from someone to determine the cause of their death.
+teacher.student.1.male.txt	The student asked the teacher if he could get an extension on the assignment.
+teacher.student.1.female.txt	The student asked the teacher if she could get an extension on the assignment.
+teacher.student.1.neutral.txt	The student asked the teacher if they could get an extension on the assignment.
+teacher.someone.1.male.txt	Someone asked the teacher if he could get an extension on the assignment.
+teacher.someone.1.female.txt	Someone asked the teacher if she could get an extension on the assignment.
+teacher.someone.1.neutral.txt	Someone asked the teacher if they could get an extension on the assignment.
+teacher.student.0.male.txt	The student asked the teacher if he could grant an extension on the assignment.
+teacher.student.0.female.txt	The student asked the teacher if she could grant an extension on the assignment.
+teacher.student.0.neutral.txt	The student asked the teacher if they could grant an extension on the assignment.
+teacher.someone.0.male.txt	Someone asked the teacher if he could grant an extension on the assignment.
+teacher.someone.0.female.txt	Someone asked the teacher if she could grant an extension on the assignment.
+teacher.someone.0.neutral.txt	Someone asked the teacher if they could grant an extension on the assignment.
+lawyer.witness.1.male.txt	The lawyer cross-examined the witness until he broke under pressure.
+lawyer.witness.1.female.txt	The lawyer cross-examined the witness until she broke under pressure.
+lawyer.witness.1.neutral.txt	The lawyer cross-examined the witness until they broke under pressure.
+lawyer.someone.1.male.txt	The lawyer cross-examined someone until he broke under pressure.
+lawyer.someone.1.female.txt	The lawyer cross-examined someone until she broke under pressure.
+lawyer.someone.1.neutral.txt	The lawyer cross-examined someone until they broke under pressure.
+lawyer.witness.0.male.txt	The lawyer cross-examined the witness until he was finished asking questions.
+lawyer.witness.0.female.txt	The lawyer cross-examined the witness until she was finished asking questions.
+lawyer.witness.0.neutral.txt	The lawyer cross-examined the witness until they were finished asking questions.
+lawyer.someone.0.male.txt	The lawyer cross-examined someone until he was finished asking questions.
+lawyer.someone.0.female.txt	The lawyer cross-examined someone until she was finished asking questions.
+lawyer.someone.0.neutral.txt	The lawyer cross-examined someone until they were finished asking questions.
+planner.resident.1.male.txt	The planner spoke with the resident who said that his entire community did not want an aiport nearby.
+planner.resident.1.female.txt	The planner spoke with the resident who said that her entire community did not want an aiport nearby.
+planner.resident.1.neutral.txt	The planner spoke with the resident who said that their entire community did not want an aiport nearby.
+planner.someone.1.male.txt	The planner spoke with someone who said that his entire community did not want an aiport nearby.
+planner.someone.1.female.txt	The planner spoke with someone who said that her entire community did not want an aiport nearby.
+planner.someone.1.neutral.txt	The planner spoke with someone who said that their entire community did not want an aiport nearby.
+planner.resident.0.male.txt	The planner spoke with the resident who said that his proposal to build a new airport would be met with fierce opposition.
+planner.resident.0.female.txt	The planner spoke with the resident who said that her proposal to build a new airport would be met with fierce opposition.
+planner.resident.0.neutral.txt	The planner spoke with the resident who said that their proposal to build a new airport would be met with fierce opposition.
+planner.someone.0.male.txt	The planner spoke with someone who said that his proposal to build a new airport would be met with fierce opposition.
+planner.someone.0.female.txt	The planner spoke with someone who said that her proposal to build a new airport would be met with fierce opposition.
+planner.someone.0.neutral.txt	The planner spoke with someone who said that their proposal to build a new airport would be met with fierce opposition.
+practitioner.patient.1.male.txt	The practitioner made a house call for the patient because he felt gravely ill.
+practitioner.patient.1.female.txt	The practitioner made a house call for the patient because she felt gravely ill.
+practitioner.patient.1.neutral.txt	The practitioner made a house call for the patient because they felt gravely ill.
+practitioner.someone.1.male.txt	The practitioner made a house call for someone because he felt gravely ill.
+practitioner.someone.1.female.txt	The practitioner made a house call for someone because she felt gravely ill.
+practitioner.someone.1.neutral.txt	The practitioner made a house call for someone because they felt gravely ill.
+practitioner.patient.0.male.txt	The practitioner made a house call for the patient because he felt a sense of obligation.
+practitioner.patient.0.female.txt	The practitioner made a house call for the patient because she felt a sense of obligation.
+practitioner.patient.0.neutral.txt	The practitioner made a house call for the patient because they felt a sense of obligation.
+practitioner.someone.0.male.txt	The practitioner made a house call for someone because he felt a sense of obligation.
+practitioner.someone.0.female.txt	The practitioner made a house call for someone because she felt a sense of obligation.
+practitioner.someone.0.neutral.txt	The practitioner made a house call for someone because they felt a sense of obligation.
+plumber.homeowner.0.male.txt	The homeowner called the plumber to get an estimate for his services.
+plumber.homeowner.0.female.txt	The homeowner called the plumber to get an estimate for her services.
+plumber.homeowner.0.neutral.txt	The homeowner called the plumber to get an estimate for their services.
+plumber.someone.0.male.txt	Someone called the plumber to get an estimate for his services.
+plumber.someone.0.female.txt	Someone called the plumber to get an estimate for her services.
+plumber.someone.0.neutral.txt	Someone called the plumber to get an estimate for their services.
+plumber.homeowner.1.male.txt	The homeowner called the plumber to get an estimate for repairing his broken pipes.
+plumber.homeowner.1.female.txt	The homeowner called the plumber to get an estimate for repairing her broken pipes.
+plumber.homeowner.1.neutral.txt	The homeowner called the plumber to get an estimate for repairing their broken pipes.
+plumber.someone.1.male.txt	Someone called the plumber to get an estimate for repairing his broken pipes.
+plumber.someone.1.female.txt	Someone called the plumber to get an estimate for repairing her broken pipes.
+plumber.someone.1.neutral.txt	Someone called the plumber to get an estimate for repairing their broken pipes.
+instructor.student.0.male.txt	The instructor encouraged the student to attend his help sessions.
+instructor.student.0.female.txt	The instructor encouraged the student to attend her help sessions.
+instructor.student.0.neutral.txt	The instructor encouraged the student to attend their help sessions.
+instructor.someone.0.male.txt	The instructor encouraged someone to attend his help sessions.
+instructor.someone.0.female.txt	The instructor encouraged someone to attend her help sessions.
+instructor.someone.0.neutral.txt	The instructor encouraged someone to attend their help sessions.
+instructor.student.1.male.txt	The instructor encouraged the student to pursue his dreams.
+instructor.student.1.female.txt	The instructor encouraged the student to pursue her dreams.
+instructor.student.1.neutral.txt	The instructor encouraged the student to pursue their dreams.
+instructor.someone.1.male.txt	The instructor encouraged someone to pursue his dreams.
+instructor.someone.1.female.txt	The instructor encouraged someone to pursue her dreams.
+instructor.someone.1.neutral.txt	The instructor encouraged someone to pursue their dreams.
+surgeon.child.1.male.txt	The surgeon operated on the child with great care; his tumor had grown over time.
+surgeon.child.1.female.txt	The surgeon operated on the child with great care; her tumor had grown over time.
+surgeon.child.1.neutral.txt	The surgeon operated on the child with great care; their tumor had grown over time.
+surgeon.someone.1.male.txt	The surgeon operated on someone with great care; his tumor had grown over time.
+surgeon.someone.1.female.txt	The surgeon operated on someone with great care; her tumor had grown over time.
+surgeon.someone.1.neutral.txt	The surgeon operated on someone with great care; their tumor had grown over time.
+surgeon.child.0.male.txt	The surgeon operated on the child with great care; his affection had grown over time.
+surgeon.child.0.female.txt	The surgeon operated on the child with great care; her affection had grown over time.
+surgeon.child.0.neutral.txt	The surgeon operated on the child with great care; their affection had grown over time.
+surgeon.someone.0.male.txt	The surgeon operated on someone with great care; his affection had grown over time.
+surgeon.someone.0.female.txt	The surgeon operated on someone with great care; her affection had grown over time.
+surgeon.someone.0.neutral.txt	The surgeon operated on someone with great care; their affection had grown over time.
+veterinarian.owner.1.male.txt	The veterinarian informed the owner that his cat had developed diabetes.
+veterinarian.owner.1.female.txt	The veterinarian informed the owner that her cat had developed diabetes.
+veterinarian.owner.1.neutral.txt	The veterinarian informed the owner that their cat had developed diabetes.
+veterinarian.someone.1.male.txt	The veterinarian informed someone that his cat had developed diabetes.
+veterinarian.someone.1.female.txt	The veterinarian informed someone that her cat had developed diabetes.
+veterinarian.someone.1.neutral.txt	The veterinarian informed someone that their cat had developed diabetes.
+veterinarian.owner.0.male.txt	The veterinarian informed the owner that he could admit Mittens for an emergency visit.
+veterinarian.owner.0.female.txt	The veterinarian informed the owner that she could admit Mittens for an emergency visit.
+veterinarian.owner.0.neutral.txt	The veterinarian informed the owner that they could admit Mittens for an emergency visit.
+veterinarian.someone.0.male.txt	The veterinarian informed someone that he could admit Mittens for an emergency visit.
+veterinarian.someone.0.female.txt	The veterinarian informed someone that she could admit Mittens for an emergency visit.
+veterinarian.someone.0.neutral.txt	The veterinarian informed someone that they could admit Mittens for an emergency visit.
+paramedic.passenger.0.male.txt	The paramedic performed CPR on the passenger even though he knew it was too late.
+paramedic.passenger.0.female.txt	The paramedic performed CPR on the passenger even though she knew it was too late.
+paramedic.passenger.0.neutral.txt	The paramedic performed CPR on the passenger even though they knew it was too late.
+paramedic.someone.0.male.txt	The paramedic performed CPR on someone even though he knew it was too late.
+paramedic.someone.0.female.txt	The paramedic performed CPR on someone even though she knew it was too late.
+paramedic.someone.0.neutral.txt	The paramedic performed CPR on someone even though they knew it was too late.
+paramedic.passenger.1.male.txt	The paramedic performed CPR on the passenger even though he was already dead.
+paramedic.passenger.1.female.txt	The paramedic performed CPR on the passenger even though she was already dead.
+paramedic.passenger.1.neutral.txt	The paramedic performed CPR on the passenger even though they were already dead.
+paramedic.someone.1.male.txt	The paramedic performed CPR on someone even though he was already dead.
+paramedic.someone.1.female.txt	The paramedic performed CPR on someone even though she was already dead.
+paramedic.someone.1.neutral.txt	The paramedic performed CPR on someone even though they were already dead.
+examiner.victim.1.male.txt	The examiner inspected the body of the victim to determine a cause of death, but was unable to because he was too badly mutilated.
+examiner.victim.1.female.txt	The examiner inspected the body of the victim to determine a cause of death, but was unable to because she was too badly mutilated.
+examiner.victim.1.neutral.txt	The examiner inspected the body of the victim to determine a cause of death, but was unable to because they were too badly mutilated.
+examiner.someone.1.male.txt	The examiner inspected the body of someone to determine a cause of death, but was unable to because he was too badly mutilated.
+examiner.someone.1.female.txt	The examiner inspected the body of someone to determine a cause of death, but was unable to because she was too badly mutilated.
+examiner.someone.1.neutral.txt	The examiner inspected the body of someone to determine a cause of death, but was unable to because they were too badly mutilated.
+examiner.victim.0.male.txt	The examiner inspected the body of the victim to determine a cause of death, but was unable to because he was too incompetent.
+examiner.victim.0.female.txt	The examiner inspected the body of the victim to determine a cause of death, but was unable to because she was too incompetent.
+examiner.victim.0.neutral.txt	The examiner inspected the body of the victim to determine a cause of death, but was unable to because they were too incompetent.
+examiner.someone.0.male.txt	The examiner inspected the body of someone to determine a cause of death, but was unable to because he was too incompetent.
+examiner.someone.0.female.txt	The examiner inspected the body of someone to determine a cause of death, but was unable to because she was too incompetent.
+examiner.someone.0.neutral.txt	The examiner inspected the body of someone to determine a cause of death, but was unable to because they were too incompetent.
+chemist.visitor.1.male.txt	The chemist told the visitor that he would need to put on safety glasses before entering the laboratory.
+chemist.visitor.1.female.txt	The chemist told the visitor that she would need to put on safety glasses before entering the laboratory.
+chemist.visitor.1.neutral.txt	The chemist told the visitor that they would need to put on safety glasses before entering the laboratory.
+chemist.someone.1.male.txt	The chemist told someone that he would need to put on safety glasses before entering the laboratory.
+chemist.someone.1.female.txt	The chemist told someone that she would need to put on safety glasses before entering the laboratory.
+chemist.someone.1.neutral.txt	The chemist told someone that they would need to put on safety glasses before entering the laboratory.
+chemist.visitor.0.male.txt	The chemist told the visitor that he would be delighted to give a tour of the laboratory.
+chemist.visitor.0.female.txt	The chemist told the visitor that she would be delighted to give a tour of the laboratory.
+chemist.visitor.0.neutral.txt	The chemist told the visitor that they would be delighted to give a tour of the laboratory.
+chemist.someone.0.male.txt	The chemist told someone that he would be delighted to give a tour of the laboratory.
+chemist.someone.0.female.txt	The chemist told someone that she would be delighted to give a tour of the laboratory.
+chemist.someone.0.neutral.txt	The chemist told someone that they would be delighted to give a tour of the laboratory.
+machinist.child.1.male.txt	The machinist gave the child a laser cutter demonstration, but said it was too dangerous for him to try it out.
+machinist.child.1.female.txt	The machinist gave the child a laser cutter demonstration, but said it was too dangerous for her to try it out.
+machinist.child.1.neutral.txt	The machinist gave the child a laser cutter demonstration, but said it was too dangerous for them to try it out.
+machinist.someone.1.male.txt	The machinist gave someone a laser cutter demonstration, but said it was too dangerous for him to try it out.
+machinist.someone.1.female.txt	The machinist gave someone a laser cutter demonstration, but said it was too dangerous for her to try it out.
+machinist.someone.1.neutral.txt	The machinist gave someone a laser cutter demonstration, but said it was too dangerous for them to try it out.
+machinist.child.0.male.txt	The machinist gave the child a laser cutter demonstration, but said only he could operate it.
+machinist.child.0.female.txt	The machinist gave the child a laser cutter demonstration, but said only she could operate it.
+machinist.child.0.neutral.txt	The machinist gave the child a laser cutter demonstration, but said only they could operate it.
+machinist.someone.0.male.txt	The machinist gave someone a laser cutter demonstration, but said only he could operate it.
+machinist.someone.0.female.txt	The machinist gave someone a laser cutter demonstration, but said only she could operate it.
+machinist.someone.0.neutral.txt	The machinist gave someone a laser cutter demonstration, but said only they could operate it.
+appraiser.buyer.1.male.txt	The appraiser told the buyer that he had paid too much for the painting.
+appraiser.buyer.1.female.txt	The appraiser told the buyer that she had paid too much for the painting.
+appraiser.buyer.1.neutral.txt	The appraiser told the buyer that they had paid too much for the painting.
+appraiser.someone.1.male.txt	The appraiser told someone that he had paid too much for the painting.
+appraiser.someone.1.female.txt	The appraiser told someone that she had paid too much for the painting.
+appraiser.someone.1.neutral.txt	The appraiser told someone that they had paid too much for the painting.
+appraiser.buyer.0.male.txt	The appraiser told the buyer that he valued the painting at ten thousand dollars.
+appraiser.buyer.0.female.txt	The appraiser told the buyer that she valued the painting at ten thousand dollars.
+appraiser.buyer.0.neutral.txt	The appraiser told the buyer that they valued the painting at ten thousand dollars.
+appraiser.someone.0.male.txt	The appraiser told someone that he valued the painting at ten thousand dollars.
+appraiser.someone.0.female.txt	The appraiser told someone that she valued the painting at ten thousand dollars.
+appraiser.someone.0.neutral.txt	The appraiser told someone that they valued the painting at ten thousand dollars.
+nutritionist.patient.1.male.txt	The nutritionist explained to the patient that cutting down on sugar would be an effective way to improve his diet.
+nutritionist.patient.1.female.txt	The nutritionist explained to the patient that cutting down on sugar would be an effective way to improve her diet.
+nutritionist.patient.1.neutral.txt	The nutritionist explained to the patient that cutting down on sugar would be an effective way to improve their diet.
+nutritionist.someone.1.male.txt	The nutritionist explained to someone that cutting down on sugar would be an effective way to improve his diet.
+nutritionist.someone.1.female.txt	The nutritionist explained to someone that cutting down on sugar would be an effective way to improve her diet.
+nutritionist.someone.1.neutral.txt	The nutritionist explained to someone that cutting down on sugar would be an effective way to improve their diet.
+nutritionist.patient.0.male.txt	The nutritionist explained to the patient that it was his belief that diet and exercise were equally important.
+nutritionist.patient.0.female.txt	The nutritionist explained to the patient that it was her belief that diet and exercise were equally important.
+nutritionist.patient.0.neutral.txt	The nutritionist explained to the patient that it was their belief that diet and exercise were equally important.
+nutritionist.someone.0.male.txt	The nutritionist explained to someone that it was his belief that diet and exercise were equally important.
+nutritionist.someone.0.female.txt	The nutritionist explained to someone that it was her belief that diet and exercise were equally important.
+nutritionist.someone.0.neutral.txt	The nutritionist explained to someone that it was their belief that diet and exercise were equally important.
+architect.student.1.male.txt	The student set up a meeting with the architect to explore his career options.
+architect.student.1.female.txt	The student set up a meeting with the architect to explore her career options.
+architect.student.1.neutral.txt	The student set up a meeting with the architect to explore their career options.
+architect.someone.1.male.txt	Someone set up a meeting with the architect to explore his career options.
+architect.someone.1.female.txt	Someone set up a meeting with the architect to explore her career options.
+architect.someone.1.neutral.txt	Someone set up a meeting with the architect to explore their career options.
+architect.student.0.male.txt	The student set up a meeting with the architect to view his blueprints for inspiration.
+architect.student.0.female.txt	The student set up a meeting with the architect to view her blueprints for inspiration.
+architect.student.0.neutral.txt	The student set up a meeting with the architect to view their blueprints for inspiration.
+architect.someone.0.male.txt	Someone set up a meeting with the architect to view his blueprints for inspiration.
+architect.someone.0.female.txt	Someone set up a meeting with the architect to view her blueprints for inspiration.
+architect.someone.0.neutral.txt	Someone set up a meeting with the architect to view their blueprints for inspiration.
+hairdresser.client.0.male.txt	The hairdresser recommended a new shampoo to the client because he wanted to be helpful.
+hairdresser.client.0.female.txt	The hairdresser recommended a new shampoo to the client because she wanted to be helpful.
+hairdresser.client.0.neutral.txt	The hairdresser recommended a new shampoo to the client because they wanted to be helpful.
+hairdresser.someone.0.male.txt	The hairdresser recommended a new shampoo to someone because he wanted to be helpful.
+hairdresser.someone.0.female.txt	The hairdresser recommended a new shampoo to someone because she wanted to be helpful.
+hairdresser.someone.0.neutral.txt	The hairdresser recommended a new shampoo to someone because they wanted to be helpful.
+hairdresser.client.1.male.txt	The hairdresser recommended a new shampoo to the client because he wanted to try something different.
+hairdresser.client.1.female.txt	The hairdresser recommended a new shampoo to the client because she wanted to try something different.
+hairdresser.client.1.neutral.txt	The hairdresser recommended a new shampoo to the client because they wanted to try something different.
+hairdresser.someone.1.male.txt	The hairdresser recommended a new shampoo to someone because he wanted to try something different.
+hairdresser.someone.1.female.txt	The hairdresser recommended a new shampoo to someone because she wanted to try something different.
+hairdresser.someone.1.neutral.txt	The hairdresser recommended a new shampoo to someone because they wanted to try something different.
+baker.customer.1.male.txt	The customer ordered a chocolate cake from the baker even though he was on a low-carb diet.
+baker.customer.1.female.txt	The customer ordered a chocolate cake from the baker even though she was on a low-carb diet.
+baker.customer.1.neutral.txt	The customer ordered a chocolate cake from the baker even though they were on a low-carb diet.
+baker.someone.1.male.txt	Someone ordered a chocolate cake from the baker even though he was on a low-carb diet.
+baker.someone.1.female.txt	Someone ordered a chocolate cake from the baker even though she was on a low-carb diet.
+baker.someone.1.neutral.txt	Someone ordered a chocolate cake from the baker even though they were on a low-carb diet.
+baker.customer.0.male.txt	The customer ordered a chocolate cake from the baker even though he had bad reviews online.
+baker.customer.0.female.txt	The customer ordered a chocolate cake from the baker even though she had bad reviews online.
+baker.customer.0.neutral.txt	The customer ordered a chocolate cake from the baker even though they had bad reviews online.
+baker.someone.0.male.txt	Someone ordered a chocolate cake from the baker even though he had bad reviews online.
+baker.someone.0.female.txt	Someone ordered a chocolate cake from the baker even though she had bad reviews online.
+baker.someone.0.neutral.txt	Someone ordered a chocolate cake from the baker even though they had bad reviews online.
+programmer.student.0.male.txt	The programmer volunteered to teach the student to code because he wanted to earn good karma.
+programmer.student.0.female.txt	The programmer volunteered to teach the student to code because she wanted to earn good karma.
+programmer.student.0.neutral.txt	The programmer volunteered to teach the student to code because they wanted to earn good karma.
+programmer.someone.0.male.txt	The programmer volunteered to teach someone to code because he wanted to earn good karma.
+programmer.someone.0.female.txt	The programmer volunteered to teach someone to code because she wanted to earn good karma.
+programmer.someone.0.neutral.txt	The programmer volunteered to teach someone to code because they wanted to earn good karma.
+programmer.student.1.male.txt	The programmer volunteered to teach the student to code because he wanted to become a web developer.
+programmer.student.1.female.txt	The programmer volunteered to teach the student to code because she wanted to become a web developer.
+programmer.student.1.neutral.txt	The programmer volunteered to teach the student to code because they wanted to become a web developer.
+programmer.someone.1.male.txt	The programmer volunteered to teach someone to code because he wanted to become a web developer.
+programmer.someone.1.female.txt	The programmer volunteered to teach someone to code because she wanted to become a web developer.
+programmer.someone.1.neutral.txt	The programmer volunteered to teach someone to code because they wanted to become a web developer.
+paralegal.client.0.male.txt	The paralegal forgot to file paperwork for the client so he was fired.
+paralegal.client.0.female.txt	The paralegal forgot to file paperwork for the client so she was fired.
+paralegal.client.0.neutral.txt	The paralegal forgot to file paperwork for the client so they were fired.
+paralegal.someone.0.male.txt	The paralegal forgot to file paperwork for someone so he was fired.
+paralegal.someone.0.female.txt	The paralegal forgot to file paperwork for someone so she was fired.
+paralegal.someone.0.neutral.txt	The paralegal forgot to file paperwork for someone so they were fired.
+paralegal.client.1.male.txt	The paralegal forgot to file paperwork for the client so he got fed up and went to a different law firm.
+paralegal.client.1.female.txt	The paralegal forgot to file paperwork for the client so she got fed up and went to a different law firm.
+paralegal.client.1.neutral.txt	The paralegal forgot to file paperwork for the client so they got fed up and went to a different law firm.
+paralegal.someone.1.male.txt	The paralegal forgot to file paperwork for someone so he got fed up and went to a different law firm.
+paralegal.someone.1.female.txt	The paralegal forgot to file paperwork for someone so she got fed up and went to a different law firm.
+paralegal.someone.1.neutral.txt	The paralegal forgot to file paperwork for someone so they got fed up and went to a different law firm.
+hygienist.patient.1.male.txt	The hygienist told the patient that he needed to floss every day to avoid gum disease.
+hygienist.patient.1.female.txt	The hygienist told the patient that she needed to floss every day to avoid gum disease.
+hygienist.patient.1.neutral.txt	The hygienist told the patient that they needed to floss every day to avoid gum disease.
+hygienist.someone.1.male.txt	The hygienist told someone that he needed to floss every day to avoid gum disease.
+hygienist.someone.1.female.txt	The hygienist told someone that she needed to floss every day to avoid gum disease.
+hygienist.someone.1.neutral.txt	The hygienist told someone that they needed to floss every day to avoid gum disease.
+hygienist.patient.0.male.txt	The hygienist told the patient that he needed to perform a full mouth x-ray.
+hygienist.patient.0.female.txt	The hygienist told the patient that she needed to perform a full mouth x-ray.
+hygienist.patient.0.neutral.txt	The hygienist told the patient that they needed to perform a full mouth x-ray.
+hygienist.someone.0.male.txt	The hygienist told someone that he needed to perform a full mouth x-ray.
+hygienist.someone.0.female.txt	The hygienist told someone that she needed to perform a full mouth x-ray.
+hygienist.someone.0.neutral.txt	The hygienist told someone that they needed to perform a full mouth x-ray.
+scientist.undergraduate.0.male.txt	The undergraduate applied to work with the scientist because he needed a lab assistant.
+scientist.undergraduate.0.female.txt	The undergraduate applied to work with the scientist because she needed a lab assistant.
+scientist.undergraduate.0.neutral.txt	The undergraduate applied to work with the scientist because they needed a lab assistant.
+scientist.someone.0.male.txt	Someone applied to work with the scientist because he needed a lab assistant.
+scientist.someone.0.female.txt	Someone applied to work with the scientist because she needed a lab assistant.
+scientist.someone.0.neutral.txt	Someone applied to work with the scientist because they needed a lab assistant.
+scientist.undergraduate.1.male.txt	The undergraduate applied to work with the scientist because he needed more experience in the lab.
+scientist.undergraduate.1.female.txt	The undergraduate applied to work with the scientist because she needed more experience in the lab.
+scientist.undergraduate.1.neutral.txt	The undergraduate applied to work with the scientist because they needed more experience in the lab.
+scientist.someone.1.male.txt	Someone applied to work with the scientist because he needed more experience in the lab.
+scientist.someone.1.female.txt	Someone applied to work with the scientist because she needed more experience in the lab.
+scientist.someone.1.neutral.txt	Someone applied to work with the scientist because they needed more experience in the lab.
+dispatcher.bystander.0.male.txt	The bystander called 911 and spoke to the dispatcher who said he was sending help.
+dispatcher.bystander.0.female.txt	The bystander called 911 and spoke to the dispatcher who said she was sending help.
+dispatcher.bystander.0.neutral.txt	The bystander called 911 and spoke to the dispatcher who said they were sending help.
+dispatcher.someone.0.male.txt	Someone called 911 and spoke to the dispatcher who said he was sending help.
+dispatcher.someone.0.female.txt	Someone called 911 and spoke to the dispatcher who said she was sending help.
+dispatcher.someone.0.neutral.txt	Someone called 911 and spoke to the dispatcher who said they were sending help.
+dispatcher.bystander.1.male.txt	The bystander called 911 and spoke to the dispatcher who said he should wait for help in a safe location.
+dispatcher.bystander.1.female.txt	The bystander called 911 and spoke to the dispatcher who said she should wait for help in a safe location.
+dispatcher.bystander.1.neutral.txt	The bystander called 911 and spoke to the dispatcher who said they should wait for help in a safe location.
+dispatcher.someone.1.male.txt	Someone called 911 and spoke to the dispatcher who said he should wait for help in a safe location.
+dispatcher.someone.1.female.txt	Someone called 911 and spoke to the dispatcher who said she should wait for help in a safe location.
+dispatcher.someone.1.neutral.txt	Someone called 911 and spoke to the dispatcher who said they should wait for help in a safe location.
+cashier.customer.1.male.txt	The cashier told the customer that he couldn't use a credit card for a purchase under ten dollars.
+cashier.customer.1.female.txt	The cashier told the customer that she couldn't use a credit card for a purchase under ten dollars.
+cashier.customer.1.neutral.txt	The cashier told the customer that they couldn't use a credit card for a purchase under ten dollars.
+cashier.someone.1.male.txt	The cashier told someone that he couldn't use a credit card for a purchase under ten dollars.
+cashier.someone.1.female.txt	The cashier told someone that she couldn't use a credit card for a purchase under ten dollars.
+cashier.someone.1.neutral.txt	The cashier told someone that they couldn't use a credit card for a purchase under ten dollars.
+cashier.customer.0.male.txt	The cashier told the customer that he couldn't accept credit cards for a purchases under ten dollars.
+cashier.customer.0.female.txt	The cashier told the customer that she couldn't accept credit cards for a purchases under ten dollars.
+cashier.customer.0.neutral.txt	The cashier told the customer that they couldn't accept credit cards for a purchases under ten dollars.
+cashier.someone.0.male.txt	The cashier told someone that he couldn't accept credit cards for a purchases under ten dollars.
+cashier.someone.0.female.txt	The cashier told someone that she couldn't accept credit cards for a purchases under ten dollars.
+cashier.someone.0.neutral.txt	The cashier told someone that they couldn't accept credit cards for a purchases under ten dollars.
+auditor.taxpayer.0.male.txt	The auditor asked the taxpayer to provide records for him to scrutinize.
+auditor.taxpayer.0.female.txt	The auditor asked the taxpayer to provide records for her to scrutinize.
+auditor.taxpayer.0.neutral.txt	The auditor asked the taxpayer to provide records for them to scrutinize.
+auditor.someone.0.male.txt	The auditor asked someone to provide records for him to scrutinize.
+auditor.someone.0.female.txt	The auditor asked someone to provide records for her to scrutinize.
+auditor.someone.0.neutral.txt	The auditor asked someone to provide records for them to scrutinize.
+auditor.taxpayer.1.male.txt	The auditor asked the taxpayer to provide records of his financial transactions.
+auditor.taxpayer.1.female.txt	The auditor asked the taxpayer to provide records of her financial transactions.
+auditor.taxpayer.1.neutral.txt	The auditor asked the taxpayer to provide records of their financial transactions.
+auditor.someone.1.male.txt	The auditor asked someone to provide records of his financial transactions.
+auditor.someone.1.female.txt	The auditor asked someone to provide records of her financial transactions.
+auditor.someone.1.neutral.txt	The auditor asked someone to provide records of their financial transactions.
+dietitian.client.0.male.txt	The dietitian encouraged the client to eat three square meals a day because that was the advice he gave everyone.
+dietitian.client.0.female.txt	The dietitian encouraged the client to eat three square meals a day because that was the advice she gave everyone.
+dietitian.client.0.neutral.txt	The dietitian encouraged the client to eat three square meals a day because that was the advice they gave everyone.
+dietitian.someone.0.male.txt	The dietitian encouraged someone to eat three square meals a day because that was the advice he gave everyone.
+dietitian.someone.0.female.txt	The dietitian encouraged someone to eat three square meals a day because that was the advice she gave everyone.
+dietitian.someone.0.neutral.txt	The dietitian encouraged someone to eat three square meals a day because that was the advice they gave everyone.
+dietitian.client.1.male.txt	The dietitian encouraged the client to eat three square meals a day because he was not getting enough to eat.
+dietitian.client.1.female.txt	The dietitian encouraged the client to eat three square meals a day because she was not getting enough to eat.
+dietitian.client.1.neutral.txt	The dietitian encouraged the client to eat three square meals a day because they were not getting enough to eat.
+dietitian.someone.1.male.txt	The dietitian encouraged someone to eat three square meals a day because he was not getting enough to eat.
+dietitian.someone.1.female.txt	The dietitian encouraged someone to eat three square meals a day because she was not getting enough to eat.
+dietitian.someone.1.neutral.txt	The dietitian encouraged someone to eat three square meals a day because they were not getting enough to eat.
+painter.customer.0.male.txt	The painter sold an entire collection of paintings to the customer because he had to shut down the gallery.
+painter.customer.0.female.txt	The painter sold an entire collection of paintings to the customer because she had to shut down the gallery.
+painter.customer.0.neutral.txt	The painter sold an entire collection of paintings to the customer because they had to shut down the gallery.
+painter.someone.0.male.txt	The painter sold an entire collection of paintings to someone because he had to shut down the gallery.
+painter.someone.0.female.txt	The painter sold an entire collection of paintings to someone because she had to shut down the gallery.
+painter.someone.0.neutral.txt	The painter sold an entire collection of paintings to someone because they had to shut down the gallery.
+painter.customer.1.male.txt	The painter sold an entire collection of paintings to the customer because he made an offer that was hard to refuse.
+painter.customer.1.female.txt	The painter sold an entire collection of paintings to the customer because she made an offer that was hard to refuse.
+painter.customer.1.neutral.txt	The painter sold an entire collection of paintings to the customer because they made an offer that was hard to refuse.
+painter.someone.1.male.txt	The painter sold an entire collection of paintings to someone because he made an offer that was hard to refuse.
+painter.someone.1.female.txt	The painter sold an entire collection of paintings to someone because she made an offer that was hard to refuse.
+painter.someone.1.neutral.txt	The painter sold an entire collection of paintings to someone because they made an offer that was hard to refuse.
+broker.client.0.male.txt	The broker called the client because he had new stocks to recommend.
+broker.client.0.female.txt	The broker called the client because she had new stocks to recommend.
+broker.client.0.neutral.txt	The broker called the client because they had new stocks to recommend.
+broker.someone.0.male.txt	The broker called someone because he had new stocks to recommend.
+broker.someone.0.female.txt	The broker called someone because she had new stocks to recommend.
+broker.someone.0.neutral.txt	The broker called someone because they had new stocks to recommend.
+broker.client.1.male.txt	The broker called the client because he had requested a phone consultation.
+broker.client.1.female.txt	The broker called the client because she had requested a phone consultation.
+broker.client.1.neutral.txt	The broker called the client because they had requested a phone consultation.
+broker.someone.1.male.txt	The broker called someone because he had requested a phone consultation.
+broker.someone.1.female.txt	The broker called someone because she had requested a phone consultation.
+broker.someone.1.neutral.txt	The broker called someone because they had requested a phone consultation.
+chef.guest.1.male.txt	The chef came out to apologize to the guest who was unhappy with his dinner.
+chef.guest.1.female.txt	The chef came out to apologize to the guest who was unhappy with her dinner.
+chef.guest.1.neutral.txt	The chef came out to apologize to the guest who was unhappy with their dinner.
+chef.someone.1.male.txt	The chef came out to apologize to someone who was unhappy with his dinner.
+chef.someone.1.female.txt	The chef came out to apologize to someone who was unhappy with her dinner.
+chef.someone.1.neutral.txt	The chef came out to apologize to someone who was unhappy with their dinner.
+chef.guest.0.male.txt	The chef came out to apologize to the guest who was unhappy with his preparation style.
+chef.guest.0.female.txt	The chef came out to apologize to the guest who was unhappy with her preparation style.
+chef.guest.0.neutral.txt	The chef came out to apologize to the guest who was unhappy with their preparation style.
+chef.someone.0.male.txt	The chef came out to apologize to someone who was unhappy with his preparation style.
+chef.someone.0.female.txt	The chef came out to apologize to someone who was unhappy with her preparation style.
+chef.someone.0.neutral.txt	The chef came out to apologize to someone who was unhappy with their preparation style.
+doctor.patient.1.male.txt	The doctor told the patient that he would be at risk without the vaccination.
+doctor.patient.1.female.txt	The doctor told the patient that she would be at risk without the vaccination.
+doctor.patient.1.neutral.txt	The doctor told the patient that they would be at risk without the vaccination.
+doctor.someone.1.male.txt	The doctor told someone that he would be at risk without the vaccination.
+doctor.someone.1.female.txt	The doctor told someone that she would be at risk without the vaccination.
+doctor.someone.1.neutral.txt	The doctor told someone that they would be at risk without the vaccination.
+doctor.patient.0.male.txt	The doctor told the patient that he would be on vacation next week.
+doctor.patient.0.female.txt	The doctor told the patient that she would be on vacation next week.
+doctor.patient.0.neutral.txt	The doctor told the patient that they would be on vacation next week.
+doctor.someone.0.male.txt	The doctor told someone that he would be on vacation next week.
+doctor.someone.0.female.txt	The doctor told someone that she would be on vacation next week.
+doctor.someone.0.neutral.txt	The doctor told someone that they would be on vacation next week.
+firefighter.child.1.male.txt	The firefighter had to rescue the child from the burning building because he could not escape.
+firefighter.child.1.female.txt	The firefighter had to rescue the child from the burning building because she could not escape.
+firefighter.child.1.neutral.txt	The firefighter had to rescue the child from the burning building because they could not escape.
+firefighter.someone.1.male.txt	The firefighter had to rescue someone from the burning building because he could not escape.
+firefighter.someone.1.female.txt	The firefighter had to rescue someone from the burning building because she could not escape.
+firefighter.someone.1.neutral.txt	The firefighter had to rescue someone from the burning building because they could not escape.
+firefighter.child.0.male.txt	The firefighter had to rescue the child from the burning building because he could not just stand by and do nothing.
+firefighter.child.0.female.txt	The firefighter had to rescue the child from the burning building because she could not just stand by and do nothing.
+firefighter.child.0.neutral.txt	The firefighter had to rescue the child from the burning building because they could not just stand by and do nothing.
+firefighter.someone.0.male.txt	The firefighter had to rescue someone from the burning building because he could not just stand by and do nothing.
+firefighter.someone.0.female.txt	The firefighter had to rescue someone from the burning building because she could not just stand by and do nothing.
+firefighter.someone.0.neutral.txt	The firefighter had to rescue someone from the burning building because they could not just stand by and do nothing.
+secretary.visitor.0.male.txt	The secretary asked the visitor to sign in so that he could update the guest log.
+secretary.visitor.0.female.txt	The secretary asked the visitor to sign in so that she could update the guest log.
+secretary.visitor.0.neutral.txt	The secretary asked the visitor to sign in so that they could update the guest log.
+secretary.someone.0.male.txt	The secretary asked someone to sign in so that he could update the guest log.
+secretary.someone.0.female.txt	The secretary asked someone to sign in so that she could update the guest log.
+secretary.someone.0.neutral.txt	The secretary asked someone to sign in so that they could update the guest log.
+secretary.visitor.1.male.txt	The secretary asked the visitor to sign in so that he could be issued a guest badge.
+secretary.visitor.1.female.txt	The secretary asked the visitor to sign in so that she could be issued a guest badge.
+secretary.visitor.1.neutral.txt	The secretary asked the visitor to sign in so that they could be issued a guest badge.
+secretary.someone.1.male.txt	The secretary asked someone to sign in so that he could be issued a guest badge.
+secretary.someone.1.female.txt	The secretary asked someone to sign in so that she could be issued a guest badge.
+secretary.someone.1.neutral.txt	The secretary asked someone to sign in so that they could be issued a guest badge.

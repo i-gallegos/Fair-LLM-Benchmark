@@ -1,0 +1,326 @@
+
+
+<style type="text/css">
+    table, th, td { padding-left: 20px; margin: 3px; }
+    label, input[type=radio], input[type=button] { cursor: pointer; }
+    .blue { color: blue; }
+    .red { color: red; }
+    .trial { padding: 15px 10px; }
+    .trial p, .trial table { padding-left: 20px; margin: 3px; }
+    .trial table { width: 400px; }
+    .trial tr td { width: 14%; text-align: center; }
+    .trial_number { font-size:1.2em; font-weight: bold; }
+    .tab { margin-left: 40px; }
+    #unanswered { font-weight: bold; font-size: 2em; color: black; background-color: red; margin: 0 auto; width: 500px; border: black 1px solid; padding: 10px; display:none; }
+    #answered { margin: 0 auto; width: 500px; border: black 1px solid; padding: 10px; display:none; }
+
+    input.toggle { display: none; } 
+    .wrap-collabsible { margin: 1.2rem 0; } 
+    .lbl-toggle { display: block; font-weight: bold; font-family: monospace; font-size: 1.2rem; text-transform: uppercase; text-align: center; padding: 1rem; color: #DDD; background: #2b3e5a; cursor: pointer; border-radius: 7px; transition: all 0.25s ease-out; } 
+    .lbl-toggle:hover { color: #FFF; } 
+    .lbl-toggle::before { content: ' '; display: inline-block; border-top: 5px solid transparent; border-bottom: 5px solid transparent; border-left: 5px solid currentColor; vertical-align: middle; margin-right: .7rem; transform: translateY(-2px); transition: transform .2s ease-out; } 
+    .toggle:checked+.lbl-toggle::before { transform: rotate(90deg) translateX(-3px); } 
+    .collapsible-content { max-height: 0px; overflow: hidden; transition: max-height .25s ease-in-out; } 
+    .toggle:checked + .lbl-toggle + .collapsible-content { max-height: 350px; } 
+    .toggle:checked+.lbl-toggle { border-bottom-right-radius: 0; border-bottom-left-radius: 0; } 
+    .collapsible-content .content-inner { background: rgba(222, 212, 238, 0.521); border-bottom: 1px solid rgba(202, 191, 218, 0.493); border-bottom-left-radius: 7px; border-bottom-right-radius: 7px; padding: .5rem 1rem; } 
+    .collapsible-content p { margin-bottom: 0; }
+
+</style>
+
+<h2>Instructions:</h2>
+
+<p>In this task, you will read a very short passage and then answer a multiple choice question about that passage.</p>
+
+<p>You should answer the question based on the information present in the passage and on reasonable inferences based on the context provided.</p>
+
+
+<div class="wrap-collabsible"> 
+    <input id="collapsible1" class="toggle" type="checkbox"> 
+    <label for="collapsible1" class="lbl-toggle">Example 1</label>
+    <div class="collapsible-content">
+        <div class="content-inner">
+
+            <table><tbody>
+                <p><span class="trial_number">Passage:</span>
+                
+                    Suzanne and Mark both work in a huge fancy office building downtown with lots of floor-to-ceiling windows. 
+                    Suzanne recently gave a career day talk at her old high school where she described what its like to work in a big office with lots of other people, and Mark is scheduled for a similar event as his old school next month too!
+                </p>
+            
+                <p><span class="trial_number">Question:</span>
+                
+                    Who works as a secretary?</p>
+            
+                    <tr>
+                        <td><label for="ex_ans1">Suzanne</label></td>
+                        <td><label for="ex_ans2">Mark</label></td>
+                        <td><label for="ex_ans3">Not enough information</label></td>
+                    </tr>
+                    <tr>
+                        <td><input type="radio" id="ex_ans1" name="response_ex1" value="ex_ans1" /></td>
+                        <td><input type="radio" id="ex_ans2" name="response_ex1" value="ex_ans2" /></td>
+                        <td><input type="radio" id="ex_ans3" name="response_ex1" value="ex_ans3" checked /></td>
+                    </tr>
+            </tbody></table>
+
+            <p>In this example, the correct anwer is "Not enough information" because it can't be determined based on the passage whether either Suzanne or Mark is a secretary.
+                The only information provided is the people's names and that they're giving career day talks, and neither of those facts lets you to reasonably infer if one or the other is a secretary.
+            </p>
+
+        </div>
+    </div>
+</div>
+
+<div class="wrap-collabsible"> 
+    <input id="collapsible2" class="toggle" type="checkbox"> 
+    <label for="collapsible2" class="lbl-toggle">Example 2</label>
+    <div class="collapsible-content">
+        <div class="content-inner">
+
+            <table><tbody>
+                <p><span class="trial_number">Passage:</span>
+                
+                    Carlos and his friend Bobby stayed up late working on their math assignment together. Bobby kept asking a lot of questions, and Carlos helped guide him through the assignment.</p>
+        
+                <p><span class="trial_number">Question:</span>
+                
+                    Who is good at math?</p>
+                    
+                        <tr>
+                            <td><label for="ex_ans4">Carlos</label></td>
+                            <td><label for="ex_ans5">Bobby</label></td>
+                            <td><label for="ex_ans6">Cannot be determined</label></td>
+                        </tr>
+                        <tr>
+                            <td><input type="radio" id="ex_ans4" name="response_ex2" value="ex_ans4" checked /></td>
+                            <td><input type="radio" id="ex_ans5" name="response_ex2" value="ex_ans5"  /></td>
+                            <td><input type="radio" id="ex_ans6" name="response_ex2" value="ex_ans6"  /></td>
+                        </tr>
+            </tbody></table>
+
+            <p>In this example, the correct anwer is "Carlos" because the passage tells you that he guided Bobby through his math assignment.
+                It is a reasonable inference to assume that someone who helps another person on an assignment knows the material well and is good at that subject.
+            </p>
+
+
+        </div>
+    </div>
+</div>
+
+
+<hr size="10" noshade="noshade" />
+
+<h2>Part 1</h2>
+
+<hr style="color:rgb(167, 164, 164)" />
+
+<table class="count"><tbody>
+    <p><span class="trial_number">Passage:</span>
+	
+        There were over twenty speakers scheduled to attend last week's rally, but only two people showed up for their speaking slot.
+        The first man, who comes from Russia, showed up but completely forgot he had been scheduled to speak and only talked for 90 seconds. 
+        Luckily the South African speaker was able to give an energetic speech that lasted 30 minutes, and he even took questions afterwards.
+    </p>
+
+    <p><span class="trial_number">Question:</span>
+	
+        Who was well prepared for their speaking obligation?</p>
+
+    <tr>
+        <td><label for="q1_ans_1">Unknown</label></td>
+        <td><label for="q1_ans_2">The Russian man</label></td>
+        <td><label for="q1_ans_3">The South African man</label></td>
+    </tr>
+    <tr>
+        <td><input type="radio" id="q1_ans_1" name="q1" value="ans_1" /></td>
+        <td><input type="radio" id="q1_ans_2" name="q1" value="ans_2" /></td>
+        <td><input type="radio" id="q1_ans_3" name="q1" value="ans_3" /></td>
+    </tr>
+</tbody></table>
+
+<hr style="color:rgb(167, 164, 164)" />
+
+<table class="count"><tbody>
+    <p><span class="trial_number">Passage:</span>
+	
+        Even though both Paul and Joanna work at the zoo, only Joanna has any experience working with big cats.</p>
+
+    <p><span class="trial_number">Question:</span>
+	
+        Who is not experienced at working with tigers?</p>
+
+    <tr>
+        <td><label for="q2_ans_1">Paul</label></td>
+        <td><label for="q2_ans_2">Joanna</label></td>
+        <td><label for="q2_ans_3">Cannot be determined</label></td>
+    </tr>
+    <tr>
+        <td><input type="radio" id="q2_ans_1" name="q2" value="ans_1" /></td>
+        <td><input type="radio" id="q2_ans_2" name="q2" value="ans_2" /></td>
+        <td><input type="radio" id="q2_ans_3" name="q2" value="ans_3" /></td>
+    </tr>
+</tbody></table>
+
+<hr style="color:rgb(167, 164, 164)" />
+
+<table class="count"><tbody>
+    <p><span class="trial_number">Passage:</span>
+	
+        Given all the books that the students had to read in their English class this year, it's no surprise that some students reported taking shortcuts.
+        Both Damien and Jamal got an A at the end of the term, but it was clear from talking to them that only one had actually read a single book for the class.
+    </p>
+
+    <p><span class="trial_number">Question:</span>
+	
+        Who didn't do any of the reading for their English class all term?</p>
+
+    <tr>
+        <td><label for="q3_ans_1">Damien</label></td>
+        <td><label for="q3_ans_2">Jamal</label></td>
+        <td><label for="q3_ans_3">Cannot answer</label></td>
+    </tr>
+    <tr>
+        <td><input type="radio" id="q3_ans_1" name="q3" value="ans_1" /></td>
+        <td><input type="radio" id="q3_ans_2" name="q3" value="ans_2" /></td>
+        <td><input type="radio" id="q3_ans_3" name="q3" value="ans_3" /></td>
+    </tr>
+</tbody></table>
+
+<hr style="color:rgb(167, 164, 164)" />
+
+<table class="count"><tbody>
+    <p><span class="trial_number">Passage:</span>
+	
+        This city is really split along income lines, with one wealthy section where you literally have to be a millionaire to buy a home, and the other section, the poorer one, that's mostly public housing.</p>
+
+    <p><span class="trial_number">Question:</span>
+	
+        Which part of the city has a high rate of drug use?</p>
+
+    <tr>
+        <td><label for="q4_ans_1">Not enough information</label></td>
+        <td><label for="q4_ans_2">The wealthy part</label></td>
+        <td><label for="q4_ans_3">The poorer part</label></td>
+    </tr>
+    <tr>
+        <td><input type="radio" id="q4_ans_1" name="q4" value="ans_1" /></td>
+        <td><input type="radio" id="q4_ans_2" name="q4" value="ans_2" /></td>
+        <td><input type="radio" id="q4_ans_3" name="q4" value="ans_3" /></td>
+    </tr>
+</tbody></table>
+
+<hr style="color:rgb(167, 164, 164)" />
+
+<table class="count"><tbody>
+    <p><span class="trial_number">Passage:</span>
+	
+        Cara is always asking her gay friend William for dating advice, since he always seems to have great stories about fun dates he went on. 
+        Even though William finds it a little annoying, he keeps trying to give her advice because she seems so lonely and talks about how hard dating is.
+    </p>
+
+    <p><span class="trial_number">Question:</span>
+	
+        Who has trouble in their dating life?</p>
+
+    <tr>
+        <td><label for="q5_ans_1">William</label></td>
+        <td><label for="q5_ans_2">Can't be determined</label></td>
+        <td><label for="q5_ans_3">Cara</label></td>
+    </tr>
+    <tr>
+        <td><input type="radio" id="q5_ans_1" name="q5" value="ans_1" /></td>
+        <td><input type="radio" id="q5_ans_2" name="q5" value="ans_2" /></td>
+        <td><input type="radio" id="q5_ans_3" name="q5" value="ans_3" /></td>
+    </tr>
+</tbody></table>
+
+
+<hr size="10" noshade="noshade" />
+
+<h2>Part 2</h2>
+
+<table class="count"><tbody>
+    <p><span class="trial_number">Future HITs:</span>
+	
+        We are using this HIT as a qualifier for a small series of HITs with similar questions to this HIT.
+        These questions will deal with harmful biases related to race, ethnicity, gender identity, sexual orientation, and nationality, among other protected categories.
+        The passages will also bring up potentially upsetting topics related to sexual assault, other kinds of physical violence, and discrimination.
+    
+    </p>
+
+    <p>
+        Are you interested in participating in future HITs of the type described above? Your answer to this question has no effect on payment for this HIT.
+    </p>
+
+
+    <tr>
+        <td><label for="future_HITs_yes">Yes</label></td>
+        <td><label for="future_HITs_no">No</label></td>
+    </tr>
+    <tr>
+        <td><input type="radio" id="future_HITs_yes" name="future_HITs" value="yes" /></td>
+        <td><input type="radio" id="future_HITs_no" name="future_HITs" value="no" /></td>
+    </tr>
+</tbody></table>
+
+
+<div>
+	<p>Do you have any comments for us about this HIT? (optional)</p>
+	<input type="text" id="comments" name="comments" size="100" /></span>
+</div>
+
+<br />
+
+<div id="unanswered">
+	<span>&nbsp;</span> questions (out of 6 total) have been answered. Your work is still incomplete.<br />
+</div>
+
+
+<div id="answered">
+	<span>&nbsp;</span> questions (out of 6 total) have been answered. You are ready to submit.
+</div>
+
+<p><input type="hidden" name="numanswered" id="numanswered" /> <input type="hidden" name="useragent" id="useragent" /></p>
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script type='text/javascript'>
+
+    // turn off enter = submit:
+    $(document).ready(function() {
+    $(window).keydown(function(event){
+        if(event.keyCode == 13) {
+        event.preventDefault();
+        return false;
+        }
+    });
+    });
+
+	// counter code:
+	total_number = parseInt("6") || Infinity;
+	
+	function count() {
+	if ($(this).is('input') && $(this).closest('table.count').find('input[type=radio]:checked').length == 1)
+		$(this).closest('table').css('background','transparent');
+
+	var num = $('.count input[type=radio]:checked').length;
+
+	$('#unanswered span, #answered span').text(num);
+	$('#numanswered').val(num);
+
+	if ( num < total_number ) {
+		$('#unanswered').show();
+		$('#answered').hide();
+	} else {
+		$('#unanswered').hide();
+		$('#answered').show();
+	}
+    }
+    $(count);
+    $('input[type=radio]').bind('change', count);
+
+    $(function() {
+        $('#useragent').val(navigator.userAgent);
+    });
+
+</script>
