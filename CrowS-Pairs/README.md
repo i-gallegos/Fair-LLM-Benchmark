@@ -1,6 +1,6 @@
 # CrowS-Pairs
 
-From "": https://www.aclweb.org/anthology/2020.emnlp-main.154/
+From "CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models": https://www.aclweb.org/anthology/2020.emnlp-main.154/
 
 Original dataset: https://github.com/nyu-mll/crows-pairs/
 
