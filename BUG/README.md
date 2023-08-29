@@ -1,8 +1,26 @@
 #  BUG
 
-From "A Large-Scale Gender Bias Dataset for Coreference Resolution and Machine Translation": https://aclanthology.org/2021.findings-emnlp.211
+Source: [A Large-Scale Gender Bias Dataset for Coreference Resolution and Machine Translation](https://aclanthology.org/2021.findings-emnlp.211)
+>Shahar Levy, Koren Lazar, and Gabriel Stanovsky
 
-Original dataset: https://github.com/SLAB-NLP/BUG
+Source dataset and documentation: https://github.com/SLAB-NLP/BUG
+
+```
+@inproceedings{levy-etal-2021-collecting-large,
+    title = "Collecting a Large-Scale Gender Bias Dataset for Coreference Resolution and Machine Translation",
+    author = "Levy, Shahar  and
+      Lazar, Koren  and
+      Stanovsky, Gabriel",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2021",
+    month = nov,
+    year = "2021",
+    address = "Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.findings-emnlp.211",
+    doi = "10.18653/v1/2021.findings-emnlp.211",
+    pages = "2470--2480"
+}
+```
 
 ## About
 

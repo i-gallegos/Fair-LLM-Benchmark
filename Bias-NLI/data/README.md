@@ -1,4 +1,4 @@
-Instruction
+# Usage
 ```
 usage: generate_templates.py [-h] [--noun] [--adj] --p PREMISE_TYPE --h HYP_TYPE --output OUT_FILE
 

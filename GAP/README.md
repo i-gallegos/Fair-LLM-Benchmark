@@ -1,4 +1,4 @@
-# GAP Coreference Dataset
+# GAP
 
 [Mind the GAP: A Balanced Corpus of Gendered Ambiguous Pronouns](https://aclanthology.org/Q18-1042/)
 >Kellie Webster, Marta Recasens, Vera Axelrod, and Jason Baldridge

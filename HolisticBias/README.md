@@ -1,4 +1,5 @@
 # HolisticBias
+
 [“I’m sorry to hear that”: Finding New Biases in Language Models with a Holistic Descriptor Dataset](https://aclanthology.org/2022.emnlp-main.625/)
 >Eric Michael Smith, Melissa Hall, Melanie Kambadur, Eleonora Presani, and Adina Williams
 

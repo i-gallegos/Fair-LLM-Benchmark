@@ -1,4 +1,4 @@
-# Equity-Evaluation-Corpus
+# Equity Evaluation Corpus
 
 [Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems](https://aclanthology.org/S18-2005/)
 >Svetlana Kiritchenko and Saif M. Mohammad

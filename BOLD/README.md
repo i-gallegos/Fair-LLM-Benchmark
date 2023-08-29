@@ -1,9 +1,34 @@
 # BOLD
 
-From "BOLD: Dataset and Metrics for Measuring Biases in Open-Ended Language Generation": https://doi.org/10.1145/3442188.3445924
+Source: [BOLD: Dataset and Metrics for Measuring Biases in Open-Ended Language Generation](https://doi.org/10.1145/3442188.3445924)
+>Jwala Dhamala, Tony Sun, Varun Kumar, Satyapriya Krishna, Yada Pruksachatkun, Kai-Wei Chang, and Rahul Gupta
 
-Original dataset: https://github.com/amazon-science/bold
+Source dataset and documentation: https://github.com/amazon-science/bold
 
+```
+@inproceedings{bold_2021,
+title = {BOLD: Dataset and Metrics for Measuring Biases in Open-Ended Language Generation},
+author = {Dhamala, Jwala and 
+Sun, Tony and 
+Kumar, Varun and 
+Krishna, Satyapriya and 
+Pruksachatkun, Yada and 
+Chang, Kai-Wei and 
+Gupta, Rahul},
+year = {2021},
+isbn = {9781450383097},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3442188.3445924},
+doi = {10.1145/3442188.3445924},
+booktitle = {Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency},
+pages = {862–872},
+numpages = {11},
+keywords = {natural language generation, Fairness},
+location = {Virtual Event, Canada},
+series = {FAccT '21}
+}
+```
 
 ## About
 

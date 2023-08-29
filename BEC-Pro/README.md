@@ -1,8 +1,26 @@
-# Bec-Pro
+# BEC-Pro
 
-From "Unmasking Contextual Stereotypes: Measuring and Mitigating BERT’s Gender Bias": https://aclanthology.org/2020.gebnlp-1.1
+Source: [Unmasking Contextual Stereotypes: Measuring and Mitigating BERT’s Gender Bias](https://aclanthology.org/2020.gebnlp-1.1)
+> arion Bartl, Malvina Nissim, and Albert Gatt
 
-Original dataset: https://github.com/marionbartl/gender-bias-BERT
+Source dataset and documentation: https://github.com/marionbartl/gender-bias-BERT
+
+```
+@inproceedings{bartl-etal-2020-unmasking,
+    title = "Unmasking Contextual Stereotypes: Measuring and Mitigating {BERT}{'}s Gender Bias",
+    author = "Bartl, Marion  and
+      Nissim, Malvina  and
+      Gatt, Albert",
+    booktitle = "Proceedings of the Second Workshop on Gender Bias in Natural Language Processing",
+    month = dec,
+    year = "2020",
+    address = "Barcelona, Spain (Online)",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2020.gebnlp-1.1",
+    pages = "1--16"
+}
+
+```
 
 ## About
 

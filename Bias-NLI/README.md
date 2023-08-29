@@ -1,8 +1,24 @@
-# Bias-NLI
+# Bias NLI
 
-From "On Measuring and Mitigating Biased Inferences of Word Embeddings": https://ojs.aaai.org/index.php/AAAI/article/view/6267/6123 
+[On Measuring and Mitigating Biased Inferences of Word Embeddings](https://ojs.aaai.org/index.php/AAAI/article/view/6267/6123) 
+>Sunipa Dev, Tao Li, Jeff Phillips, and Vivek Srikumar
 
-Original dataset: https://github.com/sunipa/On-Measuring-and-Mitigating-Biased-Inferences-of-Word-Embeddings
+Source dataset and documentation: https://github.com/sunipa/On-Measuring-and-Mitigating-Biased-Inferences-of-Word-Embeddings
+
+```
+@inproceedings{dev2020measuring,
+  title={On measuring and mitigating biased inferences of word embeddings},
+  author={Dev, Sunipa and 
+    Li, Tao and 
+    Phillips, Jeff M and 
+    Srikumar, Vivek},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={34},
+  number={05},
+  pages={7659--7666},
+  year={2020}
+}
+```
 
 ## About
 
