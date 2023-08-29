@@ -8,8 +8,8 @@
 
 import argparse
 
-from holistic_bias.src.sentences import HolisticBiasSentenceGenerator
-from holistic_bias.src.util import DEFAULT_DATASET_VERSION
+from src.sentences import HolisticBiasSentenceGenerator
+from src.util import DEFAULT_DATASET_VERSION
 
 
 if __name__ == "__main__":

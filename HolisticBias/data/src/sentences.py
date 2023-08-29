@@ -20,7 +20,7 @@ import numpy as np
 import pandas as pd
 from tqdm import tqdm
 
-from holistic_bias.src.util import NO_PREFERENCE_DATA_STRING, NONE_STRING, RANDOM_SEED
+from src.util import NO_PREFERENCE_DATA_STRING, NONE_STRING, RANDOM_SEED
 
 
 class HolisticBiasSentenceGenerator:
@@ -58,7 +58,7 @@ class HolisticBiasSentenceGenerator:
 
     # Path to base dataset folder
     BASE_DATASET_FOLDER = os.path.join(
-        os.path.dirname(os.path.abspath(__file__)), "..", "dataset"
+        os.path.dirname(os.path.abspath(__file__)), ".."
     )
 
     @classmethod
