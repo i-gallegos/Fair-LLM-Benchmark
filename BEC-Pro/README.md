@@ -1,7 +1,7 @@
 # BEC-Pro
 
 Source: [Unmasking Contextual Stereotypes: Measuring and Mitigating BERT’s Gender Bias](https://aclanthology.org/2020.gebnlp-1.1)
-> arion Bartl, Malvina Nissim, and Albert Gatt
+>Marion Bartl, Malvina Nissim, and Albert Gatt
 
 Source dataset and documentation: https://github.com/marionbartl/gender-bias-BERT
 

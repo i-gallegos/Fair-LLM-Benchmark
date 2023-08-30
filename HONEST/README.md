@@ -45,7 +45,7 @@ Source dataset and documentation: https://github.com/MilaNLProc/honest
 
 ## About
 
-HONEST provides 420 sentences to measure negative gender stereotypes in sentence completions in English, Italian, French, Portuguese, Spanish, and Romanian. Each sentence follows a cloze-based form, with a gendered identity term in the prompt, that be can completed by prompting a free-text continuation.
+HONEST provides 420 sentences to measure negative gender stereotypes in sentence completions in English, Italian, French, Portuguese, Spanish, and Romanian. Each sentence follows a cloze-based form, with a gendered identity term in the prompt, that be can completed by prompting a free-text continuation or filling in the masked token.
 
 ## Data
 

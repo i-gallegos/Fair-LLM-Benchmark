@@ -1,6 +1,6 @@
 #  BUG
 
-Source: [A Large-Scale Gender Bias Dataset for Coreference Resolution and Machine Translation](https://aclanthology.org/2021.findings-emnlp.211)
+Source: [Collecting a Large-Scale Gender Bias Dataset for Coreference Resolution and Machine Translation](https://aclanthology.org/2021.findings-emnlp.211)
 >Shahar Levy, Koren Lazar, and Gabriel Stanovsky
 
 Source dataset and documentation: https://github.com/SLAB-NLP/BUG
