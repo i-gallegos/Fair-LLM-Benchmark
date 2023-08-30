@@ -1,7 +1,0 @@
-pandas
-openai
-seaborn
-matplotlib
-scipy
-numpy
-google-api-python-client
