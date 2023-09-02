@@ -1,5 +1,5 @@
-# A Survey of Bias Evaluation and Mitigation Techniques for Large Language Models
-> Isabel O. Gallegos, Ryan Rossi
+# Bias and Fairness in Large Language Models: A Survey
+> Isabel O. Gallegos, Ryan A. Rossi, Joe Barrow, Md Mehrab Tanjim, Sungchul Kim, Franck Dernoncourt, Tong Yu, Ruiyi Zhang, and Nesreen K. Ahmed
 
 To enable easy use of bias evaluation datasets, we compile publicly-available ones and provide access here. We provide links to the original data sources below. We do not modify any of the datasets, but do remove unrelated material from the original repositories. Please refer to the original works for more detailed documentation.
 
