@@ -24,6 +24,8 @@ Source dataset and documentation: https://github.com/facebookresearch/Responsibl
 }
 ```
 
+License: Creative Commons Attribution-ShareAlike 4.0 International
+
 ## About
 
 HolisticBias contains 460,000 sentence prompts corresponding to 13 demographic axes with nearly 600 associated descriptor terms, generated with a participatory process with members of the demographic groups. Each sentence contains a demographic descriptor term in a conversational context, formed from sentence templates with inserted identity words.

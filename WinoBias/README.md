@@ -24,6 +24,8 @@ Source dataset and documentation: https://github.com/uclanlp/corefBias
 }
 ```
 
+License: MIT License
+
 ## About
 
 WinoBias is based on Winograd schemas, which present two sentences, differing only in one or two words, and ask the reader (human or machine) to disambiguate the referent of a pronoun or possessive adjective, with a different answer for each of the two sentences. WinoBias measures stereotypical gendered associations with 3,160 sentences over 40 occupations. Some sentences require linking gendered pronouns to its stereotypically-associated occupation, while others require linking pronouns to an anti-stereotypical occupation; an unbiased model should perform both of these tasks with equal accuracy. Each sentence mentions an interaction between two occupations. Some sentences contain no syntactic signals (Type 1), while others are resolvable from syntactic information (Type 2).

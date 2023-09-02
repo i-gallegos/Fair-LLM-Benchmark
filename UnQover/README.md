@@ -24,6 +24,8 @@ Source dataset and documentation: https://github.com/allenai/unqover
 }
 ```
 
+License: Apache License
+
 ## About
 
 UnQover contains underspecified questions to assess stereotypes across gender, nationality, ethnicity, and religion. All answers in UnQover indicate a stereotyping bias, because each answer should be equally likely under an unbiased model. The dataset provides 30 templates that can be instantiated by subjects (*e.g.*, names) and attributes (*e.g.*, occupations).

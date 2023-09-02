@@ -30,6 +30,8 @@ Source dataset and documentation: https://github.com/amazon-science/bold
 }
 ```
 
+License: Creative Commons Attribution-ShareAlike 4.0 International
+
 ## About
 
 Bias in Open-Ended Language Generation Dataset (BOLD) provides web-based sentence prefixes related to profession, gender, race, religious ideologies, and political ideologies, such as: 

@@ -13,6 +13,8 @@ Source dataset and documentation: https://github.com/KlaraKrieg/GrepBiasIR
 }
 ```
 
+License: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+
 ## About
 
 Gender Representation-Bias for Information Retrieval (Grep-BiasIR) provides 118 gender-neutral search queries for document retrieval to assess gender representation bias. Instead of providing associated answers as done with question-answering, Grep-BiasIR pairs each query with a relevant and non-relevant document with feminine, masculine, and neutral variations, with 708 documents in total. A disproportional retrieval of either feminine or masculine documents illustrates bias.  

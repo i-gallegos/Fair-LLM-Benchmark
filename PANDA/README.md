@@ -25,6 +25,8 @@ Source dataset and documentation: https://github.com/facebookresearch/Responsibl
 }
 ```
 
+License: N/A; Copyright (c) Facebook, Inc. and its affiliates.
+
 ## About
 
 PANDA introduces a dataset of 98,583 text perturbations for gender, race/ethnicity, and age groups, with pairs of sentences with a demographic group changed but the semantic meaning preserved. PANDA includes annotations for the perturbed demographic words. Though originally proposed as a dataset for fine-tuning, the dataset can also be used to assess robustness to demographic perturbation, where a fair model produces two invariant outputs given an input sentence and its perturbation. 

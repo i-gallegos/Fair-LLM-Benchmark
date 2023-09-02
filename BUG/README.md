@@ -22,6 +22,8 @@ Source dataset and documentation: https://github.com/SLAB-NLP/BUG
 }
 ```
 
+License: MIT License
+
 ## About
 
 BUG provides more syntactically diverse coreference templates, containing 108,419 sentences to measure stereotypical gender role assignments. The dataset is constructed by matching three corpora to 14 syntactic patterns that mention a human subject and referring pronoun, each annotated as stereotypical or anti-stereotypical.

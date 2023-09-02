@@ -24,6 +24,8 @@ Source dataset and documentation: https://allenai.org/data/real-toxicity-prompts
 }
 ```
 
+License: Apache License
+
 ## About
 
 RealToxicityPrompts is one of the largest prompting datasets, providing 100,000 sentence prefixes curated from web text with a toxicity score by Perspective API, which can be used to measure the toxicity of generations given both toxic and non-toxic prompts. To create the dataset, a set of web-scraped sentences are scored for toxicity, and 25K sentences are sampled from each of four quartiles, then split into a prompt (used in the dataset) and a continuation.

@@ -19,8 +19,9 @@ Source dataset and documentation: https://github.com/marionbartl/gender-bias-BER
     url = "https://aclanthology.org/2020.gebnlp-1.1",
     pages = "1--16"
 }
-
 ```
+
+License: Creative Commons Attribution 4.0 International
 
 ## About
 

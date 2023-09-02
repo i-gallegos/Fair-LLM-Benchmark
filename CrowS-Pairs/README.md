@@ -20,6 +20,8 @@ Source dataset and documentation: https://github.com/nyu-mll/crows-pairs/
 }
 ```
 
+License: Creative Commons Attribution-ShareAlike 4.0 International License
+
 ## About
 CrowS-Pairs provides 1,508 sentence pairs to evaluate stereotypes of historically disadvantaged demographic groups. Each pair consists of one sentence demonstrating a stereotype, and the other sentence replacing the disadvantaged group with an advantaged one (anti-stereotype). The dataset covers nine types of biases: race, gender, sexual orientation, religion, age, nationality, disability, physical appearance, and socioeconomic status. For example:
 

@@ -23,6 +23,8 @@ Source dataset and documentation: https://github.com/google-research-datasets/ga
 }
 ```
 
+License: Apache License
+
 ## About
 
 GAP introduces 8,908 ambiguous pronoun-name pairs for coreference resolution to measure gender bias. To represent more realistic use cases, this dataset is derived from Wikipedia. Not all examples follow Winograd schemas, but they all contain two names of the same gender and an ambiguous pronoun. The dataset contains an equal number of masculine and feminine instances.

@@ -22,6 +22,8 @@ Source dataset and documentation: https://github.com/vnmssnhv/NeuTralRewriter
 }
 ```
 
+License: Creative Commons Attribution-ShareAlike 4.0 International
+
 ##  About
 
 WinoBias+ is based on Winograd schemas, which present two sentences, differing only in one or two words, and ask the reader (human or machine) to disambiguate the referent of a pronoun or possessive adjective, with a different answer for each of the two sentences. WinoBias+ augments the [WinoBias](https://aclanthology.org/N18-2003/) dataset with gender-neutral alternatives, with 3,167 total instances.

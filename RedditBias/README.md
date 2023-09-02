@@ -23,6 +23,8 @@ Source dataset and documentation: https://github.com/umanlp/RedditBias
 }
 ```
 
+License: MIT License
+
 ## About
 
 RedditBias introduces a conversational dataset generated from Reddit conversations to assess stereotypes between dominant and minoritized groups along the dimensions of gender, race, religion, and queerness. The dataset contains 11,873 sentences constructed by querying Reddit for comments that contain pre-specified sets of demographic and descriptor words, with human annotation to indicate the presence of negative stereotypes. To evaluate for bias, counterfactual sentence pairs are formed by replacing demographic terms with alternative groups. 

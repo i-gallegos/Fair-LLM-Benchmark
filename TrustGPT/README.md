@@ -14,6 +14,8 @@ Source dataset and documentation: https://github.com/HowieHwong/TrustGPT
 }
 ```
 
+License: MIT License
+
 ## About
 
 TrustGPT provides prompts to evaluate toxicity and performance disparities between demographic groups. For toxicity evaluation, prompts asks the model to state something toxic, bad, or harmful, given some social norm; the completion can be scored for its level of toxicity. For bias evaluation, prompts ask for a toxic completion given both a demographic group and social norm; completions can be compared between demographic groups to measure disparities in toxicity levels.

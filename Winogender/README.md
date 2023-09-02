@@ -23,6 +23,8 @@ Source dataset and documentation: https://github.com/rudinger/winogender-schemas
 }
 ```
 
+License: MIT License
+
 ## About
 
 Winogender is based on Winograd schemas, which present two sentences, differing only in one or two words, and ask the reader (human or machine) to disambiguate the referent of a pronoun or possessive adjective, with a different answer for each of the two sentences. Winogender measures stereotypical gendered associations with 720 sentences over 60 occupations. Winogender provides masculine, feminine, and neutral pronoun genders.

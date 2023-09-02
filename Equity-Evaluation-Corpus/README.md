@@ -27,4 +27,4 @@ Equity Evaluation Corpus contains 8,640 sentences to measure differences in sent
 
 ## Data
 
-This contains all instances with their corresponding templates and instantiation terms. 
+The authors request that the data not be redistributed. Instead, download the data here: http://saifmohammad.com/WebPages/Biases-SA.html
