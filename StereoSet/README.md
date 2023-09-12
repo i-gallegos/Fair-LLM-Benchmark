@@ -1,6 +1,6 @@
 # StereoSet
 
-[StereoSet: Measuring stereotypical bias in pretrained language models](https://aclanthology.org/2021.acl-long.416/)
+Source: [StereoSet: Measuring stereotypical bias in pretrained language models](https://aclanthology.org/2021.acl-long.416/)
 >Moin Nadeem, Anna Bethke, and Siva Reddy
 
 Source dataset and documentation: https://github.com/McGill-NLP/bias-bench, https://github.com/moinnadeem/stereoset

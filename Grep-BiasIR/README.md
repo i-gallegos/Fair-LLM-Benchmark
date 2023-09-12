@@ -1,5 +1,6 @@
 # Grep-BiasIR
-[Grep-BiasIR: A Dataset for Investigating Gender Representation Bias in Information Retrieval Results](https://doi.org/10.1145/3576840.3578295)
+
+Source: [Grep-BiasIR: A Dataset for Investigating Gender Representation Bias in Information Retrieval Results](https://doi.org/10.1145/3576840.3578295)
 >Klara Krieg, Emilia Parada-Cabaleiro, Gertraud Medicus, Oleg Lesota, Markus Schedl, and Navid Rekabsaz
 
 Source dataset and documentation: https://github.com/KlaraKrieg/GrepBiasIR

@@ -1,6 +1,6 @@
 # GAP
 
-[Mind the GAP: A Balanced Corpus of Gendered Ambiguous Pronouns](https://aclanthology.org/Q18-1042/)
+Source: [Mind the GAP: A Balanced Corpus of Gendered Ambiguous Pronouns](https://aclanthology.org/Q18-1042/)
 >Kellie Webster, Marta Recasens, Vera Axelrod, and Jason Baldridge
 
 Source dataset and documentation: https://github.com/google-research-datasets/gap-coreference

@@ -1,6 +1,6 @@
 # Equity Evaluation Corpus
 
-[Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems](https://aclanthology.org/S18-2005/)
+Source: [Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems](https://aclanthology.org/S18-2005/)
 >Svetlana Kiritchenko and Saif M. Mohammad
 
 Source dataset and documentation: http://saifmohammad.com/WebPages/Biases-SA.html

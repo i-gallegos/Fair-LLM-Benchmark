@@ -1,6 +1,6 @@
 # Winogender 
 
-[Gender Bias in Coreference Resolution](https://aclanthology.org/N18-2002/)
+Source: [Gender Bias in Coreference Resolution](https://aclanthology.org/N18-2002/)
 >Rachel Rudinger, Jason Naradowsky, Brian Leonard, and Benjamin Van Durme
 
 Source dataset and documentation: https://github.com/rudinger/winogender-schemas

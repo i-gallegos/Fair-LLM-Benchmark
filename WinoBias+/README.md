@@ -1,6 +1,6 @@
 # WinoBias+
 
-[NeuTral Rewriter: A Rule-Based and Neural Approach to Automatic Rewriting into Gender Neutral Alternatives](https://aclanthology.org/2021.emnlp-main.704/)
+Source: [NeuTral Rewriter: A Rule-Based and Neural Approach to Automatic Rewriting into Gender Neutral Alternatives](https://aclanthology.org/2021.emnlp-main.704/)
 >Eva Vanmassenhove, Chris Emmery, and Dimitar Shterionov
 
 Source dataset and documentation: https://github.com/vnmssnhv/NeuTralRewriter

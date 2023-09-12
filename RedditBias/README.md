@@ -1,6 +1,6 @@
 # RedditBias
 
-[RedditBias: A Real-World Resource for Bias Evaluation and Debiasing of Conversational Language Models](https://aclanthology.org/2021.acl-long.151/)
+Source: [RedditBias: A Real-World Resource for Bias Evaluation and Debiasing of Conversational Language Models](https://aclanthology.org/2021.acl-long.151/)
 >Soumya Barikeri, Anne Lauscher, Ivan Vulić, and Goran Glavaš
 
 Source dataset and documentation: https://github.com/umanlp/RedditBias

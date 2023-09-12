@@ -1,6 +1,6 @@
 # RealToxicityPrompts
 
-[RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models](https://aclanthology.org/2020.findings-emnlp.301/)
+Source: [RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models](https://aclanthology.org/2020.findings-emnlp.301/)
 >Samuel Gehman, Suchin Gururangan, Maarten Sap, Yejin Choi, and Noah A. Smith
 
 Source dataset and documentation: https://allenai.org/data/real-toxicity-prompts

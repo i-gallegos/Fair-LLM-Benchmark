@@ -1,6 +1,6 @@
 # WinoQueer
 
-[WinoQueer: A Community-in-the-Loop Benchmark for Anti-LGBTQ+ Bias in Large Language Models](https://aclanthology.org/2023.acl-long.507/)
+Source: [WinoQueer: A Community-in-the-Loop Benchmark for Anti-LGBTQ+ Bias in Large Language Models](https://aclanthology.org/2023.acl-long.507/)
 >Virginia Felkner, Ho-Chun Herbert Chang, Eugene Jang, Jonathan May
 
 Source dataset and documentation: https://github.com/katyfelkner/winoqueer

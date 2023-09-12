@@ -1,6 +1,6 @@
 # PANDA
 
-[Perturbation Augmentation for Fairer NLP](https://aclanthology.org/2022.emnlp-main.646/)
+Source: [Perturbation Augmentation for Fairer NLP](https://aclanthology.org/2022.emnlp-main.646/)
 >Rebecca Qian, Candace Ross, Jude Fernandes, Eric Michael Smith, Douwe Kiela, and Adina Williams
 
 Source dataset and documentation: https://github.com/facebookresearch/ResponsibleNLP

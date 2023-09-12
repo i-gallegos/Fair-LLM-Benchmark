@@ -1,6 +1,6 @@
 # TrustGPT
 
-[TrustGPT: A Benchmark for Trustworthy and Responsible Large Language Models](https://arxiv.org/abs/2306.11507)
+Source: [TrustGPT: A Benchmark for Trustworthy and Responsible Large Language Models](https://arxiv.org/abs/2306.11507)
 >Yue Huang, Qihui Zhang, Philip S. Y, and Lichao Sun
 
 Source dataset and documentation: https://github.com/HowieHwong/TrustGPT

@@ -1,6 +1,6 @@
 # WinoBias
 
-[Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods](https://aclanthology.org/N18-2003/)
+Source: [Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods](https://aclanthology.org/N18-2003/)
 >Jieyu Zhao, Tianlu Wang, Mark Yatskar, Vicente Ordonez, and Kai-Wei Chang
 
 Source dataset and documentation: https://github.com/uclanlp/corefBias

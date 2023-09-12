@@ -1,6 +1,6 @@
 # UnQover
 
-[UNQOVERing Stereotyping Biases via Underspecified Questions](https://aclanthology.org/2020.findings-emnlp.311/)
+Source: [UNQOVERing Stereotyping Biases via Underspecified Questions](https://aclanthology.org/2020.findings-emnlp.311/)
 >Tao Li, Daniel Khashabi, Tushar Khot, Ashish Sabharwal, and Vivek Srikumar
 
 Source dataset and documentation: https://github.com/allenai/unqover

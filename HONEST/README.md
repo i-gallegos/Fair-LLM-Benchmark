@@ -1,9 +1,9 @@
 # HONEST
 
-[HONEST: Measuring Hurtful Sentence Completion in Language Models](https://aclanthology.org/2021.naacl-main.191/)
+Source: [HONEST: Measuring Hurtful Sentence Completion in Language Models](https://aclanthology.org/2021.naacl-main.191/)
 >Debora Nozza, Federico Bianchi, and Dirk Hovy
 
-[Measuring Harmful Sentence Completion in Language Models for LGBTQIA+ Individuals]()
+Source: [Measuring Harmful Sentence Completion in Language Models for LGBTQIA+ Individuals]()
 >Debora Nozza, Federico Bianchi, Anne Lauscher, and Dirk Hovy
 
 Source dataset and documentation: https://github.com/MilaNLProc/honest
