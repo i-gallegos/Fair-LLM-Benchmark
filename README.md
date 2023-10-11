@@ -1,5 +1,6 @@
 # Bias and Fairness in Large Language Models: A Survey
-> Isabel O. Gallegos, Ryan A. Rossi, Joe Barrow, Md Mehrab Tanjim, Sungchul Kim, Franck Dernoncourt, Tong Yu, Ruiyi Zhang, and Nesreen K. Ahmed
+
+Paper: *Isabel O. Gallegos, Ryan A. Rossi, Joe Barrow, Md Mehrab Tanjim, Sungchul Kim, Franck Dernoncourt, Tong Yu, Ruiyi Zhang, and Nesreen K. Ahmed. [Bias and Fairness in Large Language Models: A Survey.](https://arxiv.org/pdf/2309.00770.pdf). arXiv preprint arXiv:2309.00770 (2023).*
 
 Pre-print: https://arxiv.org/abs/2309.00770
 
